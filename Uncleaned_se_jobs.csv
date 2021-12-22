@@ -1,0 +1,842 @@
+index,job_title,salary_estimate,Rating,company_name,Location,Size,founded,industry,sector,revenue,type_of_ownership
+0,Software Engineer II - NodeJS,$59K - $120K (Glassdoor est.),3.2,"7-Eleven, Inc.","Irving, TX",10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+1,"Manager, Software Engineer",$69K - $134K (Glassdoor est.),3.2,"7-Eleven, Inc.","Irving, TX",10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+2,Software Integration Engineer,$120K - $160K (Employer est.),3.6,DCI Solutions,"Hanover, MD",10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+3,Sr. Software Engineer,$115K - $140K (Employer est.),2.8,"The GEO Group, Inc.",Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+4,Senior Software Engineer,$90K - $150K (Employer est.),-1,Expedition Co.,,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+5,"Senior Software Engineer, Backend",-1,4.1,Sketchy Group LLC,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+6,Software Engineer,$81K - $127K (Glassdoor est.),4.3,Applied Information Sciences,"Reston, VA",10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+7,Java Software Engineer,$97K - $108K (Employer est.),-1,Reyk Tech Inc.,"New York, NY",10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+8,Software Engineer (U.S. CITIZENS ONLY),$130K - $150K (Employer est.),-1,"DataHaven Solutions, Inc","Linthicum Heights, MD",10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+9,"Senior Software Engineer (Backend) - Remote, US & Canada",$84K - $160K (Glassdoor est.),4.3,Autodesk,"Portland, OR",10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+10,Software Engineer,$99K - $188K (Employer est.),-1,"Tableau Software, LLC","Seattle, WA",10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+11,Senior C++ Software Engineer- Remote Opportunity (US Only),-1,4.5,Wolverine Trading,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+12,Software Engineer,$65K - $95K (Employer est.),3.4,Berkley Technology Services,"Urbandale, IA",10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+13,Software Engineer,$120K (Employer est.),-1,"Medicom Technologies, Inc.",Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+14,Sr. Software Development Engineer (Salary-Paid Weekly),$90K - $107K (Employer est.),3.3,American Furniture Warehouse,"Englewood, CO",10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+15,Software Engineer,$65K - $157K (Employer est.),-1,Code Corporation,"Acton, MA",10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+16,Senior Software Engineer UI/WPF/C#,$147K - $195K (Employer est.),-1,Noah Medical,"San Carlos, CA",10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+17,Software Engineer ( Senior - Level),$75K - $95K (Employer est.),4.0,"Powur, PBC",Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+18,Sr. Software Engineer (Remote),-1,4.4,CentralReach,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+19,"Software Engineer (JCL, COBOL, SQL )",$63K - $136K (Glassdoor est.),3.8,Larsen & Toubro Infotech Limited,"Hartford, CT",10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+20,Software Verification & Validation Engineer 1,$62K - $106K (Glassdoor est.),3.9,Hologic,"San Diego, CA",10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+21,"Junior Software Developer, Web Applications",$60K - $116K (Glassdoor est.),3.3,STRATACACHE,"Dayton, OH",10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+22,Senior Software Engineer,$97K - $140K (Employer est.),-1,"240 Tutoring, Inc.",Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+23,Software Engineer,$90K - $150K (Employer est.),-1,"NovoDynamics, Inc.","Detroit, MI",10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+24,Software Engineer,$140K - $170K (Employer est.),3.6,DCI Solutions,"Herndon, VA",10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+25,Software Engineer - All Levels,$59K - $115K (Glassdoor est.),4.7,"Ironclad, Inc.","Indianapolis, IN",10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+26,Senior Software Engineer,$140K - $165K (Employer est.),-1,Dwell,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+27,Senior Software Engineer (Remote),$175K - $200K (Employer est.),-1,VinoShipper,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+28,Software Engineer,-1,-1,"Intelon Optics, Inc.","Lexington, MA",10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+29,Software Engineer II,$90K (Employer est.),-1,Technical Systems Inc,"Lynnwood, WA",10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+30,"Software Engineer I, II, III, or Senior",$66K - $126K (Glassdoor est.),3.8,Alaska USA Federal Credit Union,"Renton, WA",10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+31,Sr. Software Engineer,-1,-1,"Merriam-Webster, Inc.",Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+32,"Solutions Engineer, Software",-1,3.8,Liberty Mutual Insurance,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+33,Senior Software Engineer,$120K - $160K (Employer est.),-1,"Prime Trust, LLC",Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+34,Software Engineer,$78K - $125K (Employer est.),-1,Clear C2,"Coppell, TX",10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+35,Software Engineer,-1,-1,"EchoNous, Inc","Redmond, WA",10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+36,Software Engineer,$90K - $125K (Employer est.),-1,Astrin Biosciences,"Saint Paul, MN",10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+37,Sr Software Engineer,$105K - $169K (Glassdoor est.),4.4,ServiceNow,"Kirkland, WA",10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+38,"Senior Software Engineer, Maitland, FL",-1,-1,Brook Consultants Inc,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+39,Software Engineer,$115K - $135K (Employer est.),-1,Leaf Trade,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+40,Associate Software Engineer (Remote),$63K - $103K (Glassdoor est.),3.7,Epsilon,"Irving, TX",10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+41,Senior Software Engineer,$80K - $150K (Employer est.),-1,Doradus Labs,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+42,Software Engineer,$100K - $100K (Employer est.),4.1,Selby Jennings,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+43,Software Engineer,$130K (Employer est.),-1,Bravely,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+44,Software Engineer (Remote),$80K (Employer est.),3.4,OSMOSE UTILITIES SERVICES INC,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+45,Senior Software Engineer,$140K - $160K (Employer est.),-1,Leaf Trade,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+46,Senior Software Engineer,$120K - $150K (Employer est.),-1,Retail Benefits,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+47,(Software) Product Engineer,-1,-1,"Verinovum, Inc.",Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+48,Software Development Manager - IBM i (AS/400),$85K - $125K (Employer est.),-1,DMS Systems Corp.,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+49,Senior Software Engineer,$110K - $150K (Employer est.),4.1,OBMedia,"Chicago, IL",10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+50,2022 Software Engineer,$98K - $211K (Glassdoor est.),4.1,Bloomberg,"New York, NY",10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+51,Senior Software Engineer,$150K (Employer est.),3.8,All Web Leads,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+52,Senior Software Engineer,$90K - $140K (Employer est.),-1,OPTX,Nevada,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+53,Senior Lead Software Engineer,$125K - $140K (Employer est.),4.8,American LegalNet,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+54,Software Engineer,$140K - $204K (Employer est.),4.3,Indeed,"Sunnyvale, CA",10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+55,Software Engineer,$60K - $128K (Glassdoor est.),3.9,"Tyler Technologies, Inc.","Lubbock, TX",10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+56,Software Engineer,$60K - $106K (Glassdoor est.),3.7,Horizontal Talent,"Saint Paul, MN",10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+57,Senior Software Engineer,$110K - $140K (Employer est.),3.7,New Visions for Public Schools,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+58,Software Development Engineer - Sitecore,-1,3.4,Select Specialty Hospital,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+59,Senior Software Engineer,$140K (Employer est.),2.2,QuickBox Fulfillment,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+60,"Software Engineer I, II, III, or Senior",$51K - $105K (Glassdoor est.),3.8,Alaska USA Federal Credit Union,"Anchorage, AK",10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+61,Senior Software Engineer,$120K - $160K (Employer est.),-1,"Prime Trust, LLC",Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+62,Software Engineer,$78K - $125K (Employer est.),-1,Clear C2,"Coppell, TX",10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+63,Senior Software Engineer,$110K - $150K (Employer est.),4.1,OBMedia,"Ithaca, NY",10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+64,Associate Software Engineer (Remote),$63K - $103K (Glassdoor est.),3.7,,"Irving, TX",10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+65,Senior Software Engineer,$81K - $137K (Glassdoor est.),3.9,"Tyler Technologies, Inc.","Yarmouth, ME",10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+66,Software Developer,$64K - $130K (Glassdoor est.),3.9,"Tyler Technologies, Inc.","Lubbock, TX",10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+67,React Focused Software Engineer,$165K (Employer est.),4.8,Strategic Employment Partners,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+68,Front End Software Engineer,-1,-1,"Encyclopaedia Britannica, Inc.",Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+69,Engineer I - Drake Software,-1,-1,Confidential,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+70,Software Engineer,$109K - $159K (Employer est.),4.3,Indeed,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+71,Software Engineer,$68K - $114K (Employer est.),4.2,ManTech International Corporation,"Chambersburg, PA",10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+72,Software Engineer - Nationwide,-1,-1,"Sun West Mortgage Company, Inc.",Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+73,Software Engineer 3,$125K (Employer est.),3.4,Homecare Homebase,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+74,Software Engineer,$80K - $115K (Employer est.),-1,Hospice Tools,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+75,Sr. Software Engineer - Permanent Remote,-1,4.3,Xero,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+76,Sr. Software Engineer,$110K - $135K (Employer est.),3.6,Les Schwab,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+77,Software Engineer - Remote,-1,4.6,"Medisolv, Inc.",Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+78,Embedded Software Engineer,-1,3.9,Oculus,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+79,Senior Software Engineer,$109K - $159K (Employer est.),4.3,Indeed,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+80,Software Engineer,-1,-1,"Aperia Technologies, Inc",Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+81,Software Engineer (.NET),-1,4.2,AVB,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+82,Full Stack Software Engineer (remote),$132K - $192K (Employer est.),4.3,Indeed,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+83,Software Engineer,$80K - $150K (Employer est.),-1,TrapWire Inc.,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+84,Experienced Software Developer/Engineer,-1,4.7,"Counterpointe Solutions, Inc.",North Carolina,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+85,Software Engineer (2 years exp. req.).),$74K - $124K (Employer est.),-1,Osprey Software Development,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+86,Lead Software Engineer,$150K - $190K (Employer est.),4.3,SoundExchange,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+87,Senior Software Engineer,$140K (Employer est.),3.4,Homecare Homebase,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+88,R0017329 Software Engineer,-1,2.9,"Epiq Systems, Inc.",Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+89,"Software Engineer, TikTok Frontend",$95K - $193K (Employer est.),3.6,TikTok,"Mountain View, CA",10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+90,"Software Engineer I, II, III, or Senior",$51K - $105K (Glassdoor est.),3.8,Alaska USA Federal Credit Union,"Anchorage, AK",10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+91,Senior Software Engineer I,-1,4.2,FINALSITE,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+92,Senior Software Engineer,$120K - $160K (Employer est.),-1,"Prime Trust, LLC",Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+93,Senior Software Engineer,$120K - $150K (Employer est.),-1,Retail Benefits,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+94,"MTS 2, Software Engineer",$88K - $152K (Glassdoor est.),4.1,,"Scottsdale, AZ",10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+95,Software Engineer,$70K - $80K (Employer est.),3.6,CarSaver,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+96,Software Developer,$64K - $130K (Glassdoor est.),3.9,"Tyler Technologies, Inc.","Lubbock, TX",10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+97,Associate Software Engineer,$65K - $114K (Glassdoor est.),3.7,Epsilon,"New York, NY",10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+98,React Focused Software Engineer,$165K (Employer est.),4.8,Strategic Employment Partners,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+99,Engineer I - Drake Software,-1,-1,Confidential,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+100,Embedded Software Engineer,-1,-1,Facebook App,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+101,Software Engineer 3,$125K (Employer est.),3.4,Homecare Homebase,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+102,Software Engineer,$65K - $109K (Glassdoor est.),3.7,Ecolab,"Saint Paul, MN",10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+103,Software Engineer,$109K - $159K (Employer est.),4.3,Indeed,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+104,Software Engineer (2 years exp. req.).),$74K - $124K (Employer est.),-1,Osprey Software Development,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+105,Sr. Software Engineer,$110K - $135K (Employer est.),3.6,Les Schwab,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+106,Software Engineer I,-1,-1,Confidential,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+107,Senior Software Engineer,$109K - $159K (Employer est.),4.3,Indeed,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+108,Senior Software Engineer,$140K (Employer est.),3.4,Homecare Homebase,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+109,Software Engineer,-1,-1,"Aperia Technologies, Inc",Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+110,Software Engineer (Mid-Level),$75K - $95K (Employer est.),4.0,"Powur, PBC",Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+111,Software Engineer,$75K - $126K (Glassdoor est.),4.4,Intuitive,"Raleigh, NC",10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+112,Software Engineer,$68K - $114K (Employer est.),4.2,ManTech International Corporation,"Chambersburg, PA",10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+113,Full Stack Software Engineer (remote),$132K - $192K (Employer est.),4.3,Indeed,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+114,Software Engineer I - Work from home (Remote/Nationwide),$31K - $75K (Glassdoor est.),3.2,"CONNECT, powered by American Family Insurance","De Pere, WI",10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+115,Principal Software Engineer,$106K - $216K (Glassdoor est.),3.8,BP,"Houston, TX",10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+116,Software Engineer,$80K - $150K (Employer est.),-1,TrapWire Inc.,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+117,Software Engineer,$100K - $100K (Employer est.),4.1,Selby Jennings,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+118,Software Engineer II or Sr. Software Engineer,$80K - $160K (Employer est.),-1,"GivePulse, Inc.",Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+119,Sr. Software Engineer - Permanent Remote,-1,4.3,Xero,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+120,"Software Engineer I, II, III, or Senior",$51K - $105K (Glassdoor est.),3.8,Alaska USA Federal Credit Union,"Anchorage, AK",10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+121,"MTS 2, Software Engineer",$88K - $152K (Glassdoor est.),4.1,PayPal,"Scottsdale, AZ",10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+122,Software Developer,$64K - $130K (Glassdoor est.),3.9,"Tyler Technologies, Inc.","Lubbock, TX",10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+123,Software Engineer,$85K - $113K (Employer est.),3.5,National Security Agency,"Fort Meade, MD",10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+124,Embedded Software Engineer,-1,-1,Facebook App,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+125,PHP Developer,$165K (Employer est.),-1,Revint Solutions,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+126,Principal Software Engineer,$106K - $216K (Glassdoor est.),3.8,BP,"Houston, TX",10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+127,Software Engineer,$109K - $159K (Employer est.),4.3,Indeed,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+128,Software Engineer,-1,-1,"Aperia Technologies, Inc",Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+129,Software Engineer (Mid-Level),$75K - $95K (Employer est.),4.0,"Powur, PBC",Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+130,Full Stack Software Engineer (remote),$132K - $192K (Employer est.),4.3,Indeed,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+131,Software Engineer I,-1,-1,Confidential,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+132,React Focused Software Engineer,$165K (Employer est.),4.8,Strategic Employment Partners,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+133,Sr. Software Engineer,$110K - $135K (Employer est.),3.6,Les Schwab,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+134,Software Engineer,$80K - $150K (Employer est.),-1,TrapWire Inc.,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+135,Senior Software Engineer,$109K - $159K (Employer est.),4.3,Indeed,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+136,Principal Software Engineer,$167K - $243K (Employer est.),4.3,Indeed,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+137,Software Developer,$76K - $120K (Glassdoor est.),3.1,Gensco,"Fife, WA",10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+138,Frontend Staff Software Engineer,$159K - $231K (Employer est.),4.3,Indeed,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+139,Software Engineer (JavaScript / Node / AWS) - Remote,$85K - $130K (Employer est.),4.0,Mutual of Omaha,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+140,Lead Web Developer,$105K (Employer est.),3.1,Education Dynamics Llc,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+141,Sr. Software Engineer - Permanent Remote,-1,4.3,Xero,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+142,Software Engineer II,$87 Per Hour(Employer est.),3.4,eQuest for CTG MAIN (Southeast),Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+143,Software Engineer,$68K - $114K (Employer est.),4.2,ManTech International Corporation,"Chambersburg, PA",10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+144,"Software Engineer II (Frontend), Money",-1,4.0,Uber,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+145,"Software Engineer, TikTok Frontend",$95K - $193K (Employer est.),3.6,TikTok,"Mountain View, CA",10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+146,R0017329 Software Engineer,-1,2.9,"Epiq Systems, Inc.",Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+147,PHP Engineer,$80 - $90 Per Hour(Employer est.),-1,Venturi Group,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+148,Software Engineer,$78K - $120K (Employer est.),3.8,Liberty Mutual Insurance,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+149,Software Engineer,$130K - $180K (Employer est.),4.6,Flux Resources,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+150,"Software Engineer I, II, III, or Senior",$51K - $105K (Glassdoor est.),3.8,Alaska USA Federal Credit Union,"Anchorage, AK",10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+151,Software Engineer,$85K - $113K (Employer est.),3.5,National Security Agency,"Fort Meade, MD",10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+152,Software Engineer,-1,3.9,"Tyler Technologies, Inc.",Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+153,Sr. Software Engineer - Permanent Remote,-1,4.3,Xero,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+154,,-1,-1,Confidential,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+155,Software Engineer,$109K - $159K (Employer est.),4.3,Indeed,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+156,Software Engineer,$78K - $120K (Employer est.),3.8,Liberty Mutual Insurance,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+157,Full Stack Software Engineer (remote),$132K - $192K (Employer est.),4.3,Indeed,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+158,"Software Engineer II (Frontend), Money",-1,4.0,Uber,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+159,Principal Software Engineer,$167K - $243K (Employer est.),4.3,Indeed,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+160,Software Engineer II,$87 Per Hour(Employer est.),3.4,eQuest for CTG MAIN (Southeast),Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+161,R0017329 Software Engineer,-1,2.9,"Epiq Systems, Inc.",Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+162,Software Engineer,$130K - $180K (Employer est.),4.6,Flux Resources,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+163,Senior Software Engineer,$134K - $203K (Employer est.),5.0,Underdog.io,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+164,Frontend Staff Software Engineer,$159K - $231K (Employer est.),4.3,Indeed,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+165,"Software Engineer, TikTok Frontend",$95K - $193K (Employer est.),3.6,TikTok,"Mountain View, CA",10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+166,Software Engineer (Remote Available),$124K (Employer est.),4.0,Uber,"Louisville, CO",10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+167,Senior Software Engineer,$97K - $140K (Employer est.),3.8,Liberty Mutual Insurance,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+168,Staff Software Engineer,$87K - $164K (Glassdoor est.),3.8,BP,"Lake Jackson, TX",10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+169,Software Engineer - Online Classroom,$110K (Employer est.),3.9,The Princeton Review,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+170,Sr. Software Engineer,$88K - $167K (Glassdoor est.),3.7,Dow Jones,"Minneapolis, MN",10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+171,Senior Software Engineer,-1,4.1,"RoadRunner Recycling, Inc.",Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+172,Software Engineer - Nationwide,-1,-1,"Sun West Mortgage Company, Inc.",Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+173,Software Engineer,$100K - $100K (Employer est.),4.1,Selby Jennings,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+174,"Software Integrity Engineer, Bluetooth",-1,4.3,Apple,"San Diego, CA",10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+175,Configuration Engineer,$78K - $127K (Employer est.),3.8,Liberty Mutual Insurance,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+176,Software Engineer,-1,4.5,Internal Data Resources,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+177,"2022266 Software Engineer $215,000.00",$215K (Employer est.),5.0,B4CORP,"Herndon, VA",10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+178,Backend Software Engineer - MX,$130K - $180K (Employer est.),-1,MX,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+179,Software Engineer,-1,4.0,ADP,"Roseland, NJ",10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+180,"Software Engineer I, II, III, or Senior",$51K - $105K (Glassdoor est.),3.8,Alaska USA Federal Credit Union,"Anchorage, AK",10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+181,Sr. Software Engineer (Remote),-1,4.4,CentralReach,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+182,Sr. Software Engineer,$115K - $140K (Employer est.),2.8,"The GEO Group, Inc.",Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+183,Software Engineer,$90K - $150K (Employer est.),-1,"NovoDynamics, Inc.","Detroit, MI",10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+184,Software Engineer/PHP developer,$115K - $125K (Employer est.),3.8,Connecttel Inc.,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+185,Software Engineer,$115K - $135K (Employer est.),-1,Leaf Trade,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+186,Software Design Engineer 2 [MP2487],-1,4.3,"Akvelon, Inc.",Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+187,Senior Software Engineer,$80K - $150K (Employer est.),-1,Doradus Labs,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+188,Systems/Software Engineer - SaaS - Remote,$90K - $150K (Employer est.),4.0,Mutual of Omaha,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+189,Software Engineer,$110K (Employer est.),-1,ABOUT Healthcare,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+190,Software Engineer,$130K (Employer est.),-1,Bravely,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+191,Software Engineer – Backend,$77K - $168K (Glassdoor est.),4.1,PayPal,"Scottsdale, AZ",10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+192,Software Engineer (Remote),$80K (Employer est.),3.4,OSMOSE UTILITIES SERVICES INC,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+193,Senior Software Engineer,$110K - $140K (Employer est.),3.7,New Visions for Public Schools,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+194,Software Design Engineer 1 - REMOTE,$84K - $151K (Glassdoor est.),3.9,eXcell,"Redmond, WA",10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+195,2022 Software Engineer,$98K - $211K (Glassdoor est.),4.1,Bloomberg,"New York, NY",10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+196,Senior Software Engineer,$110K - $150K (Employer est.),4.1,OBMedia,"Chicago, IL",10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+197,Software Engineer,$85K - $113K (Employer est.),3.5,National Security Agency,"Fort Meade, MD",10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+198,C# or C++ Software Developer - Junior to Mid Level Software Engineer,$80K - $100K (Employer est.),-1,Strategic Employment Partners,"Windsor, CO",10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+199,Software Engineer,-1,3.9,"Tyler Technologies, Inc.",Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+200,Front End Software Engineer,-1,-1,"Encyclopaedia Britannica, Inc.",Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+201,Software Engineer - Remote,-1,4.6,"Medisolv, Inc.",Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+202,Software Engineer,$80K - $105K (Employer est.),4.6,Creative Financial Staffing,"West Hartford, CT",10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+203,Engineer I - Drake Software,-1,-1,Confidential,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+204,Sr. Software Engineer - Permanent Remote,-1,4.3,Xero,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+205,Software Engineer 3,$125K (Employer est.),3.4,Homecare Homebase,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+206,Embedded Software Engineer,-1,-1,Facebook App,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+207,Junior Mobile Engineer,$105K (Employer est.),-1,iNGAGED,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+208,Hardware/Software Design Engineer,$85K - $113K (Employer est.),3.5,National Security Agency,"Fort Meade, MD",10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+209,Software Engineer,$65K - $109K (Glassdoor est.),3.7,Ecolab,"Saint Paul, MN",10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+210,"Software Engineer I, II, III, or Senior",$66K - $126K (Glassdoor est.),3.8,Alaska USA Federal Credit Union,"Renton, WA",10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+211,Sr. Software Engineer (Remote),-1,4.4,CentralReach,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+212,Sr. Software Engineer,$115K - $140K (Employer est.),2.8,"The GEO Group, Inc.",Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+213,Software Engineer,$120K (Employer est.),-1,"Medicom Technologies, Inc.",Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+214,Software Engineer IV,-1,3.6,Astreya,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+215,Senior Software Engineer,$97K - $140K (Employer est.),-1,"240 Tutoring, Inc.",Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+216,Senior Software Engineer,$120K - $150K (Employer est.),-1,Retail Benefits,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+217,Software Engineer,$90K - $150K (Employer est.),-1,"NovoDynamics, Inc.","Detroit, MI",10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+218,Software Engineer,$115K - $135K (Employer est.),-1,Leaf Trade,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+219,Software Engineer/PHP developer,$115K - $125K (Employer est.),3.8,Connecttel Inc.,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+220,Senior Software Engineer,$80K - $150K (Employer est.),-1,Doradus Labs,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+221,Software Engineer – Backend,$77K - $168K (Glassdoor est.),4.1,PayPal,"Scottsdale, AZ",10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+222,Software Engineer,$110K (Employer est.),-1,ABOUT Healthcare,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+223,Software Engineer,$130K (Employer est.),-1,Bravely,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+224,Systems/Software Engineer - SaaS - Remote,$90K - $150K (Employer est.),4.0,Mutual of Omaha,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+225,Software Engineer (Remote),$80K (Employer est.),3.4,OSMOSE UTILITIES SERVICES INC,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+226,Senior Software Engineer,$81K - $137K (Glassdoor est.),3.9,"Tyler Technologies, Inc.","Yarmouth, ME",10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+227,Senior Software Engineer,$110K - $140K (Employer est.),3.7,New Visions for Public Schools,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+228,Software Design Engineer 1 - REMOTE,$84K - $151K (Glassdoor est.),3.9,eXcell,"Redmond, WA",10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+229,2022 Software Engineer,$98K - $211K (Glassdoor est.),4.1,Bloomberg,"New York, NY",10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+230,Software Engineer,-1,3.9,"Tyler Technologies, Inc.",Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+231,Senior Software Engineer,$110K - $150K (Employer est.),4.1,OBMedia,"Los Angeles, CA",10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+232,Front End Software Engineer,-1,-1,"Encyclopaedia Britannica, Inc.",Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+233,Software Engineer,$85K - $113K (Employer est.),3.5,National Security Agency,"Fort Meade, MD",10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+234,Engineer I - Drake Software,-1,-1,Confidential,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+235,Software Engineer,$80K - $115K (Employer est.),-1,Hospice Tools,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+236,Software Engineer - Remote,-1,4.6,"Medisolv, Inc.",Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+237,Sr. Software Engineer - Permanent Remote,-1,4.3,Xero,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+238,Software Engineer,$65K - $109K (Glassdoor est.),3.7,Ecolab,"Saint Paul, MN",10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+239,Software Engineer 3,$125K (Employer est.),3.4,Homecare Homebase,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+240,"Software Engineer I, II, III, or Senior",$51K - $105K (Glassdoor est.),3.8,Alaska USA Federal Credit Union,"Anchorage, AK",10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+241,Senior Software Engineer,$120K - $160K (Employer est.),-1,"Prime Trust, LLC",Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+242,Sr. Software Engineer (Remote),-1,4.4,CentralReach,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+243,Sr. Software Engineer,$115K - $140K (Employer est.),2.8,"The GEO Group, Inc.",Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+244,Software Engineer,-1,-1,"Intelon Optics, Inc.","Lexington, MA",10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+245,Software Engineer,$120K (Employer est.),-1,"Medicom Technologies, Inc.",Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+246,Software Engineer IV,-1,3.6,Astreya,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+247,Senior Software Engineer,$97K - $140K (Employer est.),-1,"240 Tutoring, Inc.",Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+248,Senior Software Engineer,$120K - $150K (Employer est.),-1,Retail Benefits,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+249,Software Engineer,$115K - $135K (Employer est.),-1,Leaf Trade,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+250,Software Engineer/PHP developer,$115K - $125K (Employer est.),3.8,Connecttel Inc.,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+251,Software Engineer,$90K - $150K (Employer est.),-1,"NovoDynamics, Inc.","Detroit, MI",10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+252,Senior Software Engineer,$80K - $150K (Employer est.),-1,Doradus Labs,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+253,Software Design Engineer 2 [MP2487],-1,4.3,"Akvelon, Inc.",Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+254,Software Engineer,$130K (Employer est.),-1,Bravely,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+255,Software Engineer – Backend,$77K - $168K (Glassdoor est.),4.1,PayPal,"Scottsdale, AZ",10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+256,Software Engineer,$110K (Employer est.),-1,ABOUT Healthcare,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+257,Systems/Software Engineer - SaaS - Remote,$90K - $150K (Employer est.),4.0,Mutual of Omaha,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+258,Software Engineer (Remote),$80K (Employer est.),3.4,OSMOSE UTILITIES SERVICES INC,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+259,2022 Software Engineer,$98K - $211K (Glassdoor est.),4.1,Bloomberg,"New York, NY",10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+260,Senior Software Engineer,$110K - $140K (Employer est.),3.7,New Visions for Public Schools,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+261,Software Design Engineer 1 - REMOTE,$84K - $151K (Glassdoor est.),3.9,eXcell,"Redmond, WA",10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+262,Senior Software Engineer,$81K - $137K (Glassdoor est.),3.9,"Tyler Technologies, Inc.","Yarmouth, ME",10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+263,Senior Software Engineer,$110K - $150K (Employer est.),4.1,OBMedia,"Los Angeles, CA",10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+264,Associate Software Engineer,$65K - $114K (Glassdoor est.),3.7,Epsilon,"New York, NY",10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+265,Software Engineer,$60 Per Hour(Employer est.),-1,Total Presence Management,"Phoenix, AZ",10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+266,Software Engineer,-1,3.9,"Tyler Technologies, Inc.",Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+267,Front End Software Engineer,-1,-1,"Encyclopaedia Britannica, Inc.",Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+268,Software Engineer,$85K - $113K (Employer est.),3.5,National Security Agency,"Fort Meade, MD",10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+269,Engineer I - Drake Software,-1,-1,Confidential,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+270,"Software Engineer I, II, III, or Senior",$66K - $126K (Glassdoor est.),3.8,Alaska USA Federal Credit Union,"Renton, WA",10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+271,Sr. Software Engineer,-1,4.0,Tang and Company,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+272,Remote Embedded Senior Software Engineer,$73K - $120K (Glassdoor est.),4.0,Whirlpool Corporation,"Benton Harbor, MI",10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+273,Sr. Software Engineer,-1,-1,"Merriam-Webster, Inc.",Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+274,Senior Software Engineer I,-1,4.2,FINALSITE,,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+275,Senior C++ Software Engineer- Remote Opportunity (US Only),-1,4.5,Wolverine Trading,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+276,Sr. Software Engineer (Remote),-1,4.4,CentralReach,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+277,Senior Software Engineer,$120K - $160K (Employer est.),-1,"Prime Trust, LLC",Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+278,"Senior Software Engineer, Maitland, FL",-1,-1,Brook Consultants Inc,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+279,Sr. Software Engineer,$115K - $140K (Employer est.),2.8,"The GEO Group, Inc.",Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+280,Software Engineer,$120K (Employer est.),-1,"Medicom Technologies, Inc.",Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+281,Senior Software Engineer,$97K - $140K (Employer est.),-1,"240 Tutoring, Inc.",Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+282,Senior Software Engineer,$120K - $150K (Employer est.),-1,Retail Benefits,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+283,Software Design Engineer 3 [MP2484],-1,4.3,"Akvelon, Inc.",Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+284,Senior Software Engineer,$140K - $165K (Employer est.),-1,Dwell,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+285,Senior Software Engineer,$80K - $150K (Employer est.),-1,Doradus Labs,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+286,Software Engineer,$115K - $135K (Employer est.),-1,Leaf Trade,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+287,Software Engineer/PHP developer,$115K - $125K (Employer est.),3.8,Connecttel Inc.,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+288,Software Engineer,$90K - $150K (Employer est.),-1,"NovoDynamics, Inc.","Detroit, MI",10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+289,Software Engineer,$110K (Employer est.),-1,ABOUT Healthcare,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+290,Software Engineer – Backend,$77K - $168K (Glassdoor est.),4.1,PayPal,"Scottsdale, AZ",10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+291,Software Engineer,$130K (Employer est.),-1,Bravely,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+292,Senior Software Engineer,$81K - $137K (Glassdoor est.),3.9,"Tyler Technologies, Inc.","Yarmouth, ME",10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+293,Software Engineer (Remote),$80K (Employer est.),3.4,OSMOSE UTILITIES SERVICES INC,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+294,Systems/Software Engineer - SaaS - Remote,$90K - $150K (Employer est.),4.0,Mutual of Omaha,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+295,Senior Software Engineer,$110K - $140K (Employer est.),3.7,New Visions for Public Schools,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+296,Senior Software Engineer,$130K - $165K (Employer est.),4.6,Patriot Software,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+297,Software Design Engineer 1 - REMOTE,$84K - $151K (Glassdoor est.),3.9,eXcell,"Redmond, WA",10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+298,2022 Software Engineer,$98K - $211K (Glassdoor est.),4.1,Bloomberg,"New York, NY",10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+299,Senior Software Engineer,$57 - $72 Per Hour(Employer est.),-1,Strategic Solutions Group,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+300,"Software Engineer I, II, III, or Senior",$66K - $126K (Glassdoor est.),3.8,Alaska USA Federal Credit Union,"Renton, WA",10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+301,Senior Software Engineer I,-1,4.2,FINALSITE,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+302,Senior C++ Software Engineer- Remote Opportunity (US Only),-1,4.5,Wolverine Trading,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+303,Sr. Software Engineer (Remote),-1,4.4,CentralReach,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+304,Sr. Software Engineer,$115K - $140K (Employer est.),2.8,"The GEO Group, Inc.",Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+305,Software Engineer,$120K (Employer est.),-1,"Medicom Technologies, Inc.",Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+306,Senior Software Engineer,$97K - $140K (Employer est.),-1,"240 Tutoring, Inc.",Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+307,Senior Software Engineer,$120K - $150K (Employer est.),-1,Retail Benefits,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+308,Software Engineer,$115K - $135K (Employer est.),-1,Leaf Trade,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+309,Software Engineer/PHP developer,$115K - $125K (Employer est.),3.8,Connecttel Inc.,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+310,Software Engineer,$110K (Employer est.),-1,ABOUT Healthcare,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+311,Senior Software Engineer,$80K - $150K (Employer est.),-1,Doradus Labs,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+312,Software Engineer,$90K - $150K (Employer est.),-1,"NovoDynamics, Inc.","Detroit, MI",10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+313,Software Engineer,$130K (Employer est.),-1,Bravely,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+314,Software Engineer – Backend,$77K - $168K (Glassdoor est.),4.1,PayPal,"Scottsdale, AZ",10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+315,Senior Software Engineer,$81K - $137K (Glassdoor est.),3.9,"Tyler Technologies, Inc.","Yarmouth, ME",10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+316,Software Engineer (Remote),$80K (Employer est.),3.4,OSMOSE UTILITIES SERVICES INC,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+317,2022 Software Engineer,$98K - $211K (Glassdoor est.),4.1,Bloomberg,"New York, NY",10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+318,Engineer I - Drake Software,-1,-1,Confidential,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+319,Associate Software Engineer,$65K - $114K (Glassdoor est.),3.7,Epsilon,"New York, NY",10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+320,Software Engineer,-1,3.9,"Tyler Technologies, Inc.",Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+321,Senior Software Engineer,$110K - $140K (Employer est.),3.7,New Visions for Public Schools,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+322,Front End Software Engineer,-1,-1,"Encyclopaedia Britannica, Inc.",Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+323,Senior Software Engineer,$110K - $150K (Employer est.),4.1,OBMedia,"Los Angeles, CA",10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+324,Sr. Software Engineer - Permanent Remote,-1,4.3,Xero,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+325,Software Engineer - Remote,-1,4.6,"Medisolv, Inc.",Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+326,Fullstack Engineer,-1,-1,Boom Entertainment,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+327,Software Engineer,$80K - $115K (Employer est.),-1,Hospice Tools,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+328,Software Engineer 3,$125K (Employer est.),3.4,Homecare Homebase,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+329,Software Engineer,$81K - $152K (Glassdoor est.),4.9,"Raybeam, Inc.","Seattle, WA",10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+330,"Software Engineer I, II, III, or Senior",$66K - $126K (Glassdoor est.),3.8,Alaska USA Federal Credit Union,"Renton, WA",10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+331,Senior Software Engineer I,-1,4.2,FINALSITE,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+332,Senior C++ Software Engineer- Remote Opportunity (US Only),-1,4.5,Wolverine Trading,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+333,Software Engineer,$120K (Employer est.),-1,"Medicom Technologies, Inc.",Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+334,Sr. Software Engineer (Remote),-1,4.4,CentralReach,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+335,Sr. Software Engineer,$115K - $140K (Employer est.),2.8,"The GEO Group, Inc.",Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+336,Software Engineer/PHP developer,$115K - $125K (Employer est.),3.8,Connecttel Inc.,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+337,Software Engineer,$115K - $135K (Employer est.),-1,Leaf Trade,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+338,Senior Software Engineer,$97K - $140K (Employer est.),-1,"240 Tutoring, Inc.",Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+339,Software Engineer,$130K (Employer est.),-1,Bravely,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+340,Software Engineer,$110K (Employer est.),-1,ABOUT Healthcare,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+341,Senior Software Engineer,$120K - $150K (Employer est.),-1,Retail Benefits,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+342,Software Engineer – Backend,$77K - $168K (Glassdoor est.),4.1,PayPal,"Scottsdale, AZ",10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+343,Software Engineer (Remote),$80K (Employer est.),3.4,OSMOSE UTILITIES SERVICES INC,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+344,Senior Software Engineer,$80K - $150K (Employer est.),-1,Doradus Labs,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+345,2022 Software Engineer,$98K - $211K (Glassdoor est.),4.1,Bloomberg,"New York, NY",10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+346,Engineer I - Drake Software,-1,-1,Confidential,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+347,Software Engineer,-1,3.9,"Tyler Technologies, Inc.",Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+348,Front End Software Engineer,-1,-1,"Encyclopaedia Britannica, Inc.",Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+349,Senior Software Engineer,$110K - $140K (Employer est.),3.7,New Visions for Public Schools,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+350,Software Engineer,$80K - $115K (Employer est.),-1,Hospice Tools,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+351,Sr. Software Engineer - Permanent Remote,-1,4.3,Xero,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+352,Software Engineer - Remote,-1,4.6,"Medisolv, Inc.",Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+353,Senior Software Engineer,$110K - $150K (Employer est.),4.1,OBMedia,"Los Angeles, CA",10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+354,Software Engineer 3,$125K (Employer est.),3.4,Homecare Homebase,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+355,Software Engineer,$85K - $113K (Employer est.),3.5,National Security Agency,"Fort Meade, MD",10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+356,Software Engineer,$81K - $152K (Glassdoor est.),4.9,"Raybeam, Inc.","Seattle, WA",10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+357,Software Engineer,$65K - $109K (Glassdoor est.),3.7,Ecolab,"Saint Paul, MN",10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+358,Software Engineer,-1,-1,"Aperia Technologies, Inc",Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+359,Junior Mobile Engineer,$105K (Employer est.),-1,iNGAGED,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+360,Senior Software Engineer I,-1,4.2,FINALSITE,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+361,Senior Software Engineer I,-1,4.2,FINALSITE,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+362,Software Engineer,$120K (Employer est.),-1,"Medicom Technologies, Inc.",Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+363,Sr. Software Engineer (Remote),-1,4.4,CentralReach,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+364,Sr. Software Engineer,$115K - $140K (Employer est.),2.8,"The GEO Group, Inc.",Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+365,Software Engineer,$115K - $135K (Employer est.),-1,,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+366,Software Engineer/PHP developer,$115K - $125K (Employer est.),3.8,Connecttel Inc.,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+367,Senior Software Engineer,$97K - $140K (Employer est.),-1,"240 Tutoring, Inc.",Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+368,Software Engineer,$130K (Employer est.),-1,Bravely,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+369,Software Engineer,$110K (Employer est.),-1,ABOUT Healthcare,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+370,Software Engineer (Remote),$80K (Employer est.),3.4,OSMOSE UTILITIES SERVICES INC,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+371,Senior Software Engineer,$80K - $150K (Employer est.),-1,Doradus Labs,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+372,2022 Software Engineer,$98K - $211K (Glassdoor est.),4.1,Bloomberg,"New York, NY",10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+373,Engineer I - Drake Software,-1,-1,Confidential,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+374,Software Engineer,-1,3.9,"Tyler Technologies, Inc.",Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+375,Front End Software Engineer,-1,-1,"Encyclopaedia Britannica, Inc.",Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+376,Sr. Software Engineer - Permanent Remote,-1,4.3,Xero,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+377,Senior Software Engineer,$110K - $140K (Employer est.),3.7,New Visions for Public Schools,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+378,Software Engineer,$80K - $115K (Employer est.),-1,Hospice Tools,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+379,Senior Software Engineer,$110K - $150K (Employer est.),4.1,OBMedia,"Los Angeles, CA",10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+380,Software Engineer 3,$125K (Employer est.),3.4,Homecare Homebase,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+381,Software Engineer - Remote,-1,4.6,"Medisolv, Inc.",Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+382,Fullstack Engineer,-1,-1,Boom Entertainment,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+383,Software Engineer,$81K - $152K (Glassdoor est.),4.9,"Raybeam, Inc.","Seattle, WA",10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+384,Software Engineer,-1,-1,"Aperia Technologies, Inc",Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+385,Software Engineer,$65K - $109K (Glassdoor est.),3.7,Ecolab,"Saint Paul, MN",10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+386,Junior Mobile Engineer,$105K (Employer est.),-1,iNGAGED,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+387,R0017329 Software Engineer,-1,2.9,"Epiq Systems, Inc.",Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+388,Software Engineer I,-1,-1,Confidential,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+389,Software Engineer,$80K - $150K (Employer est.),-1,TrapWire Inc.,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+390,Software Engineer II or Sr. Software Engineer,$80K - $160K (Employer est.),-1,"GivePulse, Inc.",Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+391,Software Engineer,$120K (Employer est.),-1,"Medicom Technologies, Inc.",Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+392,Sr. Software Engineer,$115K - $140K (Employer est.),2.8,"The GEO Group, Inc.",Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+393,Software Engineer/PHP developer,$115K - $125K (Employer est.),3.8,Connecttel Inc.,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+394,Software Engineer,$115K - $135K (Employer est.),-1,Leaf Trade,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+395,Senior Software Engineer,$97K - $140K (Employer est.),-1,"240 Tutoring, Inc.",Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+396,Software Engineer,$90K - $150K (Employer est.),-1,"NovoDynamics, Inc.","Detroit, MI",10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+397,Senior Software Engineer,$120K - $150K (Employer est.),-1,Retail Benefits,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+398,Software Engineer,$110K (Employer est.),-1,ABOUT Healthcare,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+399,Software Engineer (Remote),$80K (Employer est.),3.4,OSMOSE UTILITIES SERVICES INC,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+400,Software Engineer,$130K (Employer est.),-1,Bravely,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+401,Junior Mobile Engineer,$105K (Employer est.),-1,iNGAGED,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+402,Senior Software Engineer,$80K - $150K (Employer est.),-1,Doradus Labs,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+403,2022 Software Engineer,$98K - $211K (Glassdoor est.),4.1,Bloomberg,"New York, NY",10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+404,Software Engineer,-1,3.9,"Tyler Technologies, Inc.",Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+405,Engineer I - Drake Software,-1,-1,Confidential,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+406,Senior Software Engineer,$81K - $137K (Glassdoor est.),3.9,"Tyler Technologies, Inc.","Yarmouth, ME",10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+407,Software Engineer - Remote,-1,4.6,"Medisolv, Inc.",Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+408,Senior Software Engineer,$110K - $140K (Employer est.),3.7,New Visions for Public Schools,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+409,Front End Software Engineer,-1,-1,"Encyclopaedia Britannica, Inc.",Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+410,Software Engineer,$80K - $115K (Employer est.),-1,Hospice Tools,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+411,Software Engineer 3,$125K (Employer est.),3.4,Homecare Homebase,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+412,Senior Software Engineer,$57 - $72 Per Hour(Employer est.),-1,Strategic Solutions Group,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+413,Fullstack Engineer,-1,-1,Boom Entertainment,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+414,Software Engineer,$85K - $113K (Employer est.),3.5,National Security Agency,"Fort Meade, MD",10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+415,Senior Software Engineer,$110K - $150K (Employer est.),4.1,OBMedia,"Los Angeles, CA",10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+416,Software Engineer,$81K - $152K (Glassdoor est.),4.9,"Raybeam, Inc.","Seattle, WA",10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+417,Software Engineer,$65K - $109K (Glassdoor est.),3.7,Ecolab,"Saint Paul, MN",10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+418,Software Engineer,-1,-1,"Aperia Technologies, Inc",Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+419,Software Design Engineer in Test 3 [MP2490],-1,4.3,"Akvelon, Inc.",Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+420,Software Engineer I,-1,-1,Confidential,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+421,Senior Software Engineer I,-1,4.2,FINALSITE,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+422,Software Engineer,$120K (Employer est.),-1,"Medicom Technologies, Inc.",Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+423,Senior Software Engineer,$120K - $160K (Employer est.),-1,"Prime Trust, LLC",Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+424,Sr. Software Engineer,$115K - $140K (Employer est.),2.8,"The GEO Group, Inc.",Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+425,Software Design Engineer 3 [MP2484],-1,4.3,"Akvelon, Inc.",Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+426,Software Engineer,$115K - $135K (Employer est.),-1,Leaf Trade,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+427,Software Engineer/PHP developer,$115K - $125K (Employer est.),3.8,Connecttel Inc.,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+428,Senior Software Engineer,$97K - $140K (Employer est.),-1,"240 Tutoring, Inc.",Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+429,Software Engineer,$90K - $150K (Employer est.),-1,"NovoDynamics, Inc.","Detroit, MI",10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+430,Senior Software Engineer,$120K - $150K (Employer est.),-1,Retail Benefits,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+431,Software Engineer (Remote),$80K (Employer est.),3.4,OSMOSE UTILITIES SERVICES INC,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+432,Software Engineer,$110K (Employer est.),-1,ABOUT Healthcare,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+433,Software Engineer,$130K (Employer est.),-1,Bravely,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+434,Systems/Software Engineer - SaaS - Remote,$90K - $150K (Employer est.),4.0,Mutual of Omaha,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+435,Senior Software Engineer,$80K - $150K (Employer est.),-1,Doradus Labs,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+436,Junior Mobile Engineer,$105K (Employer est.),-1,iNGAGED,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+437,Software Design Engineer 1 - REMOTE,$84K - $151K (Glassdoor est.),3.9,eXcell,"Redmond, WA",10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+438,2022 Software Engineer,$98K - $211K (Glassdoor est.),4.1,Bloomberg,"New York, NY",10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+439,Engineer I - Drake Software,-1,-1,Confidential,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+440,Software Engineer,-1,3.9,"Tyler Technologies, Inc.",Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+441,Senior Software Engineer,$81K - $137K (Glassdoor est.),3.9,"Tyler Technologies, Inc.","Yarmouth, ME",10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+442,Software Engineer,$60 Per Hour(Employer est.),-1,Total Presence Management,"Phoenix, AZ",10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+443,Software Engineer - Remote,-1,4.6,"Medisolv, Inc.",Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+444,Senior Software Engineer,$110K - $140K (Employer est.),3.7,New Visions for Public Schools,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+445,Senior Software Engineer,$57 - $72 Per Hour(Employer est.),-1,Strategic Solutions Group,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+446,Software Engineer,$80K - $115K (Employer est.),-1,Hospice Tools,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+447,Front End Software Engineer,-1,-1,"Encyclopaedia Britannica, Inc.",Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+448,Software Engineer 3,$125K (Employer est.),3.4,Homecare Homebase,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+449,Fullstack Engineer,-1,-1,Boom Entertainment,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+450,Software Engineer,$81K - $152K (Glassdoor est.),4.9,"Raybeam, Inc.","Seattle, WA",10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+451,"Software Engineer I, II, III, or Senior",$66K - $126K (Glassdoor est.),3.8,Alaska USA Federal Credit Union,"Renton, WA",10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+452,Senior Software Engineer I,-1,4.2,FINALSITE,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+453,Senior Software Engineer,$120K - $160K (Employer est.),-1,"Prime Trust, LLC",Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+454,Software Engineer,$120K (Employer est.),-1,"Medicom Technologies, Inc.",Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+455,(Software) Product Engineer,-1,-1,"Verinovum, Inc.",Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+456,Sr. Software Engineer,$115K - $140K (Employer est.),2.8,"The GEO Group, Inc.",Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+457,Software Engineer,$115K - $135K (Employer est.),-1,Leaf Trade,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+458,Software Design Engineer 3 [MP2484],-1,4.3,"Akvelon, Inc.",Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+459,Senior Software Engineer,$97K - $140K (Employer est.),-1,"240 Tutoring, Inc.",Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+460,Software Engineer/PHP developer,$115K - $125K (Employer est.),3.8,Connecttel Inc.,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+461,Software Engineer,$90K - $150K (Employer est.),-1,"NovoDynamics, Inc.","Detroit, MI",10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+462,Senior Software Engineer,$120K - $150K (Employer est.),-1,Retail Benefits,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+463,Software Engineer,$130K (Employer est.),-1,Bravely,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+464,Software Engineer (Remote),$80K (Employer est.),3.4,OSMOSE UTILITIES SERVICES INC,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+465,Software Engineer,$110K (Employer est.),-1,ABOUT Healthcare,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+466,Senior Software Engineer,$80K - $150K (Employer est.),-1,Doradus Labs,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+467,Junior Mobile Engineer,$105K (Employer est.),-1,iNGAGED,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+468,Engineer I - Drake Software,-1,-1,Confidential,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+469,Software Design Engineer 1 - REMOTE,$84K - $151K (Glassdoor est.),3.9,eXcell,"Redmond, WA",10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+470,2022 Software Engineer,$98K - $211K (Glassdoor est.),4.1,Bloomberg,"New York, NY",10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+471,Software Engineer,-1,3.9,"Tyler Technologies, Inc.",Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+472,Senior Software Engineer,$81K - $137K (Glassdoor est.),3.9,"Tyler Technologies, Inc.","Yarmouth, ME",10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+473,Senior Software Engineer,$110K - $140K (Employer est.),3.7,New Visions for Public Schools,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+474,Software Engineer - Remote,-1,4.6,"Medisolv, Inc.",Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+475,Front End Software Engineer,-1,-1,"Encyclopaedia Britannica, Inc.",Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+476,Senior Software Engineer,$57 - $72 Per Hour(Employer est.),-1,Strategic Solutions Group,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+477,Software Engineer,$80K - $115K (Employer est.),-1,Hospice Tools,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+478,Software Engineer,$60 Per Hour(Employer est.),-1,Total Presence Management,"Phoenix, AZ",10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+479,Software Engineer 3,$125K (Employer est.),3.4,Homecare Homebase,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+480,Senior Software Engineer,$110K - $150K (Employer est.),4.1,OBMedia,"Los Angeles, CA",10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+481,"Software Engineer I, II, III, or Senior",$66K - $126K (Glassdoor est.),3.8,Alaska USA Federal Credit Union,"Renton, WA",10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+482,Senior Software Engineer I,-1,4.2,FINALSITE,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+483,Software Engineer,$120K (Employer est.),-1,"Medicom Technologies, Inc.",Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+484,Senior Software Engineer,$120K - $160K (Employer est.),-1,"Prime Trust, LLC",Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+485,(Software) Product Engineer,-1,-1,"Verinovum, Inc.",Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+486,Sr. Software Engineer,$115K - $140K (Employer est.),2.8,"The GEO Group, Inc.",Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+487,Software Design Engineer 3 [MP2484],-1,4.3,"Akvelon, Inc.",Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+488,Software Engineer,$115K - $135K (Employer est.),-1,Leaf Trade,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+489,Software Engineer/PHP developer,$115K - $125K (Employer est.),3.8,Connecttel Inc.,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+490,Senior Software Engineer,$97K - $140K (Employer est.),-1,"240 Tutoring, Inc.",Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+491,Software Engineer,$90K - $150K (Employer est.),-1,"NovoDynamics, Inc.","Detroit, MI",10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+492,Senior Software Engineer,$120K - $150K (Employer est.),-1,Retail Benefits,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+493,Software Engineer,$130K (Employer est.),-1,Bravely,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+494,Software Engineer (Remote),$80K (Employer est.),3.4,OSMOSE UTILITIES SERVICES INC,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+495,Software Engineer,$110K (Employer est.),-1,ABOUT Healthcare,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+496,Junior Mobile Engineer,$105K (Employer est.),-1,iNGAGED,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+497,Senior Software Engineer,$80K - $150K (Employer est.),-1,Doradus Labs,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+498,Software Design Engineer 1 - REMOTE,$84K - $151K (Glassdoor est.),3.9,eXcell,"Redmond, WA",10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+499,Engineer I - Drake Software,-1,-1,Confidential,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+500,2022 Software Engineer,$98K - $211K (Glassdoor est.),4.1,Bloomberg,"New York, NY",10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+501,Software Engineer,-1,3.9,"Tyler Technologies, Inc.",Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+502,Senior Software Engineer,$81K - $137K (Glassdoor est.),3.9,"Tyler Technologies, Inc.","Yarmouth, ME",10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+503,Senior Software Engineer,$110K - $140K (Employer est.),3.7,New Visions for Public Schools,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+504,Software Engineer,$60 Per Hour(Employer est.),-1,Total Presence Management,"Phoenix, AZ",10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+505,Front End Software Engineer,-1,-1,"Encyclopaedia Britannica, Inc.",Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+506,Software Engineer - Remote,-1,4.6,"Medisolv, Inc.",Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+507,Software Engineer,$80K - $115K (Employer est.),-1,Hospice Tools,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+508,Senior Software Engineer,$57 - $72 Per Hour(Employer est.),-1,Strategic Solutions Group,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+509,Software Engineer 3,$125K (Employer est.),3.4,Homecare Homebase,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+510,Senior Software Engineer,$110K - $150K (Employer est.),4.1,OBMedia,"Los Angeles, CA",10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+511,"Software Engineer I, II, III, or Senior",$66K - $126K (Glassdoor est.),3.8,Alaska USA Federal Credit Union,"Renton, WA",10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+512,Senior Software Engineer I,-1,4.2,FINALSITE,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+513,Senior Software Engineer,$120K - $160K (Employer est.),-1,"Prime Trust, LLC",Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+514,Sr. Software Engineer,$115K - $140K (Employer est.),2.8,"The GEO Group, Inc.",Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+515,Software Engineer,$120K (Employer est.),-1,"Medicom Technologies, Inc.",Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+516,Senior Software Engineer,$97K - $140K (Employer est.),-1,"240 Tutoring, Inc.",Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+517,Software Design Engineer 3 [MP2484],-1,4.3,"Akvelon, Inc.",Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+518,Senior Software Engineer,$120K - $150K (Employer est.),-1,Retail Benefits,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+519,(Software) Product Engineer,-1,-1,"Verinovum, Inc.",Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+520,Software Engineer,$115K - $135K (Employer est.),-1,Leaf Trade,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+521,Software Engineer/PHP developer,$115K - $125K (Employer est.),3.8,Connecttel Inc.,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+522,Senior Software Engineer,$80K - $150K (Employer est.),-1,Doradus Labs,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+523,Software Engineer,$90K - $150K (Employer est.),-1,"NovoDynamics, Inc.","Detroit, MI",10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+524,Software Engineer,$130K (Employer est.),-1,Bravely,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+525,Software Engineer,$110K (Employer est.),-1,ABOUT Healthcare,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+526,Software Engineer (Remote),$80K (Employer est.),3.4,OSMOSE UTILITIES SERVICES INC,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+527,Junior Mobile Engineer,$105K (Employer est.),-1,iNGAGED,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+528,Software Design Engineer 1 - REMOTE,$84K - $151K (Glassdoor est.),3.9,eXcell,"Redmond, WA",10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+529,Senior Software Engineer,$81K - $137K (Glassdoor est.),3.9,"Tyler Technologies, Inc.","Yarmouth, ME",10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+530,Senior Software Engineer,$110K - $140K (Employer est.),3.7,New Visions for Public Schools,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+531,Senior Software Engineer,$57 - $72 Per Hour(Employer est.),-1,Strategic Solutions Group,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+532,2022 Software Engineer,$98K - $211K (Glassdoor est.),4.1,Bloomberg,"New York, NY",10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+533,Senior Software Engineer,$110K - $150K (Employer est.),4.1,OBMedia,"Los Angeles, CA",10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+534,Software Engineer,-1,3.9,"Tyler Technologies, Inc.",Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+535,Engineer I - Drake Software,-1,-1,Confidential,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+536,Software Engineer,$60 Per Hour(Employer est.),-1,Total Presence Management,"Phoenix, AZ",10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+537,Software Engineer 3,$125K (Employer est.),3.4,Homecare Homebase,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+538,Front End Software Engineer,-1,-1,"Encyclopaedia Britannica, Inc.",Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+539,Software Engineer,$80K - $115K (Employer est.),-1,Hospice Tools,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+540,Software Engineer - Remote,-1,4.6,"Medisolv, Inc.",Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+541,Senior Software Engineer,$120K - $160K (Employer est.),-1,"Prime Trust, LLC",Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+542,Sr. Software Engineer,$115K - $140K (Employer est.),2.8,"The GEO Group, Inc.",Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+543,Software Engineer,$120K (Employer est.),-1,"Medicom Technologies, Inc.",Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+544,Senior Software Engineer,$97K - $140K (Employer est.),-1,"240 Tutoring, Inc.",Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+545,Software Engineer,$90K - $150K (Employer est.),-1,"NovoDynamics, Inc.","Ann Arbor, MI",10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+546,Senior Software Engineer,$120K - $150K (Employer est.),-1,Retail Benefits,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+547,(Software) Product Engineer,-1,-1,"Verinovum, Inc.",Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+548,Software Engineer,$115K - $135K (Employer est.),-1,Leaf Trade,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+549,Software Engineer/PHP developer,$115K - $125K (Employer est.),3.8,Connecttel Inc.,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+550,Senior Software Engineer,$80K - $150K (Employer est.),-1,Doradus Labs,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+551,Software Engineer,$130K (Employer est.),-1,Bravely,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+552,Software Design Engineer 2 [MP2487],-1,4.3,"Akvelon, Inc.",Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+553,Software Engineer,$110K (Employer est.),-1,ABOUT Healthcare,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+554,Senior Software Engineer,$110K - $150K (Employer est.),4.1,OBMedia,"Los Angeles, CA",10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+555,Software Engineer (Remote),$80K (Employer est.),3.4,OSMOSE UTILITIES SERVICES INC,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+556,Systems/Software Engineer - SaaS - Remote,$90K - $150K (Employer est.),4.0,Mutual of Omaha,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+557,Junior Mobile Engineer,$105K (Employer est.),-1,iNGAGED,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+558,Senior Software Engineer,$110K - $140K (Employer est.),3.7,New Visions for Public Schools,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+559,Senior Software Engineer,$57 - $72 Per Hour(Employer est.),-1,Strategic Solutions Group,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+560,Software Engineer,-1,3.9,"Tyler Technologies, Inc.",Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+561,Embedded Software Engineer (Junior),$80K - $150K (Employer est.),-1,Bionaut Labs,"Los Angeles, CA",10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+562,2022 Software Engineer,$98K - $211K (Glassdoor est.),4.1,Bloomberg,"New York, NY",10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+563,Engineer I - Drake Software,-1,-1,Confidential,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+564,Software Engineer,$60 Per Hour(Employer est.),-1,Total Presence Management,"Phoenix, AZ",10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+565,Software Engineer 3,$125K (Employer est.),3.4,Homecare Homebase,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+566,Front End Software Engineer,-1,-1,"Encyclopaedia Britannica, Inc.",Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+567,Software Engineer,$80K - $115K (Employer est.),-1,Hospice Tools,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+568,Software Engineer,$81K - $152K (Glassdoor est.),4.9,"Raybeam, Inc.","Seattle, WA",10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+569,Software Engineer - Remote,-1,4.6,"Medisolv, Inc.",Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+570,Software Engineer,$74K - $147K (Glassdoor est.),2.1,Sterling Hoffman,"Los Angeles, CA",10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+571,Senior Software Engineer,$120K - $160K (Employer est.),-1,"Prime Trust, LLC",Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+572,Sr. Software Engineer,$115K - $140K (Employer est.),2.8,"The GEO Group, Inc.",Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+573,Software Engineer,$120K (Employer est.),-1,"Medicom Technologies, Inc.",Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+574,Senior Software Engineer,$97K - $140K (Employer est.),-1,"240 Tutoring, Inc.",Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+575,Software Engineer,$90K - $150K (Employer est.),-1,"NovoDynamics, Inc.","Ann Arbor, MI",10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+576,Senior Software Engineer,$120K - $150K (Employer est.),-1,Retail Benefits,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+577,(Software) Product Engineer,-1,-1,"Verinovum, Inc.",Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+578,Software Engineer,$115K - $135K (Employer est.),-1,Leaf Trade,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+579,Software Engineer/PHP developer,$115K - $125K (Employer est.),3.8,Connecttel Inc.,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+580,Senior Software Engineer,$80K - $150K (Employer est.),-1,Doradus Labs,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+581,Software Engineer,$130K (Employer est.),-1,Bravely,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+582,Software Design Engineer 2 [MP2487],-1,4.3,"Akvelon, Inc.",Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+583,Software Engineer,$110K (Employer est.),-1,ABOUT Healthcare,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+584,Senior Software Engineer,$110K - $150K (Employer est.),4.1,OBMedia,"Los Angeles, CA",10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+585,Software Engineer (Remote),$80K (Employer est.),3.4,OSMOSE UTILITIES SERVICES INC,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+586,Systems/Software Engineer - SaaS - Remote,$90K - $150K (Employer est.),4.0,Mutual of Omaha,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+587,Junior Mobile Engineer,$105K (Employer est.),-1,iNGAGED,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+588,Senior Software Engineer,$110K - $140K (Employer est.),3.7,New Visions for Public Schools,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+589,Senior Software Engineer,$57 - $72 Per Hour(Employer est.),-1,Strategic Solutions Group,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+590,Software Engineer,-1,3.9,"Tyler Technologies, Inc.",Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+591,Embedded Software Engineer (Junior),$80K - $150K (Employer est.),-1,Bionaut Labs,"Los Angeles, CA",10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+592,2022 Software Engineer,$98K - $211K (Glassdoor est.),4.1,Bloomberg,"New York, NY",10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+593,Engineer I - Drake Software,-1,-1,Confidential,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+594,Software Engineer,$60 Per Hour(Employer est.),-1,Total Presence Management,"Phoenix, AZ",10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+595,Software Engineer 3,$125K (Employer est.),3.4,Homecare Homebase,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+596,Front End Software Engineer,-1,-1,"Encyclopaedia Britannica, Inc.",Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+597,Software Engineer,$80K - $115K (Employer est.),-1,Hospice Tools,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+598,Software Engineer,$81K - $152K (Glassdoor est.),4.9,"Raybeam, Inc.","Seattle, WA",10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+599,Software Engineer - Remote,-1,4.6,"Medisolv, Inc.",Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+600,Software Engineer,$74K - $147K (Glassdoor est.),2.1,Sterling Hoffman,"Los Angeles, CA",10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+601,Senior Software Engineer,$120K - $160K (Employer est.),-1,"Prime Trust, LLC",Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+602,Sr. Software Engineer,$115K - $140K (Employer est.),2.8,"The GEO Group, Inc.",Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+603,Software Engineer,$120K (Employer est.),-1,"Medicom Technologies, Inc.",Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+604,Senior Software Engineer,$97K - $140K (Employer est.),-1,"240 Tutoring, Inc.",Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+605,Software Engineer,$90K - $150K (Employer est.),-1,"NovoDynamics, Inc.","Ann Arbor, MI",10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+606,Senior Software Engineer,$120K - $150K (Employer est.),-1,Retail Benefits,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+607,(Software) Product Engineer,-1,-1,"Verinovum, Inc.",Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+608,Software Engineer,$115K - $135K (Employer est.),-1,Leaf Trade,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+609,Software Engineer/PHP developer,$115K - $125K (Employer est.),3.8,Connecttel Inc.,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+610,Senior Software Engineer,$80K - $150K (Employer est.),-1,Doradus Labs,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+611,Software Engineer,$130K (Employer est.),-1,Bravely,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+612,Software Design Engineer 2 [MP2487],-1,4.3,"Akvelon, Inc.",Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+613,Software Engineer,$110K (Employer est.),-1,ABOUT Healthcare,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+614,Senior Software Engineer,$110K - $150K (Employer est.),4.1,OBMedia,"Los Angeles, CA",10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+615,Software Engineer (Remote),$80K (Employer est.),3.4,OSMOSE UTILITIES SERVICES INC,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+616,Junior Mobile Engineer,$105K (Employer est.),-1,iNGAGED,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+617,Senior Software Engineer,$110K - $140K (Employer est.),3.7,New Visions for Public Schools,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+618,Senior Software Engineer,$57 - $72 Per Hour(Employer est.),-1,Strategic Solutions Group,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+619,Embedded Software Engineer (Junior),$80K - $150K (Employer est.),-1,Bionaut Labs,"Los Angeles, CA",10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+620,Software Engineer,-1,3.9,"Tyler Technologies, Inc.",Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+621,Engineer I - Drake Software,-1,-1,Confidential,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+622,2022 Software Engineer,$98K - $211K (Glassdoor est.),4.1,Bloomberg,"New York, NY",10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+623,Software Engineer,$60 Per Hour(Employer est.),-1,Total Presence Management,"Phoenix, AZ",10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+624,Software Engineer 3,$125K (Employer est.),3.4,Homecare Homebase,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+625,Front End Software Engineer,-1,-1,"Encyclopaedia Britannica, Inc.",Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+626,Software Engineer,$80K - $115K (Employer est.),-1,Hospice Tools,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+627,Software Engineer - Remote,-1,4.6,"Medisolv, Inc.",Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+628,Software Engineer,$81K - $152K (Glassdoor est.),4.9,"Raybeam, Inc.","Seattle, WA",10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+629,Software Engineer,$74K - $147K (Glassdoor est.),2.1,Sterling Hoffman,"Los Angeles, CA",10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+630,Software Engineer,-1,-1,"Aperia Technologies, Inc",Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+631,"Software Engineer I, II, III, or Senior",$66K - $126K (Glassdoor est.),3.8,Alaska USA Federal Credit Union,"Renton, WA",10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+632,Senior Software Engineer I,-1,4.2,FINALSITE,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+633,Senior Software Engineer,$120K - $160K (Employer est.),-1,"Prime Trust, LLC",Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+634,Sr. Software Engineer,$115K - $140K (Employer est.),2.8,"The GEO Group, Inc.",Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+635,Software Engineer,$120K (Employer est.),-1,"Medicom Technologies, Inc.",Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+636,Senior Software Engineer,$97K - $140K (Employer est.),-1,"240 Tutoring, Inc.",Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+637,Senior Software Engineer,$120K - $150K (Employer est.),-1,Retail Benefits,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+638,(Software) Product Engineer,-1,-1,"Verinovum, Inc.",Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+639,Software Engineer,$115K - $135K (Employer est.),-1,Leaf Trade,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+640,Software Engineer/PHP developer,$115K - $125K (Employer est.),3.8,Connecttel Inc.,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+641,Software Engineer,$90K - $150K (Employer est.),-1,"NovoDynamics, Inc.","Detroit, MI",10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+642,Senior Software Engineer,$80K - $150K (Employer est.),-1,Doradus Labs,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+643,Software Engineer,$130K (Employer est.),-1,Bravely,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+644,Software Engineer,$110K (Employer est.),-1,ABOUT Healthcare,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+645,Software Engineer (Remote),$80K (Employer est.),3.4,OSMOSE UTILITIES SERVICES INC,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+646,Systems/Software Engineer - SaaS - Remote,$90K - $150K (Employer est.),4.0,Mutual of Omaha,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+647,Senior Software Engineer,$110K - $150K (Employer est.),4.1,OBMedia,"Los Angeles, CA",10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+648,Senior Software Engineer,$81K - $137K (Glassdoor est.),3.9,"Tyler Technologies, Inc.","Yarmouth, ME",10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+649,Senior Software Engineer,$57 - $72 Per Hour(Employer est.),-1,Strategic Solutions Group,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+650,Senior Software Engineer,$110K - $140K (Employer est.),3.7,New Visions for Public Schools,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+651,Junior Mobile Engineer,$105K (Employer est.),-1,iNGAGED,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+652,Embedded Software Engineer (Junior),$80K - $150K (Employer est.),-1,Bionaut Labs,"Los Angeles, CA",10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+653,Software Engineer,-1,3.9,"Tyler Technologies, Inc.",Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+654,Software Engineer,$60 Per Hour(Employer est.),-1,Total Presence Management,"Phoenix, AZ",10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+655,2022 Software Engineer,$98K - $211K (Glassdoor est.),4.1,Bloomberg,"New York, NY",10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+656,Engineer I - Drake Software,-1,-1,Confidential,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+657,Software Engineer 3,$125K (Employer est.),3.4,Homecare Homebase,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+658,Front End Software Engineer,-1,-1,"Encyclopaedia Britannica, Inc.",Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+659,Software Engineer,$80K - $115K (Employer est.),-1,Hospice Tools,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+660,Software Engineer - Remote,-1,4.6,"Medisolv, Inc.",Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+661,"Software Engineer I, II, III, or Senior",$66K - $126K (Glassdoor est.),3.8,Alaska USA Federal Credit Union,"Renton, WA",10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+662,Senior Software Engineer I,-1,4.2,FINALSITE,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+663,Senior Software Engineer,$120K - $160K (Employer est.),-1,"Prime Trust, LLC",Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+664,Sr. Software Engineer,$115K - $140K (Employer est.),2.8,"The GEO Group, Inc.",Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+665,Software Engineer,$120K (Employer est.),-1,"Medicom Technologies, Inc.",Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+666,Senior Software Engineer,$97K - $140K (Employer est.),-1,"240 Tutoring, Inc.",Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+667,Senior Software Engineer,$120K - $150K (Employer est.),-1,Retail Benefits,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+668,(Software) Product Engineer,-1,-1,"Verinovum, Inc.",Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+669,Software Engineer,$115K - $135K (Employer est.),-1,Leaf Trade,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+670,Software Engineer/PHP developer,$115K - $125K (Employer est.),3.8,Connecttel Inc.,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+671,Software Engineer,$90K - $150K (Employer est.),-1,"NovoDynamics, Inc.","Detroit, MI",10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+672,Senior Software Engineer,$80K - $150K (Employer est.),-1,Doradus Labs,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+673,Software Engineer,$130K (Employer est.),-1,Bravely,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+674,Software Engineer,$110K (Employer est.),-1,ABOUT Healthcare,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+675,Software Engineer (Remote),$80K (Employer est.),3.4,OSMOSE UTILITIES SERVICES INC,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+676,Systems/Software Engineer - SaaS - Remote,$90K - $150K (Employer est.),4.0,Mutual of Omaha,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+677,Senior Software Engineer,$110K - $150K (Employer est.),4.1,OBMedia,"Los Angeles, CA",10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+678,Senior Software Engineer,$57 - $72 Per Hour(Employer est.),-1,Strategic Solutions Group,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+679,Senior Software Engineer,$110K - $140K (Employer est.),3.7,New Visions for Public Schools,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+680,Junior Mobile Engineer,$105K (Employer est.),-1,iNGAGED,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+681,Software Engineer,-1,3.9,"Tyler Technologies, Inc.",Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+682,Embedded Software Engineer (Junior),$80K - $150K (Employer est.),-1,Bionaut Labs,"Los Angeles, CA",10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+683,2022 Software Engineer,$98K - $211K (Glassdoor est.),4.1,Bloomberg,"New York, NY",10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+684,Software Engineer,$60 Per Hour(Employer est.),-1,Total Presence Management,"Phoenix, AZ",10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+685,Engineer I - Drake Software,-1,-1,Confidential,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+686,Software Engineer 3,$125K (Employer est.),3.4,Homecare Homebase,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+687,Front End Software Engineer,-1,-1,"Encyclopaedia Britannica, Inc.",Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+688,Software Engineer,$80K - $115K (Employer est.),-1,Hospice Tools,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+689,Software Engineer - Remote,-1,4.6,"Medisolv, Inc.",Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+690,Software Engineer,$81K - $152K (Glassdoor est.),4.9,"Raybeam, Inc.","Seattle, WA",10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+691,Senior Software Engineer,$120K - $160K (Employer est.),-1,"Prime Trust, LLC",Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+692,Sr. Software Engineer,$115K - $140K (Employer est.),2.8,"The GEO Group, Inc.",Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+693,Software Engineer,$120K (Employer est.),-1,"Medicom Technologies, Inc.",Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+694,Senior Software Engineer,$97K - $140K (Employer est.),-1,"240 Tutoring, Inc.",Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+695,Software Engineer,$115K - $135K (Employer est.),-1,Leaf Trade,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+696,Software Engineer,$90K - $150K (Employer est.),-1,"NovoDynamics, Inc.","Detroit, MI",10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+697,Software Engineer/PHP developer,$115K - $125K (Employer est.),3.8,Connecttel Inc.,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+698,Senior Software Engineer,$80K - $150K (Employer est.),-1,Doradus Labs,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+699,Software Engineer,$130K (Employer est.),-1,Bravely,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+700,Software Engineer,$110K (Employer est.),-1,ABOUT Healthcare,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+701,Software Engineer (Remote),$80K (Employer est.),3.4,OSMOSE UTILITIES SERVICES INC,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+702,Systems/Software Engineer - SaaS - Remote,$90K - $150K (Employer est.),4.0,Mutual of Omaha,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+703,Senior Software Engineer,$110K - $150K (Employer est.),4.1,OBMedia,"Los Angeles, CA",10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+704,Senior Software Engineer,$57 - $72 Per Hour(Employer est.),-1,Strategic Solutions Group,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+705,Senior Software Engineer,$110K - $140K (Employer est.),3.7,New Visions for Public Schools,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+706,Junior Mobile Engineer,$105K (Employer est.),-1,iNGAGED,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+707,Software Engineer,-1,3.9,"Tyler Technologies, Inc.",Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+708,Embedded Software Engineer (Junior),$80K - $150K (Employer est.),-1,Bionaut Labs,"Los Angeles, CA",10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+709,Engineer I - Drake Software,-1,-1,Confidential,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+710,Software Engineer,$60 Per Hour(Employer est.),-1,Total Presence Management,"Phoenix, AZ",10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+711,2022 Software Engineer,$98K - $211K (Glassdoor est.),4.1,Bloomberg,"New York, NY",10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+712,Software Engineer 3,$125K (Employer est.),3.4,Homecare Homebase,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+713,Software Engineer,$80K - $115K (Employer est.),-1,Hospice Tools,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+714,Front End Software Engineer,-1,-1,"Encyclopaedia Britannica, Inc.",Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+715,Software Engineer,$81K - $152K (Glassdoor est.),4.9,"Raybeam, Inc.","Seattle, WA",10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+716,Software Engineer - Remote,-1,4.6,"Medisolv, Inc.",Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+717,Software Engineer,$74K - $147K (Glassdoor est.),2.1,Sterling Hoffman,"Los Angeles, CA",10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+718,Sr. Software Engineer,$81K - $148K (Glassdoor est.),3.9,"Draeger Medical Systems, Inc.","Andover, MA",10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+719,Software Engineer,$65K - $109K (Glassdoor est.),3.7,Ecolab,"Saint Paul, MN",10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+720,Software Engineer,-1,-1,"Aperia Technologies, Inc",Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+721,Senior Software Engineer,$120K - $160K (Employer est.),-1,"Prime Trust, LLC",Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+722,Sr. Software Engineer,$115K - $140K (Employer est.),2.8,"The GEO Group, Inc.",Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+723,Software Engineer,$120K (Employer est.),-1,"Medicom Technologies, Inc.",Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+724,Senior Software Engineer,$97K - $140K (Employer est.),-1,"240 Tutoring, Inc.",Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+725,Software Engineer,$115K - $135K (Employer est.),-1,Leaf Trade,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+726,Software Engineer,$90K - $150K (Employer est.),-1,"NovoDynamics, Inc.","Detroit, MI",10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+727,Software Engineer/PHP developer,$115K - $125K (Employer est.),3.8,Connecttel Inc.,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+728,Senior Software Engineer,$80K - $150K (Employer est.),-1,Doradus Labs,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+729,Software Engineer,$130K (Employer est.),-1,Bravely,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+730,Software Engineer,$110K (Employer est.),-1,ABOUT Healthcare,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+731,Systems/Software Engineer - SaaS - Remote,$90K - $150K (Employer est.),4.0,Mutual of Omaha,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+732,Software Engineer (Remote),$80K (Employer est.),3.4,OSMOSE UTILITIES SERVICES INC,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+733,Senior Software Engineer,$110K - $150K (Employer est.),4.1,OBMedia,"Los Angeles, CA",10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+734,Senior Software Engineer,$57 - $72 Per Hour(Employer est.),-1,Strategic Solutions Group,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+735,Senior Software Engineer,$110K - $140K (Employer est.),3.7,New Visions for Public Schools,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+736,Embedded Software Engineer (Junior),$80K - $150K (Employer est.),-1,Bionaut Labs,"Los Angeles, CA",10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+737,Software Engineer,-1,3.9,"Tyler Technologies, Inc.",Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+738,Junior Mobile Engineer,$105K (Employer est.),-1,iNGAGED,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+739,Engineer I - Drake Software,-1,-1,Confidential,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+740,Software Engineer,$60 Per Hour(Employer est.),-1,Total Presence Management,"Phoenix, AZ",10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+741,2022 Software Engineer,$98K - $211K (Glassdoor est.),4.1,Bloomberg,"New York, NY",10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+742,Software Engineer 3,$125K (Employer est.),3.4,Homecare Homebase,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+743,Software Engineer - Remote,-1,4.6,"Medisolv, Inc.",Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+744,Software Engineer,$81K - $152K (Glassdoor est.),4.9,"Raybeam, Inc.","Seattle, WA",10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+745,Software Engineer,$80K - $115K (Employer est.),-1,Hospice Tools,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+746,Front End Software Engineer,-1,-1,"Encyclopaedia Britannica, Inc.",Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+747,Software Engineer,$74K - $147K (Glassdoor est.),2.1,Sterling Hoffman,"Los Angeles, CA",10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+748,Software Engineer,-1,-1,"Aperia Technologies, Inc",Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+749,Software Engineer,$65K - $109K (Glassdoor est.),3.7,Ecolab,"Saint Paul, MN",10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+750,Software Design Engineer in Test 3 [MP2490],-1,4.3,"Akvelon, Inc.",Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+751,Senior Software Engineer,$120K - $160K (Employer est.),-1,"Prime Trust, LLC",Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+752,Software Engineer,$120K (Employer est.),-1,"Medicom Technologies, Inc.",Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+753,Senior Software Engineer,$97K - $140K (Employer est.),-1,"240 Tutoring, Inc.",Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+754,Software Engineer,$115K - $135K (Employer est.),-1,Leaf Trade,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+755,Software Engineer,$90K - $150K (Employer est.),-1,"NovoDynamics, Inc.","Detroit, MI",10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+756,Software Engineer/PHP developer,$115K - $125K (Employer est.),3.8,Connecttel Inc.,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+757,Senior Software Engineer,$80K - $150K (Employer est.),-1,Doradus Labs,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+758,Software Engineer,$130K (Employer est.),-1,Bravely,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+759,Software Engineer,$110K (Employer est.),-1,ABOUT Healthcare,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+760,Systems/Software Engineer - SaaS - Remote,$90K - $150K (Employer est.),4.0,Mutual of Omaha,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+761,Software Engineer (Remote),$80K (Employer est.),3.4,OSMOSE UTILITIES SERVICES INC,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+762,Senior Software Engineer,$110K - $150K (Employer est.),4.1,OBMedia,"Los Angeles, CA",10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+763,Senior Software Engineer,$57 - $72 Per Hour(Employer est.),-1,Strategic Solutions Group,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+764,Senior Software Engineer,$110K - $140K (Employer est.),3.7,New Visions for Public Schools,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+765,Embedded Software Engineer (Junior),$80K - $150K (Employer est.),-1,Bionaut Labs,"Los Angeles, CA",10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+766,Software Engineer,-1,3.9,"Tyler Technologies, Inc.",Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+767,Junior Mobile Engineer,$105K (Employer est.),-1,iNGAGED,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+768,Engineer I - Drake Software,-1,-1,Confidential,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+769,2022 Software Engineer,$98K - $211K (Glassdoor est.),4.1,Bloomberg,"New York, NY",10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+770,Software Engineer 3,$125K (Employer est.),3.4,Homecare Homebase,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+771,Software Engineer,$80K - $115K (Employer est.),-1,Hospice Tools,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+772,Front End Software Engineer,-1,-1,"Encyclopaedia Britannica, Inc.",Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+773,Software Engineer,$81K - $152K (Glassdoor est.),4.9,"Raybeam, Inc.","Seattle, WA",10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+774,Software Engineer - Remote,-1,4.6,"Medisolv, Inc.",Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+775,Software Engineer,$74K - $147K (Glassdoor est.),2.1,Sterling Hoffman,"Los Angeles, CA",10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+776,Software Engineer,-1,-1,"Aperia Technologies, Inc",Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+777,Software Engineer,$65K - $109K (Glassdoor est.),3.7,Ecolab,"Saint Paul, MN",10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+778,Software Design Engineer in Test 3 [MP2490],-1,4.3,"Akvelon, Inc.",Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+779,Software Engineer I,-1,-1,Confidential,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+780,Software Engineer,$80K - $105K (Employer est.),4.6,Creative Financial Staffing,"West Hartford, CT",10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+781,Software Design Engineer 3 [MP2484],-1,4.3,"Akvelon, Inc.",Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+782,Software Engineer,$120K (Employer est.),-1,"Medicom Technologies, Inc.",Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+783,Senior Software Engineer,$97K - $140K (Employer est.),-1,"240 Tutoring, Inc.",Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+784,Software Engineer,$115K - $135K (Employer est.),-1,Leaf Trade,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+785,Software Engineer/PHP developer,$115K - $125K (Employer est.),3.8,Connecttel Inc.,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+786,Software Engineer,$90K - $150K (Employer est.),-1,"NovoDynamics, Inc.","Detroit, MI",10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+787,Software Engineer,$130K (Employer est.),-1,Bravely,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+788,Senior Software Engineer,$80K - $150K (Employer est.),-1,Doradus Labs,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+789,Software Engineer,$110K (Employer est.),-1,ABOUT Healthcare,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+790,Software Engineer (Remote),$80K (Employer est.),3.4,OSMOSE UTILITIES SERVICES INC,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+791,Senior Software Engineer,$110K - $150K (Employer est.),4.1,OBMedia,"Los Angeles, CA",10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+792,Senior Software Engineer,$110K - $140K (Employer est.),3.7,New Visions for Public Schools,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+793,Software Engineer,$60 Per Hour(Employer est.),-1,Total Presence Management,"Phoenix, AZ",10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+794,Junior Mobile Engineer,$105K (Employer est.),-1,iNGAGED,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+795,Software Engineer,-1,3.9,"Tyler Technologies, Inc.",Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+796,Embedded Software Engineer (Junior),$80K - $150K (Employer est.),-1,Bionaut Labs,"Los Angeles, CA",10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+797,2022 Software Engineer,$98K - $211K (Glassdoor est.),4.1,Bloomberg,"New York, NY",10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+798,Engineer I - Drake Software,-1,-1,Confidential,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+799,Software Engineer 3,$125K (Employer est.),3.4,Homecare Homebase,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+800,Software Design Engineer in Test 3 [MP2490],-1,4.3,"Akvelon, Inc.",Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+801,Front End Software Engineer,-1,-1,"Encyclopaedia Britannica, Inc.",Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+802,Software Engineer,$80K - $115K (Employer est.),-1,Hospice Tools,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+803,Software Engineer,$74K - $147K (Glassdoor est.),2.1,Sterling Hoffman,"Los Angeles, CA",10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+804,Software Engineer,$81K - $152K (Glassdoor est.),4.9,"Raybeam, Inc.","Seattle, WA",10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+805,Software Engineer - Remote,-1,4.6,"Medisolv, Inc.",Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+806,Software Engineer,$65K - $109K (Glassdoor est.),3.7,Ecolab,"Saint Paul, MN",10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+807,Software Engineer,-1,-1,"Aperia Technologies, Inc",Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+808,Software Engineer I,-1,-1,Confidential,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+809,Software Engineer,$80K - $150K (Employer est.),-1,TrapWire Inc.,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+810,Sr. Software Engineer,$110K - $135K (Employer est.),3.6,Les Schwab,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+811,Software Design Engineer 3 [MP2484],-1,4.3,"Akvelon, Inc.",Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+812,Software Engineer,$120K (Employer est.),-1,"Medicom Technologies, Inc.",Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+813,Senior Software Engineer,$97K - $140K (Employer est.),-1,"240 Tutoring, Inc.",Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+814,Software Engineer,$115K - $135K (Employer est.),-1,Leaf Trade,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+815,Senior Software Engineer,$80K - $150K (Employer est.),-1,Doradus Labs,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+816,Software Engineer,$90K - $150K (Employer est.),-1,"NovoDynamics, Inc.","Detroit, MI",10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+817,Software Engineer/PHP developer,$115K - $125K (Employer est.),3.8,Connecttel Inc.,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+818,Software Engineer,$130K (Employer est.),-1,Bravely,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+819,Senior Software Engineer,$110K - $150K (Employer est.),4.1,OBMedia,"Los Angeles, CA",10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+820,Software Engineer,$110K (Employer est.),-1,ABOUT Healthcare,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+821,Senior Software Engineer,$110K - $140K (Employer est.),3.7,New Visions for Public Schools,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+822,Software Engineer (Remote),$80K (Employer est.),3.4,OSMOSE UTILITIES SERVICES INC,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+823,Software Engineer,$60 Per Hour(Employer est.),-1,Total Presence Management,"Phoenix, AZ",10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+824,Junior Mobile Engineer,$105K (Employer est.),-1,iNGAGED,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+825,Software Engineer,-1,3.9,"Tyler Technologies, Inc.",Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+826,Embedded Software Engineer (Junior),$80K - $150K (Employer est.),-1,Bionaut Labs,"Los Angeles, CA",10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+827,2022 Software Engineer,$98K - $211K (Glassdoor est.),4.1,Bloomberg,"New York, NY",10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+828,Software Engineer 3,$125K (Employer est.),3.4,Homecare Homebase,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+829,Engineer I - Drake Software,-1,-1,Confidential,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+830,Software Design Engineer in Test 3 [MP2490],-1,4.3,"Akvelon, Inc.",Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+831,Front End Software Engineer,-1,-1,"Encyclopaedia Britannica, Inc.",Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+832,Software Engineer,$80K - $115K (Employer est.),-1,Hospice Tools,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+833,Software Engineer,$81K - $152K (Glassdoor est.),4.9,"Raybeam, Inc.","Seattle, WA",10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+834,Software Engineer,$74K - $147K (Glassdoor est.),2.1,Sterling Hoffman,"Los Angeles, CA",10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+835,Software Engineer - Remote,-1,4.6,"Medisolv, Inc.",Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+836,Software Engineer,$65K - $109K (Glassdoor est.),3.7,Ecolab,"Saint Paul, MN",10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+837,Software Engineer,-1,-1,"Aperia Technologies, Inc",Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+838,Sr. Software Engineer,$110K - $135K (Employer est.),3.6,Les Schwab,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+839,Sr. Software Engineer - Permanent Remote,-1,4.3,Xero,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private
+840,Software Engineer,$80K - $150K (Employer est.),-1,TrapWire Inc.,Remote,10000+ Employees,1927,Food & Beverage Stores,Food & Beverage Stores,$1 to $2 billion (USD),Company - Private

@@ -1,0 +1,871 @@
+index,job_title,salary_estimate,Rating,company_name,Location,Size,founded,industry,sector,revenue,type_of_ownership
+0,Data Scientist,$81K - $134K (Glassdoor est.),3.5,HPOne,"Trumbull, CT",501 to 1000 Employees,2006,Insurance Carriers,Insurance Carriers,$50 to $100 million (USD),Company - Private
+1,Data Scientist,$71K - $123K (Glassdoor est.),4.2,Polypore International,"Charlotte, NC",1001 to 5000 Employees,2004,Electrical & Electronic Manufacturing,Electrical & Electronic Manufacturing,$500 million to $1 billion (USD),Company - Private
+2,"Data Scientist 1, People Analytics (remote position)",$62K - $123K (Glassdoor est.),3.7,Nordstrom Inc,"Seattle, WA",10000+ Employees,1901,"Department, Clothing, & Shoe Stores","Department, Clothing, & Shoe Stores",$10+ billion (USD),Company - Public
+3,Senior Data Scientist,$150K (Employer est.),3.0,Innovative Precision Health,Remote,1 to 50 Employees,Company - Private,-1,-1,-1,Unknown / Non-Applicable
+4,,$50 - $90 Per Hour(Employer est.),-1,MetLife Legal Plans,Remote,-1,-1,-1,-1,-1,-1
+5,Data Scientist,$150K (Employer est.),4.3,American Capital Group,"Bellevue, WA",51 to 200 Employees,1986,Real Estate,Real Estate,Unknown / Non-Applicable,Company - Private
+6,Data Scientist,$100K - $125K (Employer est.),4.5,Sightly,Remote,1 to 50 Employees,Company - Public,Business Services,Business Services,-1,Advertising & Marketing
+7,Data Scientist,$35 - $75 Per Hour(Employer est.),-1,MetLife Legal Plans,Remote,-1,-1,-1,-1,-1,-1
+8,Data Scientist,$80K - $100K (Employer est.),4.0,"Continental Finance Company, LLC","Wilmington, DE",51 to 200 Employees,2005,Lending,Lending,$5 to $10 million (USD),Company - Private
+9,Data Scientist,-1,4.8,Density Inc.,Remote,1 to 50 Employees,2014,Internet,Internet,Unknown / Non-Applicable,Company - Private
+10,Data Scientist,-1,-1,Orion Solutions Group,"Detroit, MI",-1,-1,-1,-1,-1,-1
+11,Data Scientist,$145K - $175K (Employer est.),-1,EpochGeo,"Reston, VA",-1,-1,-1,-1,-1,-1
+12,Data Scientist I - 637,-1,-1,"O'Neil Global Advisors, Inc.","Austin, TX",-1,-1,-1,-1,-1,-1
+13,Data Scientist/ Engineer,-1,-1,BlueChew,"Chicago, IL",-1,-1,-1,-1,-1,-1
+14,Data Engineer,$65K - $109K (Glassdoor est.),4.5,Systems Engineering Solutions Corporation,"Chantilly, VA",51 to 200 Employees,Company - Public,Information Technology,Information Technology,-1,IT Services
+15,Data Scientist,$100K - $125K (Employer est.),-1,"VoltaGrid, LLC",Remote,-1,-1,-1,-1,-1,-1
+16,Data Scientist,$66K - $112K (Glassdoor est.),4.1,The Ohio State University,"Columbus, OH",10000+ Employees,1870,Colleges & Universities,Colleges & Universities,$5 to $10 billion (USD),College / University
+17,Data Scientist,$74K - $143K (Glassdoor est.),3.9,Strategic Financial Solutions,"New York, NY",501 to 1000 Employees,2007,Consumer Product Rental,Consumer Product Rental,Unknown / Non-Applicable,Company - Private
+18,Statistician,$24 - $30 Per Hour(Employer est.),-1,"Psychology Software Tools, Inc","Sharpsburg, PA",-1,-1,-1,-1,-1,-1
+19,Data Scientist,$92K - $149K (Glassdoor est.),3.7,Betacom,"Bellevue, WA",201 to 500 Employees,1991,Telecommunications Services,Telecommunications Services,$100 to $500 million (USD),Company - Private
+20,Senior Data Scientist [WFH],$100K - $150K (Employer est.),-1,Hyphen,Remote,-1,-1,-1,-1,-1,-1
+21,Data Scientist,$78K - $133K (Glassdoor est.),4.5,PowerAdvocate,"Boston, MA",51 to 200 Employees,1999,Energy,Energy,Unknown / Non-Applicable,Company - Public
+22,Data Scientist,$63K - $120K (Glassdoor est.),3.3,Cyient,"Phoenix, AZ",10000+ Employees,1991,IT Services,IT Services,$100 to $500 million (USD),Company - Public
+23,Data Scientist,$57K - $80K (Employer est.),-1,Miller Bros Solar,Remote,-1,-1,-1,-1,-1,-1
+24,Machine Learning Scientist,$88K - $180K (Glassdoor est.),4.9,Sense,"Cambridge, MA",1 to 50 Employees,2013,Computer Hardware & Software,Computer Hardware & Software,Unknown / Non-Applicable,Company - Private
+25,Data Scientist,$67K - $121K (Glassdoor est.),4.0,Dealerware,"Austin, TX",51 to 200 Employees,2016,Enterprise Software & Network Solutions,Enterprise Software & Network Solutions,Unknown / Non-Applicable,Company - Private
+26,Machine Learning Engineer,$80 - $95 Per Hour(Employer est.),-1,Summit Tech Partners,Remote,-1,-1,-1,-1,-1,-1
+27,Data Scientist,-1,-1,Event Dynamic,"Dallas, TX",-1,-1,-1,-1,-1,-1
+28,Data Scientist (Health Care),$33 - $50 Per Hour(Employer est.),3.4,Vinformatix,Remote,1 to 50 Employees,2008,Computer Hardware & Software,Computer Hardware & Software,$1 to $5 million (USD),Company - Private
+29,Data Scientist,$74K - $185K (Employer est.),3.7,Cambridge Technology Inc.,"Atlanta, GA",201 to 500 Employees,1999,IT Services,IT Services,Unknown / Non-Applicable,Company - Public
+30,Information Technology/Data Scientist,$44K - $58K (Employer est.),-1,Endodontic SuperSystems,"Fresno, CA",-1,-1,-1,-1,-1,-1
+31,Data Scientist,$65K (Employer est.),-1,Opanga Networks,"Seattle, WA",-1,-1,-1,-1,-1,-1
+32,Machine Learning Scientist,-1,-1,"Prenosis, Inc.",Remote,-1,-1,-1,-1,-1,-1
+33,Senior Data Scientist/Machine Learning Software Engineer,$90K (Employer est.),-1,Nearly Human AI,"Harrisburg, PA",-1,-1,-1,-1,-1,-1
+34,Data Scientist - Innovation in Analytical Chemistry,$95K (Employer est.),,Firmenich,"Plainsboro, NJ",5001 to 10000 Employees,1895,Chemical Manufacturing,Chemical Manufacturing,$2 to $5 billion (USD),Company - Private
+35,Data Scientist - SQL/Tableau,$66K - $128K (Glassdoor est.),4.5,Ursus,"Seattle, WA",51 to 200 Employees,2015,IT Services,IT Services,Unknown / Non-Applicable,Company - Private
+36,Data Scientist,$81K - $158K (Glassdoor est.),3.7,TJX Companies,"Framingham, MA",10000+ Employees,1976,"Department, Clothing, & Shoe Stores","Department, Clothing, & Shoe Stores",$10+ billion (USD),Company - Public
+37,Data Scientist (Remote - US),-1,3.4,Bon Secours Mercy Health,Ohio,10000+ Employees,2018,Health Care Services & Hospitals,Health Care Services & Hospitals,$5 to $10 billion (USD),Nonprofit Organization
+38,Data Science Engineer,$85K - $95K (Employer est.),3.7,M-Tech Systems USA,Remote,51 to 200 Employees,Company - Public,Information Technology,Information Technology,-1,Computer Hardware & Software
+39,Remote Data Scientist,-1,3.6,City of Hope,California,5001 to 10000 Employees,1913,Health Care Services & Hospitals,Health Care Services & Hospitals,$100 to $500 million (USD),Nonprofit Organization
+40,"EXPERT DATA SCIENTIST (OPERATIONS RESEARCH EMPHASIS) Open to remote work, except the following locations: CO, SD, VT, and WV",-1,4.1,NIKE INC,"Warren, OR",10000+ Employees,1972,Consumer Products Manufacturing,Consumer Products Manufacturing,$10+ billion (USD),Company - Public
+41,"Staff Data Scientist, Customer Analytics",$94K - $164K (Glassdoor est.),4.5,Intuit,"San Diego, CA",5001 to 10000 Employees,1983,Computer Hardware & Software,Computer Hardware & Software,$5 to $10 billion (USD),Company - Public
+42,Data Scientist,-1,3.6,TikTok,"Mountain View, CA",501 to 1000 Employees,2016,Internet,Internet,Unknown / Non-Applicable,Company - Private
+43,Junior Data Scientist,$40K - $75K (Employer est.),-1,"Arbor Research & Trading, LLC","Lake Barrington, Lake, IL",-1,-1,-1,-1,-1,-1
+44,Jr. Data Scientist,$60K - $91K (Employer est.),-1,Event Dynamic,"Dallas, TX",-1,-1,-1,-1,-1,-1
+45,Predictive Modeler,$75K - $125K (Employer est.),3.4,Lancer Insurance Company,Remote,201 to 500 Employees,1985,Insurance Carriers,Insurance Carriers,$100 to $500 million (USD),Company - Private
+46,"AI/ML - Annotation Analyst, Russian Language",-1,4.3,Apple,"Austin, TX",10000+ Employees,1976,Computer Hardware & Software,Computer Hardware & Software,$10+ billion (USD),Company - Public
+47,Machine Learning Scientist / Engineer (NeurIPS 2021),-1,4.3,Apple,"Seattle, WA",10000+ Employees,1976,Computer Hardware & Software,Computer Hardware & Software,$10+ billion (USD),Company - Public
+48,Data Scientist,$140K - $150K (Employer est.),-1,3-Point Recruiting,Remote,-1,-1,-1,-1,-1,-1
+49,Data Scientist,$160K (Employer est.),5.0,Engtal,Remote,1 to 50 Employees,2017,Staffing & Outsourcing,Staffing & Outsourcing,$5 to $10 million (USD),Company - Private
+50,"Data Scientist, Software Engineering Data Analytics",-1,4.3,Apple,"Cupertino, CA",10000+ Employees,1976,Computer Hardware & Software,Computer Hardware & Software,$10+ billion (USD),Company - Public
+51,Data Scientist,$73K - $135K (Glassdoor est.),3.9,Altria,"Richmond, VA",5001 to 10000 Employees,1919,Consumer Products Manufacturing,Consumer Products Manufacturing,$10+ billion (USD),Company - Public
+52,Data Scientist,$104K - $159K (Employer est.),3.5,National Security Agency,"Fort Meade, MD",Unknown,Government,Government,Government,-1,Federal Agencies
+53,Data Scientist,$30 - $47 Per Hour(Employer est.),-1,Insight Global Health,Remote,Unknown,Company - Public,-1,-1,-1,Unknown / Non-Applicable
+54,Associate Data Scientist,$67K - $100K (Employer est.),4.0,Northrop Grumman,Florida,10000+ Employees,1939,Aerospace & Defense,Aerospace & Defense,$10+ billion (USD),Company - Public
+55,Data Scientist - Digital Marketing,$59K - $133K (Glassdoor est.),4.5,Ursus,"Los Angeles, CA",51 to 200 Employees,2015,IT Services,IT Services,Unknown / Non-Applicable,Company - Private
+56,"AI/ML - Annotation Analyst, Spanish Language",-1,4.3,Apple,"Austin, TX",10000+ Employees,1976,Computer Hardware & Software,Computer Hardware & Software,$10+ billion (USD),Company - Public
+57,Senior Data Science Analyst,$100K (Employer est.),-1,JM Talent Inc.,"Seattle, WA",Unknown,Company - Public,-1,-1,-1,Unknown / Non-Applicable
+58,Senior Data Scientist - Experience Research & Analytics,-1,4.1,NIKE INC,"Newberg, OR",10000+ Employees,1972,Consumer Products Manufacturing,Consumer Products Manufacturing,$10+ billion (USD),Company - Public
+59,Data Scientist,$64K - $96K (Employer est.),3.7,Ameritas,Remote,1001 to 5000 Employees,1887,Insurance Agencies & Brokerages,Insurance Agencies & Brokerages,$2 to $5 billion (USD),Company - Private
+60,"AI/ML - Annotation Analyst, Russian Language",-1,4.3,Apple,"Austin, TX",10000+ Employees,1976,Computer Hardware & Software,Computer Hardware & Software,$10+ billion (USD),Company - Public
+61,Geospatial Data Scientist,$145K - $175K (Employer est.),-1,EpochGeo,"Reston, VA",-1,-1,-1,-1,-1,-1
+62,"Data Scientist, Software Engineering Data Analytics",-1,4.3,Apple,"Cupertino, CA",10000+ Employees,1976,Computer Hardware & Software,Computer Hardware & Software,$10+ billion (USD),Company - Public
+63,AI/ML Annotation Analyst - Brazilian Portuguese Language,-1,4.3,Apple,"Austin, TX",10000+ Employees,1976,Computer Hardware & Software,Computer Hardware & Software,$10+ billion (USD),Company - Public
+64,Machine Learning Scientist / Engineer (NeurIPS 2021),-1,4.3,Apple,"Seattle, WA",10000+ Employees,1976,Computer Hardware & Software,Computer Hardware & Software,$10+ billion (USD),Company - Public
+65,"Staff Data Scientist, Customer Analytics",$94K - $164K (Glassdoor est.),4.5,Intuit,"San Diego, CA",5001 to 10000 Employees,1983,Computer Hardware & Software,Computer Hardware & Software,$5 to $10 billion (USD),Company - Public
+66,"AI/ML - Annotation Analyst, Spanish Language",-1,4.3,Apple,"Austin, TX",10000+ Employees,1976,Computer Hardware & Software,Computer Hardware & Software,$10+ billion (USD),Company - Public
+67,Artificial Intelligence / Machine Learning Engineer,$150K (Employer est.),3.5,IkeGPS,"Broomfield, CO",51 to 200 Employees,Company - Public,Information Technology,Information Technology,-1,IT Services
+68,Data Scientist (Remote - US),-1,3.4,Bon Secours Mercy Health,Ohio,10000+ Employees,2018,Health Care Services & Hospitals,Health Care Services & Hospitals,$5 to $10 billion (USD),Nonprofit Organization
+69,"AI/ML - Annotation Analyst, Arabic Language",-1,4.3,Apple,"San Diego, CA",10000+ Employees,1976,Computer Hardware & Software,Computer Hardware & Software,$10+ billion (USD),Company - Public
+70,Associate Data Scientist,$67K - $100K (Employer est.),4.0,Northrop Grumman,Florida,10000+ Employees,1939,Aerospace & Defense,Aerospace & Defense,$10+ billion (USD),Company - Public
+71,Junior Data Scientist,$40K - $75K (Employer est.),-1,"Arbor Research & Trading, LLC","Lake Barrington, Lake, IL",-1,-1,-1,-1,-1,-1
+72,"AI/ML - Annotation Analyst, Hebrew Language",-1,4.3,Apple,"San Diego, CA",10000+ Employees,1976,Computer Hardware & Software,Computer Hardware & Software,$10+ billion (USD),Company - Public
+73,"AI/ML - Annotation Analyst, Chilean Spanish Language",-1,4.3,Apple,"San Diego, CA",10000+ Employees,1976,Computer Hardware & Software,Computer Hardware & Software,$10+ billion (USD),Company - Public
+74,Data Scientist- Development Program,$85K - $113K (Employer est.),3.5,National Security Agency,"Fort Meade, MD",Unknown,Government,Government,Government,-1,Federal Agencies
+75,Data Scientist,$79K - $149K (Glassdoor est.),3.5,Commonwealth Care Alliance,"Boston, MA",1001 to 5000 Employees,2003,Health Care Services & Hospitals,Health Care Services & Hospitals,$1 to $5 million (USD),Company - Private
+76,AI Data Scientist,$76K - $153K (Glassdoor est.),-1,Viridios AI,"New York, NY",-1,-1,-1,-1,-1,-1
+77,Data Scientist (Data Analytics),$90K - $110K (Employer est.),4.2,ERPI,"Washington, DC",201 to 500 Employees,2001,Consulting,Consulting,Unknown / Non-Applicable,Company - Private
+78,Data Analyst,$70K - $95K (Employer est.),-1,Flywheel Software,"New York, NY",-1,-1,-1,-1,-1,-1
+79,Machine Learning Engineer,-1,3.6,TikTok,"Mountain View, CA",501 to 1000 Employees,2016,Internet,Internet,Unknown / Non-Applicable,Company - Private
+80,Data Analyst (ML and AI),-1,5.0,Envision2bWell Inc,Remote,1 to 50 Employees,Company - Private,-1,-1,-1,Unknown / Non-Applicable
+81,Machine Learning Engineer,$120K - $140K (Employer est.),5.0,"Certec Consulting, inc",Remote,1 to 50 Employees,Company - Private,Agriculture & Forestry,Agriculture & Forestry,-1,Food Production
+82,Data Scientist/Data Analysis,$89K - $145K (Glassdoor est.),2.7,Specific Diagnostics,"Mountain View, CA",1 to 50 Employees,Company - Private,-1,-1,-1,Unknown / Non-Applicable
+83,Data Scientist,$64K - $96K (Employer est.),3.7,Ameritas,Remote,1001 to 5000 Employees,1887,Insurance Agencies & Brokerages,Insurance Agencies & Brokerages,$2 to $5 billion (USD),Company - Private
+84,"AI/ML - ML Applied Scientist, ML Platform & Technology",-1,4.3,Apple,"Seattle, WA",10000+ Employees,1976,Computer Hardware & Software,Computer Hardware & Software,$10+ billion (USD),Company - Public
+85,Data Scientist,$85K - $130K (Employer est.),3.9,Brightwing,Remote,51 to 200 Employees,1973,Staffing & Outsourcing,Staffing & Outsourcing,$5 to $10 million (USD),Company - Private
+86,Dir Data Analytics 1,$167K - $250K (Employer est.),4.0,Northrop Grumman,Maryland,10000+ Employees,1939,Aerospace & Defense,Aerospace & Defense,$10+ billion (USD),Company - Public
+87,"Data Scientist, Strategic Planning",$67K - $124K (Glassdoor est.),-1,Wonder,"New York, NY",1 to 50 Employees,Company - Private,-1,-1,-1,Unknown / Non-Applicable
+88,Data Scientist,$120K - $130K (Employer est.),4.1,Systems Personnel,"Buffalo, NY",1 to 50 Employees,1996,Staffing & Outsourcing,Staffing & Outsourcing,$5 to $10 million (USD),Company - Private
+89,Data Scientist,$75 Per Hour(Employer est.),4.0,Insight Global,Remote,1001 to 5000 Employees,2001,Staffing & Outsourcing,Staffing & Outsourcing,$1 to $5 million (USD),Company - Private
+90,Data Scientist,$65K (Employer est.),-1,Opanga Networks,"Seattle, WA",-1,-1,-1,-1,-1,-1
+91,"AI/ML - Annotation Analyst, Spanish Language",-1,4.3,Apple,"Austin, TX",10000+ Employees,1976,Computer Hardware & Software,Computer Hardware & Software,$10+ billion (USD),Company - Public
+92,Geospatial Data Scientist,$145K - $175K (Employer est.),-1,EpochGeo,"Reston, VA",-1,-1,-1,-1,-1,-1
+93,Senior Data Scientist/Machine Learning Software Engineer,$90K (Employer est.),-1,Nearly Human AI,"Harrisburg, PA",-1,-1,-1,-1,-1,-1
+94,Machine Learning Engineer,$80K - $125K (Employer est.),-1,Vadum Inc,"Raleigh, NC",-1,-1,-1,-1,-1,-1
+95,AI/ML Annotation Analyst - Brazilian Portuguese Language,-1,4.3,Apple,"Austin, TX",10000+ Employees,1976,Computer Hardware & Software,Computer Hardware & Software,$10+ billion (USD),Company - Public
+96,"AI/ML - Annotation Analyst, Hebrew Language",-1,4.3,Apple,"San Diego, CA",10000+ Employees,1976,Computer Hardware & Software,Computer Hardware & Software,$10+ billion (USD),Company - Public
+97,"AI/ML - Annotation Analyst, Russian Language",-1,4.3,Apple,"Austin, TX",10000+ Employees,1976,Computer Hardware & Software,Computer Hardware & Software,$10+ billion (USD),Company - Public
+98,"Staff Data Scientist, Customer Analytics",$94K - $164K (Glassdoor est.),4.5,Intuit,"San Diego, CA",5001 to 10000 Employees,1983,Computer Hardware & Software,Computer Hardware & Software,$5 to $10 billion (USD),Company - Public
+99,"AI/ML - ML Applied Scientist, ML Platform & Technology",-1,4.3,Apple,"Seattle, WA",10000+ Employees,1976,Computer Hardware & Software,Computer Hardware & Software,$10+ billion (USD),Company - Public
+100,Data Scientist (Remote - US),-1,3.4,Bon Secours Mercy Health,Ohio,10000+ Employees,2018,Health Care Services & Hospitals,Health Care Services & Hospitals,$5 to $10 billion (USD),Nonprofit Organization
+101,Associate Artificial Intelligence Engineer,-1,3.7,The MITRE Corporation,"McLean, VA",5001 to 10000 Employees,1958,Federal Agencies,Federal Agencies,$1 to $2 billion (USD),Nonprofit Organization
+102,Artificial Intelligence / Machine Learning Engineer,$150K (Employer est.),3.5,IkeGPS,"Broomfield, CO",51 to 200 Employees,Company - Public,Information Technology,Information Technology,-1,IT Services
+103,"Senior Data Scientist, Emerging Areas Open to remote work, except in CO, SD, VT, AND WV",-1,4.1,NIKE INC,"Oregon City, OR",10000+ Employees,1972,Consumer Products Manufacturing,Consumer Products Manufacturing,$10+ billion (USD),Company - Public
+104,Junior Data Scientist,$40K - $75K (Employer est.),-1,"Arbor Research & Trading, LLC","Lake Barrington, Lake, IL",-1,-1,-1,-1,-1,-1
+105,"AI/ML - Machine Learning Engineer, ML Platform & Technology",-1,4.3,Apple,"Seattle, WA",10000+ Employees,1976,Computer Hardware & Software,Computer Hardware & Software,$10+ billion (USD),Company - Public
+106,Data Scientist/Data Analysis,$89K - $145K (Glassdoor est.),2.7,Specific Diagnostics,"Mountain View, CA",1 to 50 Employees,Company - Private,-1,-1,-1,Unknown / Non-Applicable
+107,Customer Transformation Data Scientist,$81K - $146K (Glassdoor est.),3.9,PwC,"New York, NY",10000+ Employees,1998,Consulting,Consulting,$5 to $10 billion (USD),Company - Private
+108,Machine Learning Engineer,-1,3.6,TikTok,"Mountain View, CA",501 to 1000 Employees,2016,Internet,Internet,Unknown / Non-Applicable,Company - Private
+109,"Data Scientist, Software Engineering Data Analytics",-1,4.3,Apple,"Cupertino, CA",10000+ Employees,1976,Computer Hardware & Software,Computer Hardware & Software,$10+ billion (USD),Company - Public
+110,"AI/ML - Annotation Analyst, Canadian French Language",-1,4.3,Apple,"Austin, TX",10000+ Employees,1976,Computer Hardware & Software,Computer Hardware & Software,$10+ billion (USD),Company - Public
+111,Data Analyst,$70K - $95K (Employer est.),-1,Flywheel Software,"New York, NY",-1,-1,-1,-1,-1,-1
+112,Dir Data Analytics 1,$167K - $250K (Employer est.),4.0,Northrop Grumman,Maryland,10000+ Employees,1939,Aerospace & Defense,Aerospace & Defense,$10+ billion (USD),Company - Public
+113,Deep Learning Engineer - Perception Algorithms,-1,4.3,Apple,"Seattle, WA",10000+ Employees,1976,Computer Hardware & Software,Computer Hardware & Software,$10+ billion (USD),Company - Public
+114,"Data Scientist, Strategic Planning",$67K - $124K (Glassdoor est.),-1,Wonder,"New York, NY",1 to 50 Employees,Company - Private,-1,-1,-1,Unknown / Non-Applicable
+115,Computer Vision Data Scientist,-1,4.3,Apple,"Seattle, WA",10000+ Employees,1976,Computer Hardware & Software,Computer Hardware & Software,$10+ billion (USD),Company - Public
+116,"Analyst I/II, Data Science",$85K - $123K (Employer est.),3.8,Liberty Mutual Insurance,Remote,10000+ Employees,1912,Insurance Carriers,Insurance Carriers,$10+ billion (USD),Company - Private
+117,"ISE, SIML - Robustness Analysis ML Engineer",-1,4.3,Apple,"Cupertino, CA",10000+ Employees,1976,Computer Hardware & Software,Computer Hardware & Software,$10+ billion (USD),Company - Public
+118,"AI/ML - ML Engineer Engineer, ADPT, ML Platform & Technology",-1,4.3,Apple,"Seattle, WA",10000+ Employees,1976,Computer Hardware & Software,Computer Hardware & Software,$10+ billion (USD),Company - Public
+119,Staff Data Scientist,$170K - $190K (Employer est.),4.0,Harnham,Remote,51 to 200 Employees,2006,Staffing & Outsourcing,Staffing & Outsourcing,$25 to $50 million (USD),Company - Private
+120,Data Scientist,$65K (Employer est.),-1,Opanga Networks,"Seattle, WA",-1,-1,-1,-1,-1,-1
+121,"Staff Data Scientist, Customer Analytics",$94K - $164K (Glassdoor est.),4.5,Intuit,"San Diego, CA",5001 to 10000 Employees,1983,Computer Hardware & Software,Computer Hardware & Software,$5 to $10 billion (USD),Company - Public
+122,Geospatial Data Scientist,$145K - $175K (Employer est.),-1,EpochGeo,"Reston, VA",-1,-1,-1,-1,-1,-1
+123,"Data Scientist, Software Engineering Data Analytics",-1,4.3,Apple,"Cupertino, CA",10000+ Employees,1976,Computer Hardware & Software,Computer Hardware & Software,$10+ billion (USD),Company - Public
+124,Deep Learning Engineer - Perception Algorithms,-1,4.3,Apple,"Seattle, WA",10000+ Employees,1976,Computer Hardware & Software,Computer Hardware & Software,$10+ billion (USD),Company - Public
+125,"AI/ML - Annotation Analyst, Russian Language",-1,4.3,Apple,"Austin, TX",10000+ Employees,1976,Computer Hardware & Software,Computer Hardware & Software,$10+ billion (USD),Company - Public
+126,AI/ML Annotation Analyst - Brazilian Portuguese Language,-1,4.3,Apple,"Austin, TX",10000+ Employees,1976,Computer Hardware & Software,Computer Hardware & Software,$10+ billion (USD),Company - Public
+127,Data Scientist (Remote - US),-1,3.4,Bon Secours Mercy Health,Ohio,10000+ Employees,2018,Health Care Services & Hospitals,Health Care Services & Hospitals,$5 to $10 billion (USD),Nonprofit Organization
+128,"AI/ML - Annotation Analyst, Spanish Language",-1,4.3,Apple,"Austin, TX",10000+ Employees,1976,Computer Hardware & Software,Computer Hardware & Software,$10+ billion (USD),Company - Public
+129,"AI/ML - Annotation Analyst, Hebrew Language",-1,4.3,Apple,"San Diego, CA",10000+ Employees,1976,Computer Hardware & Software,Computer Hardware & Software,$10+ billion (USD),Company - Public
+130,Customer Transformation Data Scientist,$81K - $146K (Glassdoor est.),3.9,PwC,"New York, NY",10000+ Employees,1998,Consulting,Consulting,$5 to $10 billion (USD),Company - Private
+131,"AI/ML - Annotation Analyst, Canadian French Language",-1,4.3,Apple,"Austin, TX",10000+ Employees,1976,Computer Hardware & Software,Computer Hardware & Software,$10+ billion (USD),Company - Public
+132,"Analyst I/II, Data Science",$85K - $139K (Employer est.),3.8,Liberty Mutual Insurance,Remote,10000+ Employees,1912,Insurance Carriers,Insurance Carriers,$10+ billion (USD),Company - Private
+133,Dir Data Analytics 1,$167K - $250K (Employer est.),4.0,Northrop Grumman,Maryland,10000+ Employees,1939,Aerospace & Defense,Aerospace & Defense,$10+ billion (USD),Company - Public
+134,Computer Vision Data Scientist,-1,4.3,Apple,"Seattle, WA",10000+ Employees,1976,Computer Hardware & Software,Computer Hardware & Software,$10+ billion (USD),Company - Public
+135,Data Scientist,$79K - $149K (Glassdoor est.),3.5,Commonwealth Care Alliance,"Boston, MA",1001 to 5000 Employees,2003,Health Care Services & Hospitals,Health Care Services & Hospitals,$1 to $5 million (USD),Company - Private
+136,Machine Learning Scientist / Engineer (NeurIPS 2021),-1,4.3,Apple,"Seattle, WA",10000+ Employees,1976,Computer Hardware & Software,Computer Hardware & Software,$10+ billion (USD),Company - Public
+137,Data Analyst,$70K - $95K (Employer est.),-1,Flywheel Software,"New York, NY",-1,-1,-1,-1,-1,-1
+138,Data Scientist/Data Analysis,$89K - $145K (Glassdoor est.),2.7,Specific Diagnostics,"Mountain View, CA",1 to 50 Employees,Company - Private,-1,-1,-1,Unknown / Non-Applicable
+139,"Data Scientist, Strategic Planning",$67K - $124K (Glassdoor est.),-1,Wonder,"New York, NY",1 to 50 Employees,Company - Private,-1,-1,-1,Unknown / Non-Applicable
+140,"AI/ML - ML Applied Scientist, ML Platform & Technology",-1,4.3,Apple,"Seattle, WA",10000+ Employees,1976,Computer Hardware & Software,Computer Hardware & Software,$10+ billion (USD),Company - Public
+141,Machine Learning Engineer,$160K - $180K (Employer est.),4.0,Harnham,"Pittsburgh, PA",51 to 200 Employees,2006,Staffing & Outsourcing,Staffing & Outsourcing,$25 to $50 million (USD),Company - Private
+142,Deep Learning Engineer,$150K - $160K (Employer est.),4.0,Harnham,"Pittsburgh, PA",51 to 200 Employees,2006,Staffing & Outsourcing,Staffing & Outsourcing,$25 to $50 million (USD),Company - Private
+143,Computer Vision Data Scientist,$110K - $130K (Employer est.),4.0,Harnham,"Cincinnati, OH",51 to 200 Employees,2006,Staffing & Outsourcing,Staffing & Outsourcing,$25 to $50 million (USD),Company - Private
+144,"Data Scientist, Game Analytics",$75K - $149K (Glassdoor est.),3.6,Niantic,"Culver City, CA",501 to 1000 Employees,2011,Video Games,Video Games,Unknown / Non-Applicable,Company - Private
+145,"Data Scientist, Marketing Analytics",-1,3.3,Tinder,Remote,201 to 500 Employees,2012,Internet,Internet,Unknown / Non-Applicable,Company - Public
+146,Data Scientist,$115K - $150K (Employer est.),-1,Proton.ai,"Boston, MA",-1,-1,-1,-1,-1,-1
+147,"DATA SCIENTIST, PEOPLE ANALYTICS",-1,4.4,DraftKings,Remote,1001 to 5000 Employees,2012,Internet,Internet,Unknown / Non-Applicable,Company - Public
+148,"Data Scientist, Analytics (University Grad)",-1,-1,Facebook App,Remote,-1,-1,-1,-1,-1,-1
+149,Data Scientist / Machine Learning Engineer (contract),$76K - $126K (Glassdoor est.),4.2,Pfizer,"Collegeville, PA",10000+ Employees,1849,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$10+ billion (USD),Company - Public
+150,BioInformatician (Data Scientist II),$62K - $128K (Glassdoor est.),3.8,Battelle,"West Jefferson, OH",10000+ Employees,1929,Research & Development,Research & Development,$5 to $10 billion (USD),Nonprofit Organization
+151,IT Data Analyst,$57K - $104K (Glassdoor est.),3.7,Amneal Pharmaceuticals,"Bridgewater, NJ",5001 to 10000 Employees,2002,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$1 to $2 billion (USD),Company - Public
+152,Machine Learning Software Engineer,$66K - $135K (Glassdoor est.),4.0,In-Depth Engineering Corporation,"Columbia, MD",51 to 200 Employees,Government,-1,-1,-1,$10 to $25 million (USD)
+153,Machine Learning Engineer,$62K - $114K (Glassdoor est.),5.0,"Expedition Technology, Inc.","Washington, VA",51 to 200 Employees,2013,Aerospace & Defense,Aerospace & Defense,$10 to $25 million (USD),Company - Private
+154,Deep Learning Engineer,$60K - $104K (Glassdoor est.),4.5,PsychoGenics,,51 to 200 Employees,1999,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$10 to $25 million (USD),Company - Private
+155,Data Architect,-1,4.4,Soaren Management,Remote,51 to 200 Employees,2015,Lending,Lending,Unknown / Non-Applicable,Company - Private
+156,Data Scientist,$70K - $112K (Glassdoor est.),4.2,Booz Allen Hamilton,"Norfolk, VA",10000+ Employees,1914,Consulting,Consulting,$5 to $10 billion (USD),Company - Public
+157,Senior Machine Learning Data Scientist,$106K - $197K (Glassdoor est.),3.5,CaaStle,"Mountain View, CA",201 to 500 Employees,2012,Enterprise Software & Network Solutions,Enterprise Software & Network Solutions,Unknown / Non-Applicable,Company - Private
+158,Postdoc on Machine Learning & AI in Medical Imaging (Univ. of Pennsylvania),-1,4.3,"University of Pennsylvania, Department of Radiology","Philadelphia, PA",10000+ Employees,1740,Colleges & Universities,Colleges & Universities,Unknown / Non-Applicable,College / University
+159,Lead Applied Data Scientist,$66K - $128K (Glassdoor est.),2.9,GameStop,"Grapevine, TX",10000+ Employees,2000,Toy & Hobby Stores,Toy & Hobby Stores,$5 to $10 billion (USD),Company - Public
+160,Research Data Scientist,$75K - $145K (Glassdoor est.),3.9,Intelligent Automation,"Rockville, MD",51 to 200 Employees,1987,"Health, Beauty, & Fitness","Health, Beauty, & Fitness",$25 to $50 million (USD),Company - Private
+161,Data Scientist,$64K - $109K (Glassdoor est.),4.3,Johns Hopkins Applied Physics Laboratory (APL),"Offutt A F B, NE",5001 to 10000 Employees,1942,Aerospace & Defense,Aerospace & Defense,$1 to $2 billion (USD),Nonprofit Organization
+162,Data Scientist,$66K - $149K (Glassdoor est.),4.4,Lendio,"Lehi, UT",501 to 1000 Employees,2011,Lending,Lending,$50 to $100 million (USD),Company - Private
+163,Data Scientist,$64K - $107K (Glassdoor est.),4.1,CarShield,"O'Fallon, MO",1001 to 5000 Employees,2005,Consumer Product Rental,Consumer Product Rental,Unknown / Non-Applicable,Company - Public
+164,"Research Scientist - Computer Vision, Machine Learning",$63K - $117K (Glassdoor est.),3.9,Intelligent Automation,"Rockville, MD",51 to 200 Employees,1987,"Health, Beauty, & Fitness","Health, Beauty, & Fitness",$25 to $50 million (USD),Company - Private
+165,Data Scientist,-1,3.7,Van Pool Transportation,Massachusetts,501 to 1000 Employees,1986,Transportation Management,Transportation Management,Unknown / Non-Applicable,Company - Private
+166,Information Technology/Data Scientist,$44K - $58K (Employer est.),-1,Endodontic SuperSystems,"Fresno, CA",-1,-1,-1,-1,-1,-1
+167,Data Scientist,$63K - $127K (Glassdoor est.),3.8,"SalesPad, LLC","Grand Rapids, MI",51 to 200 Employees,2003,Computer Hardware & Software,Computer Hardware & Software,$10 to $25 million (USD),Company - Private
+168,Data Scientist,$71K - $116K (Glassdoor est.),4.2,Akoya Biosciences,"Marlborough, MA",51 to 200 Employees,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,-1,Biotech & Pharmaceuticals
+169,Clinical Data Scientist,$99K - $148K (Employer est.),4.1,"Vizient, Inc.",Remote,1001 to 5000 Employees,1977,Health Care Services & Hospitals,Health Care Services & Hospitals,$500 million to $1 billion (USD),Company - Private
+170,BI Data Engineer/ Data Scientist,$70K - $123K (Glassdoor est.),3.6,Golden State Foods,"Irvine, CA",5001 to 10000 Employees,1947,Wholesale,Wholesale,$5 to $10 billion (USD),Company - Private
+171,Data Analyst 2 – Strategic Analytics,$113K (Employer est.),3.7,Nordstrom,"Seattle, WA",10000+ Employees,1901,"Department, Clothing, & Shoe Stores","Department, Clothing, & Shoe Stores",$10+ billion (USD),Company - Public
+172,Genomics Staff Data Scientist,$94K - $171K (Glassdoor est.),4.4,Lawrence Berkeley National Laboratory,"San Francisco, CA",1001 to 5000 Employees,1931,Research & Development,Research & Development,$500 million to $1 billion (USD),Government
+173,"Data Scientist, Pricing",$67K - $139K (Glassdoor est.),2.9,GameStop,"Seattle, WA",10000+ Employees,2000,Toy & Hobby Stores,Toy & Hobby Stores,$5 to $10 billion (USD),Company - Public
+174,Machine Learning Engineer,$87K - $159K (Glassdoor est.),4.7,MORSE Corp,"Cambridge, MA",51 to 200 Employees,2014,Aerospace & Defense,Aerospace & Defense,Unknown / Non-Applicable,Company - Private
+175,Data Analyst 3,$64K - $120K (Glassdoor est.),3.7,Nordstrom Inc,"Seattle, WA",10000+ Employees,1901,"Department, Clothing, & Shoe Stores","Department, Clothing, & Shoe Stores",$10+ billion (USD),Company - Public
+176,Digital Data Scientist,$74K - $148K (Glassdoor est.),4.0,Westlake Chemical,"Houston, TX",10000+ Employees,1986,Chemical Manufacturing,Chemical Manufacturing,$5 to $10 billion (USD),Company - Public
+177,Senior NLP Data Scientist,$155K - $190K (Employer est.),4.4,Espire Services,Remote,1 to 50 Employees,Contract,-1,-1,-1,Less than $1 million (USD)
+178,Data Scientist Associate-CXI,$51K - $97K (Glassdoor est.),3.8,SCAN Health Plan,"Long Beach, CA",1001 to 5000 Employees,1977,Insurance Carriers,Insurance Carriers,$2 to $5 billion (USD),Nonprofit Organization
+179,Bioinformatician / Data Scientist,$67K - $130K (Glassdoor est.),4.2,Novartis,"Cambridge, MA",Unknown,Company - Public,-1,-1,-1,Unknown / Non-Applicable
+180,"Data Scientist 1, People Analytics (remote position)",$62K - $123K (Glassdoor est.),3.7,Nordstrom Inc,"Seattle, WA",10000+ Employees,1901,"Department, Clothing, & Shoe Stores","Department, Clothing, & Shoe Stores",$10+ billion (USD),Company - Public
+181,Information Technology/Data Scientist,$44K - $58K (Employer est.),-1,Endodontic SuperSystems,"Fresno, CA",-1,-1,-1,-1,-1,-1
+182,Data Analyst 2 – Strategic Analytics,$113K (Employer est.),3.7,Nordstrom,"Seattle, WA",10000+ Employees,1901,"Department, Clothing, & Shoe Stores","Department, Clothing, & Shoe Stores",$10+ billion (USD),Company - Public
+183,Data Scientist,,4.2,Akoya Biosciences,"Marlborough, MA",51 to 200 Employees,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,-1,Biotech & Pharmaceuticals
+184,"Data Scientist, Pricing",$67K - $139K (Glassdoor est.),2.9,GameStop,"Seattle, WA",10000+ Employees,2000,Toy & Hobby Stores,Toy & Hobby Stores,$5 to $10 billion (USD),Company - Public
+185,Data Scientist,$150K (Employer est.),4.3,American Capital Group,"Bellevue, WA",51 to 200 Employees,1986,Real Estate,Real Estate,Unknown / Non-Applicable,Company - Private
+186,Data Scientist,$65K (Employer est.),-1,Opanga Networks,"Seattle, WA",-1,-1,-1,-1,-1,-1
+187,Machine Learning Scientist,-1,-1,"Prenosis, Inc.",Remote,-1,-1,-1,-1,-1,-1
+188,Data Scientist,$100K - $125K (Employer est.),4.5,Sightly,Remote,1 to 50 Employees,Company - Public,Business Services,Business Services,-1,Advertising & Marketing
+189,Data Scientist I - 637,-1,-1,"O'Neil Global Advisors, Inc.","Austin, TX",-1,-1,-1,-1,-1,-1
+190,Data Scientist,$80K - $100K (Employer est.),4.0,"Continental Finance Company, LLC","Wilmington, DE",51 to 200 Employees,2005,Lending,Lending,$5 to $10 million (USD),Company - Private
+191,Data Scientist,-1,4.8,Density Inc.,Remote,1 to 50 Employees,2014,Internet,Internet,Unknown / Non-Applicable,Company - Private
+192,Data Scientist/ Engineer,-1,-1,BlueChew,"Chicago, IL",-1,-1,-1,-1,-1,-1
+193,Data Scientist,$35 - $75 Per Hour(Employer est.),-1,MetLife Legal Plans,Remote,-1,-1,-1,-1,-1,-1
+194,Data Scientist,-1,-1,Orion Solutions Group,"Detroit, MI",-1,-1,-1,-1,-1,-1
+195,Machine Learning Scientist,$88K - $180K (Glassdoor est.),4.9,Sense,"Cambridge, MA",1 to 50 Employees,2013,Computer Hardware & Software,Computer Hardware & Software,Unknown / Non-Applicable,Company - Private
+196,Statistician,$24 - $30 Per Hour(Employer est.),-1,"Psychology Software Tools, Inc","Sharpsburg, PA",-1,-1,-1,-1,-1,-1
+197,Data Scientist,$100K - $125K (Employer est.),-1,"VoltaGrid, LLC",Remote,-1,-1,-1,-1,-1,-1
+198,Data Scientist (Trust & Standards) - FreeWheel,$58K - $152K (Glassdoor est.),3.8,Comcast,"New York, NY",10000+ Employees,1963,Telecommunications Services,Telecommunications Services,$10+ billion (USD),Company - Public
+199,Geospatial Data Scientist,$145K - $175K (Employer est.),-1,EpochGeo,"Reston, VA",-1,-1,-1,-1,-1,-1
+200,Data Scientist,$78K - $133K (Glassdoor est.),4.5,PowerAdvocate,"Boston, MA",51 to 200 Employees,1999,Energy,Energy,Unknown / Non-Applicable,Company - Public
+201,Data Scientist,$57K - $80K (Employer est.),-1,Miller Bros Solar,Remote,-1,-1,-1,-1,-1,-1
+202,"Staff Data Scientist, Customer Analytics",$94K - $164K (Glassdoor est.),4.5,Intuit,"San Diego, CA",5001 to 10000 Employees,1983,Computer Hardware & Software,Computer Hardware & Software,$5 to $10 billion (USD),Company - Public
+203,Data Scientist (Health Care),$33 - $50 Per Hour(Employer est.),3.4,Vinformatix,Remote,1 to 50 Employees,2008,Computer Hardware & Software,Computer Hardware & Software,$1 to $5 million (USD),Company - Private
+204,Data Scientist,$63K - $120K (Glassdoor est.),3.3,Cyient,"Phoenix, AZ",10000+ Employees,1991,IT Services,IT Services,$100 to $500 million (USD),Company - Public
+205,Machine Learning Engineer,$80K - $125K (Employer est.),-1,Vadum Inc,"Raleigh, NC",-1,-1,-1,-1,-1,-1
+206,Machine Learning Engineer,$80 - $95 Per Hour(Employer est.),-1,Summit Tech Partners,Remote,-1,-1,-1,-1,-1,-1
+207,Data Scientist - Innovation in Analytical Chemistry,$95K (Employer est.),4.0,Firmenich,"Plainsboro, NJ",5001 to 10000 Employees,1895,Chemical Manufacturing,Chemical Manufacturing,$2 to $5 billion (USD),Company - Private
+208,Machine Learning Petroleum Engineer,-1,3.9,Leidos,"Albany, OR",10000+ Employees,1969,Aerospace & Defense,Aerospace & Defense,$10+ billion (USD),Company - Public
+209,Data Scientist,$81K - $158K (Glassdoor est.),3.7,TJX Companies,"Framingham, MA",10000+ Employees,1976,"Department, Clothing, & Shoe Stores","Department, Clothing, & Shoe Stores",$10+ billion (USD),Company - Public
+210,"Data Scientist 1, People Analytics (remote position)",$62K - $123K (Glassdoor est.),3.7,Nordstrom Inc,"Seattle, WA",10000+ Employees,1901,"Department, Clothing, & Shoe Stores","Department, Clothing, & Shoe Stores",$10+ billion (USD),Company - Public
+211,"Data Scientist, Pricing",$67K - $139K (Glassdoor est.),2.9,GameStop,"Seattle, WA",10000+ Employees,2000,Toy & Hobby Stores,Toy & Hobby Stores,$5 to $10 billion (USD),Company - Public
+212,Data Scientist,$150K (Employer est.),4.3,American Capital Group,"Bellevue, WA",51 to 200 Employees,1986,Real Estate,Real Estate,Unknown / Non-Applicable,Company - Private
+213,Data Scientist,,-1,Opanga Networks,"Seattle, WA",-1,-1,-1,-1,-1,-1
+214,Machine Learning Scientist,-1,-1,"Prenosis, Inc.",Remote,-1,-1,-1,-1,-1,-1
+215,Senior Data Scientist,$150K (Employer est.),3.0,Innovative Precision Health,Remote,1 to 50 Employees,Company - Private,-1,-1,-1,Unknown / Non-Applicable
+216,Data Scientist,$100K - $125K (Employer est.),4.5,Sightly,Remote,1 to 50 Employees,Company - Public,Business Services,Business Services,-1,Advertising & Marketing
+217,Data Scientist (Trust & Standards) - FreeWheel,$58K - $152K (Glassdoor est.),3.8,Comcast,"New York, NY",10000+ Employees,1963,Telecommunications Services,Telecommunications Services,$10+ billion (USD),Company - Public
+218,Data Scientist I - 637,-1,-1,"O'Neil Global Advisors, Inc.","Austin, TX",-1,-1,-1,-1,-1,-1
+219,Data Scientist,$80K - $100K (Employer est.),4.0,"Continental Finance Company, LLC","Wilmington, DE",51 to 200 Employees,2005,Lending,Lending,$5 to $10 million (USD),Company - Private
+220,Data Scientist/ Engineer,-1,-1,BlueChew,"Chicago, IL",-1,-1,-1,-1,-1,-1
+221,Data Scientist,-1,4.8,Density Inc.,Remote,1 to 50 Employees,2014,Internet,Internet,Unknown / Non-Applicable,Company - Private
+222,Data Scientist,-1,-1,Orion Solutions Group,"Detroit, MI",-1,-1,-1,-1,-1,-1
+223,Data Scientist,$35 - $75 Per Hour(Employer est.),-1,MetLife Legal Plans,Remote,-1,-1,-1,-1,-1,-1
+224,Machine Learning Scientist,$88K - $180K (Glassdoor est.),4.9,Sense,"Cambridge, MA",1 to 50 Employees,2013,Computer Hardware & Software,Computer Hardware & Software,Unknown / Non-Applicable,Company - Private
+225,Data Scientist,$92K - $149K (Glassdoor est.),3.7,Betacom,"Bellevue, WA",201 to 500 Employees,1991,Telecommunications Services,Telecommunications Services,$100 to $500 million (USD),Company - Private
+226,Statistician,$24 - $30 Per Hour(Employer est.),-1,"Psychology Software Tools, Inc","Sharpsburg, PA",-1,-1,-1,-1,-1,-1
+227,Data Scientist,$68K - $124K (Glassdoor est.),3.5,Bloomingdale’s,"Long Island City, NY",10000+ Employees,1861,"Department, Clothing, & Shoe Stores","Department, Clothing, & Shoe Stores",$1 to $2 billion (USD),Subsidiary or Business Segment
+228,Geospatial Data Scientist,$145K - $175K (Employer est.),-1,EpochGeo,"Reston, VA",-1,-1,-1,-1,-1,-1
+229,Data Scientist,$100K - $125K (Employer est.),-1,"VoltaGrid, LLC",Remote,-1,-1,-1,-1,-1,-1
+230,Data Scientist,$78K - $133K (Glassdoor est.),4.5,PowerAdvocate,"Boston, MA",51 to 200 Employees,1999,Energy,Energy,Unknown / Non-Applicable,Company - Public
+231,Statistician/ Sampling Specialist,$59K - $147K (Employer est.),-1,"Key Associates, P.C",Remote,-1,-1,-1,-1,-1,-1
+232,Machine Learning Engineer,$80K - $125K (Employer est.),-1,Vadum Inc,"Raleigh, NC",-1,-1,-1,-1,-1,-1
+233,Data Scientist (Health Care),$33 - $50 Per Hour(Employer est.),3.4,Vinformatix,Remote,1 to 50 Employees,2008,Computer Hardware & Software,Computer Hardware & Software,$1 to $5 million (USD),Company - Private
+234,Data Scientist,$57K - $80K (Employer est.),-1,Miller Bros Solar,Remote,-1,-1,-1,-1,-1,-1
+235,Machine Learning Engineer,$80 - $95 Per Hour(Employer est.),-1,Summit Tech Partners,Remote,-1,-1,-1,-1,-1,-1
+236,Data Scientist,$63K - $120K (Glassdoor est.),3.3,Cyient,"Phoenix, AZ",10000+ Employees,1991,IT Services,IT Services,$100 to $500 million (USD),Company - Public
+237,Senior Data Scientist [WFH],$100K - $150K (Employer est.),-1,Hyphen,Remote,-1,-1,-1,-1,-1,-1
+238,"Staff Data Scientist, Customer Analytics",$94K - $164K (Glassdoor est.),4.5,Intuit,"San Diego, CA",5001 to 10000 Employees,1983,Computer Hardware & Software,Computer Hardware & Software,$5 to $10 billion (USD),Company - Public
+239,Data Scientist,$140K - $150K (Employer est.),-1,3-Point Recruiting,Remote,-1,-1,-1,-1,-1,-1
+240,"Data Scientist 1, People Analytics (remote position)",$62K - $123K (Glassdoor est.),3.7,Nordstrom Inc,"Seattle, WA",10000+ Employees,1901,"Department, Clothing, & Shoe Stores","Department, Clothing, & Shoe Stores",$10+ billion (USD),Company - Public
+241,Information Technology/Data Scientist,$44K - $58K (Employer est.),-1,Endodontic SuperSystems,"Fresno, CA",-1,-1,-1,-1,-1,-1
+242,"Data Scientist, Pricing",$67K - $139K (Glassdoor est.),2.9,GameStop,"Seattle, WA",10000+ Employees,2000,Toy & Hobby Stores,Toy & Hobby Stores,$5 to $10 billion (USD),Company - Public
+243,Data Scientist,,4.3,American Capital Group,"Bellevue, WA",51 to 200 Employees,1986,Real Estate,Real Estate,Unknown / Non-Applicable,Company - Private
+244,Data Scientist,$100K - $125K (Employer est.),4.5,Sightly,Remote,1 to 50 Employees,Company - Public,Business Services,Business Services,-1,Advertising & Marketing
+245,Data Scientist I - 637,-1,-1,"O'Neil Global Advisors, Inc.","Austin, TX",-1,-1,-1,-1,-1,-1
+246,Data Scientist,$80K - $100K (Employer est.),4.0,"Continental Finance Company, LLC","Wilmington, DE",51 to 200 Employees,2005,Lending,Lending,$5 to $10 million (USD),Company - Private
+247,Data Scientist/ Engineer,-1,-1,BlueChew,"Chicago, IL",-1,-1,-1,-1,-1,-1
+248,Data Scientist,-1,-1,Orion Solutions Group,"Detroit, MI",-1,-1,-1,-1,-1,-1
+249,Statistician,$24 - $30 Per Hour(Employer est.),-1,"Psychology Software Tools, Inc","Sharpsburg, PA",-1,-1,-1,-1,-1,-1
+250,Data Scientist,-1,4.8,Density Inc.,Remote,1 to 50 Employees,2014,Internet,Internet,Unknown / Non-Applicable,Company - Private
+251,Data Scientist,$35 - $75 Per Hour(Employer est.),-1,MetLife Legal Plans,Remote,-1,-1,-1,-1,-1,-1
+252,Statistician/ Sampling Specialist,$59K - $147K (Employer est.),-1,"Key Associates, P.C",Remote,-1,-1,-1,-1,-1,-1
+253,Machine Learning Scientist,$88K - $180K (Glassdoor est.),4.9,Sense,"Cambridge, MA",1 to 50 Employees,2013,Computer Hardware & Software,Computer Hardware & Software,Unknown / Non-Applicable,Company - Private
+254,Geospatial Data Scientist,$145K - $175K (Employer est.),-1,EpochGeo,"Reston, VA",-1,-1,-1,-1,-1,-1
+255,Data Scientist,$100K - $125K (Employer est.),-1,"VoltaGrid, LLC",Remote,-1,-1,-1,-1,-1,-1
+256,Machine Learning Engineer,$80K - $125K (Employer est.),-1,Vadum Inc,"Raleigh, NC",-1,-1,-1,-1,-1,-1
+257,Data Scientist,$57K - $80K (Employer est.),-1,Miller Bros Solar,Remote,-1,-1,-1,-1,-1,-1
+258,Data Scientist,$78K - $133K (Glassdoor est.),4.5,PowerAdvocate,"Boston, MA",51 to 200 Employees,1999,Energy,Energy,Unknown / Non-Applicable,Company - Public
+259,Data Scientist (Health Care),$33 - $50 Per Hour(Employer est.),3.4,Vinformatix,Remote,1 to 50 Employees,2008,Computer Hardware & Software,Computer Hardware & Software,$1 to $5 million (USD),Company - Private
+260,Machine Learning Engineer,$80 - $95 Per Hour(Employer est.),-1,Summit Tech Partners,Remote,-1,-1,-1,-1,-1,-1
+261,Statistician,$33 - $39 Per Hour(Employer est.),-1,Sciome LLC,"Research Triangle Park, NC",-1,-1,-1,-1,-1,-1
+262,Data Scientist,$63K - $120K (Glassdoor est.),3.3,Cyient,"Phoenix, AZ",10000+ Employees,1991,IT Services,IT Services,$100 to $500 million (USD),Company - Public
+263,AI/ML Annotation Analyst - Brazilian Portuguese Language,-1,4.3,Apple,"Austin, TX",10000+ Employees,1976,Computer Hardware & Software,Computer Hardware & Software,$10+ billion (USD),Company - Public
+264,"Staff Data Scientist, Customer Analytics",$94K - $164K (Glassdoor est.),4.5,Intuit,"San Diego, CA",5001 to 10000 Employees,1983,Computer Hardware & Software,Computer Hardware & Software,$5 to $10 billion (USD),Company - Public
+265,Data Scientist,$140K - $150K (Employer est.),-1,3-Point Recruiting,Remote,-1,-1,-1,-1,-1,-1
+266,"AI/ML - Annotation Analyst, Russian Language",-1,4.3,Apple,"Austin, TX",10000+ Employees,1976,Computer Hardware & Software,Computer Hardware & Software,$10+ billion (USD),Company - Public
+267,Data Scientist,$81K - $158K (Glassdoor est.),3.7,TJX Companies,"Framingham, MA",10000+ Employees,1976,"Department, Clothing, & Shoe Stores","Department, Clothing, & Shoe Stores",$10+ billion (USD),Company - Public
+268,Data Scientist - Innovation in Analytical Chemistry,$95K (Employer est.),4.0,Firmenich,"Plainsboro, NJ",5001 to 10000 Employees,1895,Chemical Manufacturing,Chemical Manufacturing,$2 to $5 billion (USD),Company - Private
+269,Data Engineer,-1,-1,"Prenosis, Inc.",Remote,-1,-1,-1,-1,-1,-1
+270,"Data Scientist 1, People Analytics (remote position)",$62K - $123K (Glassdoor est.),3.7,Nordstrom Inc,"Seattle, WA",10000+ Employees,1901,"Department, Clothing, & Shoe Stores","Department, Clothing, & Shoe Stores",$10+ billion (USD),Company - Public
+271,Information Technology/Data Scientist,$44K - $58K (Employer est.),-1,Endodontic SuperSystems,"Fresno, CA",-1,-1,-1,-1,-1,-1
+272,Data Scientist,$150K (Employer est.),4.3,American Capital Group,"Bellevue, WA",51 to 200 Employees,1986,Real Estate,Real Estate,Unknown / Non-Applicable,Company - Private
+273,Data Scientist,,4.5,Sightly,Remote,1 to 50 Employees,Company - Public,Business Services,Business Services,-1,Advertising & Marketing
+274,Data Scientist I - 637,-1,-1,"O'Neil Global Advisors, Inc.","Austin, TX",-1,-1,-1,-1,-1,-1
+275,Data Scientist,$80K - $100K (Employer est.),4.0,"Continental Finance Company, LLC","Wilmington, DE",51 to 200 Employees,2005,Lending,Lending,$5 to $10 million (USD),Company - Private
+276,Data Scientist,-1,-1,Orion Solutions Group,"Detroit, MI",-1,-1,-1,-1,-1,-1
+277,Data Scientist/ Engineer,-1,-1,BlueChew,"Chicago, IL",-1,-1,-1,-1,-1,-1
+278,Statistician,$24 - $30 Per Hour(Employer est.),-1,"Psychology Software Tools, Inc","Sharpsburg, PA",-1,-1,-1,-1,-1,-1
+279,Data Scientist,-1,4.8,Density Inc.,Remote,1 to 50 Employees,2014,Internet,Internet,Unknown / Non-Applicable,Company - Private
+280,Data Scientist,$35 - $75 Per Hour(Employer est.),-1,MetLife Legal Plans,Remote,-1,-1,-1,-1,-1,-1
+281,AI/ML Annotation Analyst - Brazilian Portuguese Language,-1,4.3,Apple,"Austin, TX",10000+ Employees,1976,Computer Hardware & Software,Computer Hardware & Software,$10+ billion (USD),Company - Public
+282,Machine Learning Scientist,$88K - $180K (Glassdoor est.),4.9,Sense,"Cambridge, MA",1 to 50 Employees,2013,Computer Hardware & Software,Computer Hardware & Software,Unknown / Non-Applicable,Company - Private
+283,Geospatial Data Scientist,$145K - $175K (Employer est.),-1,EpochGeo,"Reston, VA",-1,-1,-1,-1,-1,-1
+284,Data Scientist,$100K - $125K (Employer est.),-1,"VoltaGrid, LLC",Remote,-1,-1,-1,-1,-1,-1
+285,Machine Learning Engineer,$80K - $125K (Employer est.),-1,Vadum Inc,"Raleigh, NC",-1,-1,-1,-1,-1,-1
+286,"AI/ML - Annotation Analyst, Russian Language",-1,4.3,Apple,"Austin, TX",10000+ Employees,1976,Computer Hardware & Software,Computer Hardware & Software,$10+ billion (USD),Company - Public
+287,Data Scientist,$57K - $80K (Employer est.),-1,Miller Bros Solar,Remote,-1,-1,-1,-1,-1,-1
+288,Data Scientist,$78K - $133K (Glassdoor est.),4.5,PowerAdvocate,"Boston, MA",51 to 200 Employees,1999,Energy,Energy,Unknown / Non-Applicable,Company - Public
+289,Data Scientist (Health Care),$33 - $50 Per Hour(Employer est.),3.4,Vinformatix,Remote,1 to 50 Employees,2008,Computer Hardware & Software,Computer Hardware & Software,$1 to $5 million (USD),Company - Private
+290,Machine Learning Engineer,$80 - $95 Per Hour(Employer est.),-1,Summit Tech Partners,Remote,-1,-1,-1,-1,-1,-1
+291,Data Scientist,$63K - $120K (Glassdoor est.),3.3,Cyient,"Phoenix, AZ",10000+ Employees,1991,IT Services,IT Services,$100 to $500 million (USD),Company - Public
+292,Statistician,$33 - $39 Per Hour(Employer est.),-1,Sciome LLC,"Research Triangle Park, NC",-1,-1,-1,-1,-1,-1
+293,"Staff Data Scientist, Customer Analytics",$94K - $164K (Glassdoor est.),4.5,Intuit,"San Diego, CA",5001 to 10000 Employees,1983,Computer Hardware & Software,Computer Hardware & Software,$5 to $10 billion (USD),Company - Public
+294,Data Scientist,$140K - $150K (Employer est.),-1,3-Point Recruiting,Remote,-1,-1,-1,-1,-1,-1
+295,Data Scientist,$81K - $158K (Glassdoor est.),3.7,TJX Companies,"Framingham, MA",10000+ Employees,1976,"Department, Clothing, & Shoe Stores","Department, Clothing, & Shoe Stores",$10+ billion (USD),Company - Public
+296,"AI/ML - Annotation Analyst, Spanish Language",-1,4.3,Apple,"Austin, TX",10000+ Employees,1976,Computer Hardware & Software,Computer Hardware & Software,$10+ billion (USD),Company - Public
+297,Data Scientist,-1,-1,Event Dynamic,"Dallas, TX",-1,-1,-1,-1,-1,-1
+298,Data Scientist (Remote - US),-1,3.4,Bon Secours Mercy Health,Ohio,10000+ Employees,2018,Health Care Services & Hospitals,Health Care Services & Hospitals,$5 to $10 billion (USD),Nonprofit Organization
+299,Data Scientist - Innovation in Analytical Chemistry,$95K (Employer est.),4.0,Firmenich,"Plainsboro, NJ",5001 to 10000 Employees,1895,Chemical Manufacturing,Chemical Manufacturing,$2 to $5 billion (USD),Company - Private
+300,"Data Scientist 1, People Analytics (remote position)",$62K - $123K (Glassdoor est.),3.7,Nordstrom Inc,"Seattle, WA",10000+ Employees,1901,"Department, Clothing, & Shoe Stores","Department, Clothing, & Shoe Stores",$10+ billion (USD),Company - Public
+301,Information Technology/Data Scientist,$44K - $58K (Employer est.),-1,Endodontic SuperSystems,"Fresno, CA",-1,-1,-1,-1,-1,-1
+302,"Data Scientist, Pricing",$67K - $139K (Glassdoor est.),2.9,GameStop,"Seattle, WA",10000+ Employees,2000,Toy & Hobby Stores,Toy & Hobby Stores,$5 to $10 billion (USD),Company - Public
+303,Data Scientist,,4.3,American Capital Group,"Bellevue, WA",51 to 200 Employees,1986,Real Estate,Real Estate,Unknown / Non-Applicable,Company - Private
+304,Data Scientist,$65K (Employer est.),-1,Opanga Networks,"Seattle, WA",-1,-1,-1,-1,-1,-1
+305,Data Scientist,$100K - $125K (Employer est.),4.5,Sightly,Remote,1 to 50 Employees,Company - Public,Business Services,Business Services,-1,Advertising & Marketing
+306,Senior Data Scientist,$150K (Employer est.),3.0,Innovative Precision Health,Remote,1 to 50 Employees,Company - Private,-1,-1,-1,Unknown / Non-Applicable
+307,Data Scientist I - 637,-1,-1,"O'Neil Global Advisors, Inc.","Austin, TX",-1,-1,-1,-1,-1,-1
+308,Data Scientist,$80K - $100K (Employer est.),4.0,"Continental Finance Company, LLC","Wilmington, DE",51 to 200 Employees,2005,Lending,Lending,$5 to $10 million (USD),Company - Private
+309,Data Scientist,$67K - $121K (Glassdoor est.),4.0,Dealerware,"Austin, TX",51 to 200 Employees,2016,Enterprise Software & Network Solutions,Enterprise Software & Network Solutions,Unknown / Non-Applicable,Company - Private
+310,Statistician,$24 - $30 Per Hour(Employer est.),-1,"Psychology Software Tools, Inc","Sharpsburg, PA",-1,-1,-1,-1,-1,-1
+311,Data Scientist/ Engineer,-1,-1,BlueChew,"Chicago, IL",-1,-1,-1,-1,-1,-1
+312,Data Scientist,-1,-1,Orion Solutions Group,"Detroit, MI",-1,-1,-1,-1,-1,-1
+313,Data Scientist,-1,4.8,Density Inc.,Remote,-1,-1,-1,-1,-1,-1
+314,Data Scientist,$35 - $75 Per Hour(Employer est.),-1,MetLife Legal Plans,Remote,-1,-1,-1,-1,-1,-1
+315,Machine Learning Scientist,$88K - $180K (Glassdoor est.),4.9,Sense,"Cambridge, MA",1 to 50 Employees,2013,Computer Hardware & Software,Computer Hardware & Software,Unknown / Non-Applicable,Company - Private
+316,"AI/ML - Annotation Analyst, Russian Language",-1,4.3,Apple,"Austin, TX",10000+ Employees,1976,Computer Hardware & Software,Computer Hardware & Software,$10+ billion (USD),Company - Public
+317,Statistician/ Sampling Specialist,$59K - $147K (Employer est.),-1,"Key Associates, P.C",Remote,-1,-1,-1,-1,-1,-1
+318,"AI/ML - Annotation Analyst, Spanish Language",-1,4.3,Apple,"Austin, TX",10000+ Employees,1976,Computer Hardware & Software,Computer Hardware & Software,$10+ billion (USD),Company - Public
+319,Data Scientist,$100K - $125K (Employer est.),-1,"VoltaGrid, LLC",Remote,-1,-1,-1,-1,-1,-1
+320,Data Scientist (Health Care),$33 - $50 Per Hour(Employer est.),3.4,Vinformatix,Remote,1 to 50 Employees,2008,Computer Hardware & Software,Computer Hardware & Software,$1 to $5 million (USD),Company - Private
+321,Geospatial Data Scientist,$145K - $175K (Employer est.),-1,EpochGeo,"Reston, VA",-1,-1,-1,-1,-1,-1
+322,Data Scientist,$57K - $80K (Employer est.),-1,Miller Bros Solar,Remote,-1,-1,-1,-1,-1,-1
+323,Machine Learning Engineer,$80K - $125K (Employer est.),-1,Vadum Inc,"Raleigh, NC",-1,-1,-1,-1,-1,-1
+324,"Staff Data Scientist, Customer Analytics",$94K - $164K (Glassdoor est.),4.5,Intuit,"San Diego, CA",5001 to 10000 Employees,1983,Computer Hardware & Software,Computer Hardware & Software,$5 to $10 billion (USD),Company - Public
+325,Data Scientist,$78K - $133K (Glassdoor est.),4.5,PowerAdvocate,"Boston, MA",51 to 200 Employees,1999,Energy,Energy,Unknown / Non-Applicable,Company - Public
+326,AI/ML Annotation Analyst - Brazilian Portuguese Language,-1,4.3,Apple,"Austin, TX",10000+ Employees,1976,Computer Hardware & Software,Computer Hardware & Software,$10+ billion (USD),Company - Public
+327,Data Scientist,$63K - $120K (Glassdoor est.),3.3,Cyient,"Phoenix, AZ",10000+ Employees,1991,IT Services,IT Services,$100 to $500 million (USD),Company - Public
+328,Machine Learning Engineer,$80 - $95 Per Hour(Employer est.),-1,Summit Tech Partners,Remote,-1,-1,-1,-1,-1,-1
+329,Statistician,$33 - $39 Per Hour(Employer est.),-1,Sciome LLC,"Research Triangle Park, NC",-1,-1,-1,-1,-1,-1
+330,"Data Scientist 1, People Analytics (remote position)",$62K - $123K (Glassdoor est.),3.7,Nordstrom Inc,"Seattle, WA",10000+ Employees,1901,"Department, Clothing, & Shoe Stores","Department, Clothing, & Shoe Stores",$10+ billion (USD),Company - Public
+331,Information Technology/Data Scientist,$44K - $58K (Employer est.),-1,Endodontic SuperSystems,"Fresno, CA",-1,-1,-1,-1,-1,-1
+332,Data Scientist,$71K - $116K (Glassdoor est.),4.2,Akoya Biosciences,"Marlborough, MA",51 to 200 Employees,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,-1,Biotech & Pharmaceuticals
+333,"Data Scientist, Pricing",,2.9,GameStop,"Seattle, WA",10000+ Employees,2000,Toy & Hobby Stores,Toy & Hobby Stores,$5 to $10 billion (USD),Company - Public
+334,Data Scientist,$150K (Employer est.),4.3,American Capital Group,"Bellevue, WA",51 to 200 Employees,1986,Real Estate,Real Estate,Unknown / Non-Applicable,Company - Private
+335,Data Scientist,$65K (Employer est.),-1,Opanga Networks,"Seattle, WA",-1,-1,-1,-1,-1,-1
+336,Senior Data Scientist,$150K (Employer est.),3.0,Innovative Precision Health,Remote,1 to 50 Employees,Company - Private,-1,-1,-1,Unknown / Non-Applicable
+337,Data Scientist,$100K - $125K (Employer est.),4.5,Sightly,Remote,1 to 50 Employees,Company - Public,Business Services,Business Services,-1,Advertising & Marketing
+338,Data Scientist I - 637,-1,-1,"O'Neil Global Advisors, Inc.","Austin, TX",-1,-1,-1,-1,-1,-1
+339,Data Scientist,$80K - $100K (Employer est.),4.0,"Continental Finance Company, LLC","Wilmington, DE",51 to 200 Employees,2005,Lending,Lending,$5 to $10 million (USD),Company - Private
+340,Data Scientist,$67K - $121K (Glassdoor est.),4.0,Dealerware,"Austin, TX",51 to 200 Employees,2016,Enterprise Software & Network Solutions,Enterprise Software & Network Solutions,Unknown / Non-Applicable,Company - Private
+341,Statistician,$24 - $30 Per Hour(Employer est.),-1,"Psychology Software Tools, Inc","Sharpsburg, PA",-1,-1,-1,-1,-1,-1
+342,Data Scientist,-1,-1,Orion Solutions Group,"Detroit, MI",-1,-1,-1,-1,-1,-1
+343,Data Scientist/ Engineer,-1,-1,BlueChew,"Chicago, IL",-1,-1,-1,-1,-1,-1
+344,Data Scientist,-1,4.8,Density Inc.,Remote,1 to 50 Employees,2014,Internet,Internet,Unknown / Non-Applicable,Company - Private
+345,Data Scientist,$35 - $75 Per Hour(Employer est.),-1,MetLife Legal Plans,Remote,-1,-1,-1,-1,-1,-1
+346,Statistician/ Sampling Specialist,$59K - $147K (Employer est.),-1,"Key Associates, P.C",Remote,-1,-1,-1,-1,-1,-1
+347,AI/ML Annotation Analyst - Brazilian Portuguese Language,-1,4.3,Apple,"Austin, TX",10000+ Employees,1976,Computer Hardware & Software,Computer Hardware & Software,$10+ billion (USD),Company - Public
+348,Data Scientist,$92K - $149K (Glassdoor est.),3.7,Betacom,"Bellevue, WA",201 to 500 Employees,1991,Telecommunications Services,Telecommunications Services,$100 to $500 million (USD),Company - Private
+349,Machine Learning Scientist,$88K - $180K (Glassdoor est.),4.9,Sense,"Cambridge, MA",1 to 50 Employees,2013,Computer Hardware & Software,Computer Hardware & Software,Unknown / Non-Applicable,Company - Private
+350,Geospatial Data Scientist,$145K - $175K (Employer est.),-1,EpochGeo,"Reston, VA",-1,-1,-1,-1,-1,-1
+351,"AI/ML - Annotation Analyst, Spanish Language",-1,4.3,Apple,"Austin, TX",10000+ Employees,1976,Computer Hardware & Software,Computer Hardware & Software,$10+ billion (USD),Company - Public
+352,"AI/ML - Annotation Analyst, Russian Language",-1,4.3,Apple,"Austin, TX",10000+ Employees,1976,Computer Hardware & Software,Computer Hardware & Software,$10+ billion (USD),Company - Public
+353,Data Scientist,$100K - $125K (Employer est.),-1,"VoltaGrid, LLC",Remote,-1,-1,-1,-1,-1,-1
+354,Data Scientist (Health Care),$33 - $50 Per Hour(Employer est.),3.4,Vinformatix,Remote,1 to 50 Employees,2008,Computer Hardware & Software,Computer Hardware & Software,$1 to $5 million (USD),Company - Private
+355,Data Scientist,$57K - $80K (Employer est.),-1,Miller Bros Solar,Remote,-1,-1,-1,-1,-1,-1
+356,Machine Learning Engineer,$80K - $125K (Employer est.),-1,Vadum Inc,"Raleigh, NC",-1,-1,-1,-1,-1,-1
+357,"Staff Data Scientist, Customer Analytics",$94K - $164K (Glassdoor est.),4.5,Intuit,"San Diego, CA",5001 to 10000 Employees,1983,Computer Hardware & Software,Computer Hardware & Software,$5 to $10 billion (USD),Company - Public
+358,Data Scientist,$78K - $133K (Glassdoor est.),4.5,PowerAdvocate,"Boston, MA",51 to 200 Employees,1999,Energy,Energy,Unknown / Non-Applicable,Company - Public
+359,Data Scientist,$63K - $120K (Glassdoor est.),3.3,Cyient,"Phoenix, AZ",10000+ Employees,1991,IT Services,IT Services,$100 to $500 million (USD),Company - Public
+360,"Data Scientist 1, People Analytics (remote position)",$62K - $123K (Glassdoor est.),3.7,Nordstrom Inc,"Seattle, WA",10000+ Employees,1901,"Department, Clothing, & Shoe Stores","Department, Clothing, & Shoe Stores",$10+ billion (USD),Company - Public
+361,Information Technology/Data Scientist,$44K - $58K (Employer est.),-1,Endodontic SuperSystems,"Fresno, CA",-1,-1,-1,-1,-1,-1
+362,Data Scientist,$65K (Employer est.),-1,Opanga Networks,"Seattle, WA",-1,-1,-1,-1,-1,-1
+363,Data Scientist,,4.3,American Capital Group,"Bellevue, WA",51 to 200 Employees,1986,Real Estate,Real Estate,Unknown / Non-Applicable,Company - Private
+364,Data Scientist,$100K - $125K (Employer est.),4.5,Sightly,Remote,1 to 50 Employees,Company - Public,Business Services,Business Services,-1,Advertising & Marketing
+365,Data Scientist I - 637,-1,-1,"O'Neil Global Advisors, Inc.","Austin, TX",-1,-1,-1,-1,-1,-1
+366,Data Scientist,$80K - $100K (Employer est.),4.0,"Continental Finance Company, LLC","Wilmington, DE",51 to 200 Employees,2005,Lending,Lending,$5 to $10 million (USD),Company - Private
+367,Statistician,$24 - $30 Per Hour(Employer est.),-1,"Psychology Software Tools, Inc","Sharpsburg, PA",-1,-1,-1,-1,-1,-1
+368,Data Scientist,-1,4.8,Density Inc.,Remote,1 to 50 Employees,2014,Internet,Internet,Unknown / Non-Applicable,Company - Private
+369,Data Scientist,$35 - $75 Per Hour(Employer est.),-1,MetLife Legal Plans,Remote,-1,-1,-1,-1,-1,-1
+370,Statistician/ Sampling Specialist,$59K - $147K (Employer est.),-1,"Key Associates, P.C",Remote,-1,-1,-1,-1,-1,-1
+371,Machine Learning Scientist,$88K - $180K (Glassdoor est.),4.9,Sense,"Cambridge, MA",1 to 50 Employees,2013,Computer Hardware & Software,Computer Hardware & Software,Unknown / Non-Applicable,Company - Private
+372,AI/ML Annotation Analyst - Brazilian Portuguese Language,-1,4.3,Apple,"Austin, TX",10000+ Employees,1976,Computer Hardware & Software,Computer Hardware & Software,$10+ billion (USD),Company - Public
+373,Data Scientist,$100K - $125K (Employer est.),-1,"VoltaGrid, LLC",Remote,-1,-1,-1,-1,-1,-1
+374,Geospatial Data Scientist,$145K - $175K (Employer est.),-1,EpochGeo,"Washington, DC",-1,-1,-1,-1,-1,-1
+375,Data Scientist (Health Care),$33 - $50 Per Hour(Employer est.),3.4,Vinformatix,Remote,1 to 50 Employees,2008,Computer Hardware & Software,Computer Hardware & Software,$1 to $5 million (USD),Company - Private
+376,"AI/ML - Annotation Analyst, Russian Language",-1,4.3,Apple,"Austin, TX",10000+ Employees,1976,Computer Hardware & Software,Computer Hardware & Software,$10+ billion (USD),Company - Public
+377,Data Scientist,$57K - $80K (Employer est.),-1,Miller Bros Solar,Remote,-1,-1,-1,-1,-1,-1
+378,Data Scientist,$78K - $133K (Glassdoor est.),4.5,PowerAdvocate,"Boston, MA",51 to 200 Employees,1999,Energy,Energy,Unknown / Non-Applicable,Company - Public
+379,Machine Learning Engineer,$80 - $95 Per Hour(Employer est.),-1,Summit Tech Partners,Remote,-1,-1,-1,-1,-1,-1
+380,Data Scientist,$63K - $120K (Glassdoor est.),3.3,Cyient,"Phoenix, AZ",10000+ Employees,1991,IT Services,IT Services,$100 to $500 million (USD),Company - Public
+381,"AI/ML - Annotation Analyst, Spanish Language",-1,4.3,Apple,"Austin, TX",10000+ Employees,1976,Computer Hardware & Software,Computer Hardware & Software,$10+ billion (USD),Company - Public
+382,"Staff Data Scientist, Customer Analytics",$94K - $164K (Glassdoor est.),4.5,Intuit,"San Diego, CA",5001 to 10000 Employees,1983,Computer Hardware & Software,Computer Hardware & Software,$5 to $10 billion (USD),Company - Public
+383,Data Scientist,$140K - $150K (Employer est.),-1,3-Point Recruiting,Remote,-1,-1,-1,-1,-1,-1
+384,Data Engineer,-1,-1,"Prenosis, Inc.",Remote,-1,-1,-1,-1,-1,-1
+385,Data Scientist - Innovation in Analytical Chemistry,$95K (Employer est.),4.0,Firmenich,"Plainsboro, NJ",5001 to 10000 Employees,1895,Chemical Manufacturing,Chemical Manufacturing,$2 to $5 billion (USD),Company - Private
+386,Data Science Engineer,$85K - $95K (Employer est.),3.7,M-Tech Systems USA,Remote,51 to 200 Employees,Company - Public,Information Technology,Information Technology,-1,Computer Hardware & Software
+387,Data Scientist (Remote - US),-1,3.4,Bon Secours Mercy Health,Ohio,10000+ Employees,2018,Health Care Services & Hospitals,Health Care Services & Hospitals,$5 to $10 billion (USD),Nonprofit Organization
+388,Data Engineer,$90K - $130K (Employer est.),-1,Synergis,Remote,-1,-1,-1,-1,-1,-1
+389,Junior Data Scientist,$40K - $75K (Employer est.),-1,"Arbor Research & Trading, LLC","Lake Barrington, Lake, IL",-1,-1,-1,-1,-1,-1
+390,"Data Scientist 1, People Analytics (remote position)",$62K - $123K (Glassdoor est.),3.7,Nordstrom Inc,"Seattle, WA",10000+ Employees,1901,"Department, Clothing, & Shoe Stores","Department, Clothing, & Shoe Stores",$10+ billion (USD),Company - Public
+391,Information Technology/Data Scientist,$44K - $58K (Employer est.),-1,Endodontic SuperSystems,"Fresno, CA",-1,-1,-1,-1,-1,-1
+392,Data Scientist,$71K - $116K (Glassdoor est.),4.2,Akoya Biosciences,"Marlborough, MA",51 to 200 Employees,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,-1,Biotech & Pharmaceuticals
+393,"Data Scientist, Pricing",,2.9,GameStop,"Seattle, WA",10000+ Employees,2000,Toy & Hobby Stores,Toy & Hobby Stores,$5 to $10 billion (USD),Company - Public
+394,Data Scientist,$65K (Employer est.),-1,Opanga Networks,"Seattle, WA",-1,-1,-1,-1,-1,-1
+395,Data Scientist,$150K (Employer est.),4.3,American Capital Group,"Bellevue, WA",51 to 200 Employees,1986,Real Estate,Real Estate,Unknown / Non-Applicable,Company - Private
+396,Machine Learning Scientist,-1,-1,"Prenosis, Inc.",Remote,-1,-1,-1,-1,-1,-1
+397,Senior Data Scientist,$150K (Employer est.),3.0,Innovative Precision Health,Remote,1 to 50 Employees,Company - Private,-1,-1,-1,Unknown / Non-Applicable
+398,Data Scientist,$100K - $125K (Employer est.),4.5,Sightly,Remote,1 to 50 Employees,Company - Public,Business Services,Business Services,-1,Advertising & Marketing
+399,Data Scientist I - 637,-1,-1,"O'Neil Global Advisors, Inc.","Austin, TX",-1,-1,-1,-1,-1,-1
+400,Data Scientist,$67K - $121K (Glassdoor est.),4.0,Dealerware,"Austin, TX",51 to 200 Employees,2016,Enterprise Software & Network Solutions,Enterprise Software & Network Solutions,Unknown / Non-Applicable,Company - Private
+401,Data Scientist,-1,-1,Orion Solutions Group,"Detroit, MI",-1,-1,-1,-1,-1,-1
+402,Data Scientist,$80K - $100K (Employer est.),4.0,"Continental Finance Company, LLC","Wilmington, DE",51 to 200 Employees,2005,Lending,Lending,$5 to $10 million (USD),Company - Private
+403,Data Scientist/ Engineer,-1,-1,BlueChew,"Chicago, IL",-1,-1,-1,-1,-1,-1
+404,Data Scientist,-1,4.8,Density Inc.,Remote,1 to 50 Employees,2014,Internet,Internet,Unknown / Non-Applicable,Company - Private
+405,Data Scientist,$35 - $75 Per Hour(Employer est.),-1,MetLife Legal Plans,Remote,-1,-1,-1,-1,-1,-1
+406,Machine Learning Scientist,$88K - $180K (Glassdoor est.),4.9,Sense,"Cambridge, MA",1 to 50 Employees,2013,Computer Hardware & Software,Computer Hardware & Software,Unknown / Non-Applicable,Company - Private
+407,Statistician,$24 - $30 Per Hour(Employer est.),-1,"Psychology Software Tools, Inc","Sharpsburg, PA",-1,-1,-1,-1,-1,-1
+408,Jr. Data Scientist - Customer Analytics,$67K - $131K (Glassdoor est.),3.0,Lidl US,"Arlington, VA",10000+ Employees,1994,Grocery Stores & Supermarkets,Grocery Stores & Supermarkets,$10+ billion (USD),Company - Private
+409,Data Scientist,$100K - $125K (Employer est.),-1,"VoltaGrid, LLC",Remote,-1,-1,-1,-1,-1,-1
+410,"AI/ML - Annotation Analyst, Russian Language",-1,4.3,Apple,"Austin, TX",10000+ Employees,1976,Computer Hardware & Software,Computer Hardware & Software,$10+ billion (USD),Company - Public
+411,Data Scientist (Health Care),$33 - $50 Per Hour(Employer est.),3.4,Vinformatix,Remote,1 to 50 Employees,2008,Computer Hardware & Software,Computer Hardware & Software,$1 to $5 million (USD),Company - Private
+412,Geospatial Data Scientist,$145K - $175K (Employer est.),-1,EpochGeo,"Reston, VA",-1,-1,-1,-1,-1,-1
+413,Data Scientist,$57K - $80K (Employer est.),-1,Miller Bros Solar,Remote,-1,-1,-1,-1,-1,-1
+414,Data Scientist - Innovation in Analytical Chemistry,$95K (Employer est.),4.0,Firmenich,"Plainsboro, NJ",5001 to 10000 Employees,1895,Chemical Manufacturing,Chemical Manufacturing,$2 to $5 billion (USD),Company - Private
+415,AI/ML Annotation Analyst - Brazilian Portuguese Language,-1,4.3,Apple,"Austin, TX",10000+ Employees,1976,Computer Hardware & Software,Computer Hardware & Software,$10+ billion (USD),Company - Public
+416,Data Scientist,$78K - $133K (Glassdoor est.),4.5,PowerAdvocate,"Boston, MA",51 to 200 Employees,1999,Energy,Energy,Unknown / Non-Applicable,Company - Public
+417,Machine Learning Engineer,$80 - $95 Per Hour(Employer est.),-1,Summit Tech Partners,Remote,-1,-1,-1,-1,-1,-1
+418,Data Scientist,$63K - $120K (Glassdoor est.),3.3,Cyient,"Phoenix, AZ",10000+ Employees,1991,IT Services,IT Services,$100 to $500 million (USD),Company - Public
+419,"Staff Data Scientist, Customer Analytics",$94K - $164K (Glassdoor est.),4.5,Intuit,"San Diego, CA",5001 to 10000 Employees,1983,Computer Hardware & Software,Computer Hardware & Software,$5 to $10 billion (USD),Company - Public
+420,"Data Scientist 1, People Analytics (remote position)",$62K - $123K (Glassdoor est.),3.7,Nordstrom Inc,"Seattle, WA",10000+ Employees,1901,"Department, Clothing, & Shoe Stores","Department, Clothing, & Shoe Stores",$10+ billion (USD),Company - Public
+421,Information Technology/Data Scientist,$44K - $58K (Employer est.),-1,Endodontic SuperSystems,"Fresno, CA",-1,-1,-1,-1,-1,-1
+422,Data Scientist,$71K - $116K (Glassdoor est.),4.2,Akoya Biosciences,"Marlborough, MA",51 to 200 Employees,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,-1,Biotech & Pharmaceuticals
+423,Data Scientist,,-1,Opanga Networks,"Seattle, WA",-1,-1,-1,-1,-1,-1
+424,Data Scientist,$150K (Employer est.),4.3,American Capital Group,"Bellevue, WA",51 to 200 Employees,1986,Real Estate,Real Estate,Unknown / Non-Applicable,Company - Private
+425,Data Scientist,$100K - $125K (Employer est.),4.5,Sightly,Remote,1 to 50 Employees,Company - Public,Business Services,Business Services,-1,Advertising & Marketing
+426,Data Scientist I - 637,-1,-1,"O'Neil Global Advisors, Inc.","Austin, TX",-1,-1,-1,-1,-1,-1
+427,Data Scientist/ Engineer,-1,-1,BlueChew,"Chicago, IL",-1,-1,-1,-1,-1,-1
+428,Data Scientist,$80K - $100K (Employer est.),4.0,"Continental Finance Company, LLC","Wilmington, DE",51 to 200 Employees,2005,Lending,Lending,$5 to $10 million (USD),Company - Private
+429,Data Scientist,-1,-1,Orion Solutions Group,"Detroit, MI",-1,-1,-1,-1,-1,-1
+430,Statistician,$24 - $30 Per Hour(Employer est.),-1,"Psychology Software Tools, Inc","Sharpsburg, PA",-1,-1,-1,-1,-1,-1
+431,Data Scientist,-1,4.8,Density Inc.,Remote,1 to 50 Employees,2014,Internet,Internet,Unknown / Non-Applicable,Company - Private
+432,Data Scientist,$35 - $75 Per Hour(Employer est.),-1,MetLife Legal Plans,Remote,-1,-1,-1,-1,-1,-1
+433,Machine Learning Scientist,$88K - $180K (Glassdoor est.),4.9,Sense,"Cambridge, MA",1 to 50 Employees,2013,Computer Hardware & Software,Computer Hardware & Software,Unknown / Non-Applicable,Company - Private
+434,Jr. Data Scientist - Customer Analytics,$67K - $131K (Glassdoor est.),3.0,Lidl US,"Arlington, VA",10000+ Employees,1994,Grocery Stores & Supermarkets,Grocery Stores & Supermarkets,$10+ billion (USD),Company - Private
+435,AI/ML Annotation Analyst - Brazilian Portuguese Language,-1,4.3,Apple,"Austin, TX",10000+ Employees,1976,Computer Hardware & Software,Computer Hardware & Software,$10+ billion (USD),Company - Public
+436,Data Scientist,$78K - $133K (Glassdoor est.),4.5,PowerAdvocate,"Boston, MA",51 to 200 Employees,1999,Energy,Energy,Unknown / Non-Applicable,Company - Public
+437,Data Scientist,$100K - $125K (Employer est.),-1,"VoltaGrid, LLC",Remote,-1,-1,-1,-1,-1,-1
+438,Data Scientist - Innovation in Analytical Chemistry,$95K (Employer est.),4.0,Firmenich,"Plainsboro, NJ",5001 to 10000 Employees,1895,Chemical Manufacturing,Chemical Manufacturing,$2 to $5 billion (USD),Company - Private
+439,"AI/ML - Annotation Analyst, Russian Language",-1,4.3,Apple,"Austin, TX",10000+ Employees,1976,Computer Hardware & Software,Computer Hardware & Software,$10+ billion (USD),Company - Public
+440,Geospatial Data Scientist,$145K - $175K (Employer est.),-1,EpochGeo,"Reston, VA",-1,-1,-1,-1,-1,-1
+441,Data Scientist,$57K - $80K (Employer est.),-1,Miller Bros Solar,Remote,-1,-1,-1,-1,-1,-1
+442,Data Scientist (Health Care),$33 - $50 Per Hour(Employer est.),3.4,Vinformatix,Remote,1 to 50 Employees,2008,Computer Hardware & Software,Computer Hardware & Software,$1 to $5 million (USD),Company - Private
+443,Data Scientist,$63K - $120K (Glassdoor est.),3.3,Cyient,"Phoenix, AZ",10000+ Employees,1991,IT Services,IT Services,$100 to $500 million (USD),Company - Public
+444,Statistician,$33 - $39 Per Hour(Employer est.),-1,Sciome LLC,"Research Triangle Park, NC",-1,-1,-1,-1,-1,-1
+445,"Staff Data Scientist, Customer Analytics",$94K - $164K (Glassdoor est.),4.5,Intuit,"San Diego, CA",5001 to 10000 Employees,1983,Computer Hardware & Software,Computer Hardware & Software,$5 to $10 billion (USD),Company - Public
+446,Data Scientist,$140K - $150K (Employer est.),-1,3-Point Recruiting,Remote,-1,-1,-1,-1,-1,-1
+447,Human Genetics Data Scientist,$80K - $155K (Glassdoor est.),4.2,Novartis,"Cambridge, MA",Unknown,Company - Public,-1,-1,-1,Unknown / Non-Applicable
+448,Data Scientist,$81K - $158K (Glassdoor est.),3.7,TJX Companies,"Framingham, MA",10000+ Employees,1976,"Department, Clothing, & Shoe Stores","Department, Clothing, & Shoe Stores",$10+ billion (USD),Company - Public
+449,Data Scientist,-1,-1,Event Dynamic,"Dallas, TX",-1,-1,-1,-1,-1,-1
+450,"Data Scientist 1, People Analytics (remote position)",$62K - $123K (Glassdoor est.),3.7,Nordstrom Inc,"Seattle, WA",10000+ Employees,1901,"Department, Clothing, & Shoe Stores","Department, Clothing, & Shoe Stores",,Company - Public
+451,Information Technology/Data Scientist,$44K - $58K (Employer est.),-1,Endodontic SuperSystems,"Fresno, CA",-1,-1,-1,-1,-1,-1
+452,Data Scientist,$71K - $116K (Glassdoor est.),4.2,Akoya Biosciences,"Marlborough, MA",51 to 200 Employees,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,-1,Biotech & Pharmaceuticals
+453,Data Scientist,,-1,Opanga Networks,"Seattle, WA",-1,-1,-1,-1,-1,-1
+454,Data Scientist,$150K (Employer est.),4.3,American Capital Group,"Bellevue, WA",51 to 200 Employees,1986,Real Estate,Real Estate,Unknown / Non-Applicable,Company - Private
+455,Data Scientist,$100K - $125K (Employer est.),4.5,Sightly,Remote,1 to 50 Employees,Company - Public,Business Services,Business Services,-1,Advertising & Marketing
+456,Data Scientist/ Engineer,-1,-1,BlueChew,"Chicago, IL",-1,-1,-1,-1,-1,-1
+457,Data Scientist I - 637,-1,-1,"O'Neil Global Advisors, Inc.","Austin, TX",-1,-1,-1,-1,-1,-1
+458,Data Scientist,$80K - $100K (Employer est.),4.0,"Continental Finance Company, LLC","Wilmington, DE",51 to 200 Employees,2005,Lending,Lending,$5 to $10 million (USD),Company - Private
+459,Data Scientist,-1,-1,Orion Solutions Group,"Detroit, MI",-1,-1,-1,-1,-1,-1
+460,Statistician,$24 - $30 Per Hour(Employer est.),-1,"Psychology Software Tools, Inc","Sharpsburg, PA",-1,-1,-1,-1,-1,-1
+461,Machine Learning Scientist,$88K - $180K (Glassdoor est.),4.9,Sense,"Cambridge, MA",1 to 50 Employees,2013,Computer Hardware & Software,Computer Hardware & Software,Unknown / Non-Applicable,Company - Private
+462,Data Scientist,$35 - $75 Per Hour(Employer est.),-1,MetLife Legal Plans,Remote,-1,-1,-1,-1,-1,-1
+463,Data Scientist,-1,4.8,Density Inc.,Remote,1 to 50 Employees,2014,Internet,Internet,Unknown / Non-Applicable,Company - Private
+464,Data Scientist,$78K - $133K (Glassdoor est.),4.5,PowerAdvocate,"Boston, MA",51 to 200 Employees,1999,Energy,Energy,Unknown / Non-Applicable,Company - Public
+465,Data Scientist,$100K - $125K (Employer est.),-1,"VoltaGrid, LLC",Remote,-1,-1,-1,-1,-1,-1
+466,Geospatial Data Scientist,$145K - $175K (Employer est.),-1,EpochGeo,"Washington, DC",-1,-1,-1,-1,-1,-1
+467,Data Scientist,$57K - $80K (Employer est.),-1,Miller Bros Solar,Remote,-1,-1,-1,-1,-1,-1
+468,Data Scientist - Innovation in Analytical Chemistry,$95K (Employer est.),4.0,Firmenich,"Plainsboro, NJ",5001 to 10000 Employees,1895,Chemical Manufacturing,Chemical Manufacturing,$2 to $5 billion (USD),Company - Private
+469,"AI/ML - Annotation Analyst, Russian Language",-1,4.3,Apple,"Austin, TX",10000+ Employees,1976,Computer Hardware & Software,Computer Hardware & Software,$10+ billion (USD),Company - Public
+470,AI/ML Annotation Analyst - Brazilian Portuguese Language,-1,4.3,Apple,"Austin, TX",10000+ Employees,1976,Computer Hardware & Software,Computer Hardware & Software,$10+ billion (USD),Company - Public
+471,Data Scientist (Health Care),$33 - $50 Per Hour(Employer est.),3.4,Vinformatix,Remote,1 to 50 Employees,2008,Computer Hardware & Software,Computer Hardware & Software,$1 to $5 million (USD),Company - Private
+472,Data Scientist,$63K - $120K (Glassdoor est.),3.3,Cyient,"Phoenix, AZ",10000+ Employees,1991,IT Services,IT Services,$100 to $500 million (USD),Company - Public
+473,Statistician,$33 - $39 Per Hour(Employer est.),-1,Sciome LLC,"Research Triangle Park, NC",-1,-1,-1,-1,-1,-1
+474,Human Genetics Data Scientist,$80K - $155K (Glassdoor est.),4.2,Novartis,"Cambridge, MA",Unknown,Company - Public,-1,-1,-1,Unknown / Non-Applicable
+475,Data Scientist,$140K - $150K (Employer est.),-1,3-Point Recruiting,Remote,-1,-1,-1,-1,-1,-1
+476,"Staff Data Scientist, Customer Analytics",$94K - $164K (Glassdoor est.),4.5,Intuit,"San Diego, CA",5001 to 10000 Employees,1983,Computer Hardware & Software,Computer Hardware & Software,$5 to $10 billion (USD),Company - Public
+477,Data Scientist,$81K - $158K (Glassdoor est.),3.7,TJX Companies,"Framingham, MA",10000+ Employees,1976,"Department, Clothing, & Shoe Stores","Department, Clothing, & Shoe Stores",$10+ billion (USD),Company - Public
+478,Data Scientist,-1,-1,Event Dynamic,"Dallas, TX",-1,-1,-1,-1,-1,-1
+479,Data Scientist,$70K - $90K (Employer est.),3.1,Alliance Credit Union,"Lubbock, TX",51 to 200 Employees,Company - Private,Finance,Finance,-1,Banks & Credit Unions
+480,"Data Scientist 1, People Analytics (remote position)",$62K - $123K (Glassdoor est.),3.7,Nordstrom Inc,"Seattle, WA",10000+ Employees,1901,"Department, Clothing, & Shoe Stores","Department, Clothing, & Shoe Stores",$10+ billion (USD),Company - Public
+481,Information Technology/Data Scientist,$44K - $58K (Employer est.),-1,Endodontic SuperSystems,"Fresno, CA",-1,-1,-1,-1,-1,-1
+482,Data Scientist,$71K - $116K (Glassdoor est.),4.2,Akoya Biosciences,"Marlborough, MA",51 to 200 Employees,Company - Public,,Biotech & Pharmaceuticals,-1,Biotech & Pharmaceuticals
+483,Data Scientist,,-1,Opanga Networks,"Seattle, WA",-1,-1,-1,-1,-1,-1
+484,Data Scientist,$150K (Employer est.),4.3,American Capital Group,"Bellevue, WA",51 to 200 Employees,1986,Real Estate,Real Estate,Unknown / Non-Applicable,Company - Private
+485,Data Scientist,$100K - $125K (Employer est.),4.5,Sightly,Remote,1 to 50 Employees,Company - Public,Business Services,Business Services,-1,Advertising & Marketing
+486,Data Scientist,-1,-1,Orion Solutions Group,"Detroit, MI",-1,-1,-1,-1,-1,-1
+487,Data Scientist,$80K - $100K (Employer est.),4.0,"Continental Finance Company, LLC","Wilmington, DE",51 to 200 Employees,2005,Lending,Lending,$5 to $10 million (USD),Company - Private
+488,Data Scientist I - 637,-1,-1,"O'Neil Global Advisors, Inc.","Austin, TX",-1,-1,-1,-1,-1,-1
+489,Data Scientist/ Engineer,-1,-1,BlueChew,"Chicago, IL",-1,-1,-1,-1,-1,-1
+490,Data Scientist,$35 - $75 Per Hour(Employer est.),-1,MetLife Legal Plans,Remote,-1,-1,-1,-1,-1,-1
+491,Data Scientist,-1,4.8,Density Inc.,Remote,1 to 50 Employees,2014,Internet,Internet,Unknown / Non-Applicable,Company - Private
+492,Statistician,$24 - $30 Per Hour(Employer est.),-1,"Psychology Software Tools, Inc","Sharpsburg, PA",-1,-1,-1,-1,-1,-1
+493,Machine Learning Scientist,$88K - $180K (Glassdoor est.),4.9,Sense,"Cambridge, MA",1 to 50 Employees,2013,Computer Hardware & Software,Computer Hardware & Software,Unknown / Non-Applicable,Company - Private
+494,Data Scientist,$78K - $133K (Glassdoor est.),4.5,PowerAdvocate,"Boston, MA",51 to 200 Employees,1999,Energy,Energy,Unknown / Non-Applicable,Company - Public
+495,AI/ML Annotation Analyst - Brazilian Portuguese Language,-1,4.3,Apple,"Austin, TX",10000+ Employees,1976,Computer Hardware & Software,Computer Hardware & Software,$10+ billion (USD),Company - Public
+496,Data Scientist,$100K - $125K (Employer est.),-1,"VoltaGrid, LLC",Remote,-1,-1,-1,-1,-1,-1
+497,Data Scientist - Innovation in Analytical Chemistry,$95K (Employer est.),4.0,Firmenich,"Plainsboro, NJ",5001 to 10000 Employees,1895,Chemical Manufacturing,Chemical Manufacturing,$2 to $5 billion (USD),Company - Private
+498,Data Scientist (Health Care),$33 - $50 Per Hour(Employer est.),3.4,Vinformatix,Remote,1 to 50 Employees,2008,Computer Hardware & Software,Computer Hardware & Software,$1 to $5 million (USD),Company - Private
+499,Geospatial Data Scientist,$145K - $175K (Employer est.),-1,EpochGeo,"Reston, VA",-1,-1,-1,-1,-1,-1
+500,Data Scientist,$57K - $80K (Employer est.),-1,Miller Bros Solar,Remote,-1,-1,-1,-1,-1,-1
+501,"AI/ML - Annotation Analyst, Russian Language",-1,4.3,Apple,"Austin, TX",10000+ Employees,1976,Computer Hardware & Software,Computer Hardware & Software,$10+ billion (USD),Company - Public
+502,Human Genetics Data Scientist,$80K - $155K (Glassdoor est.),4.2,Novartis,"Cambridge, MA",Unknown,Company - Public,-1,-1,-1,Unknown / Non-Applicable
+503,Machine Learning Engineer,$80 - $95 Per Hour(Employer est.),-1,Summit Tech Partners,Remote,-1,-1,-1,-1,-1,-1
+504,Data Scientist,$63K - $120K (Glassdoor est.),3.3,Cyient,"Phoenix, AZ",10000+ Employees,1991,IT Services,IT Services,$100 to $500 million (USD),Company - Public
+505,Statistician,$33 - $39 Per Hour(Employer est.),-1,Sciome LLC,"Research Triangle Park, NC",-1,-1,-1,-1,-1,-1
+506,Data Scientist,$140K - $150K (Employer est.),-1,3-Point Recruiting,Remote,-1,-1,-1,-1,-1,-1
+507,"Staff Data Scientist, Customer Analytics",$94K - $164K (Glassdoor est.),4.5,Intuit,"San Diego, CA",5001 to 10000 Employees,1983,Computer Hardware & Software,Computer Hardware & Software,$5 to $10 billion (USD),Company - Public
+508,Data Scientist,$81K - $158K (Glassdoor est.),3.7,TJX Companies,"Framingham, MA",10000+ Employees,1976,"Department, Clothing, & Shoe Stores","Department, Clothing, & Shoe Stores",$10+ billion (USD),Company - Public
+509,Data Scientist,-1,-1,Event Dynamic,"Dallas, TX",-1,-1,-1,-1,-1,-1
+510,Information Technology/Data Scientist,$44K - $58K (Employer est.),-1,Endodontic SuperSystems,"Fresno, CA",-1,-1,-1,-1,-1,-1
+511,"Data Scientist 1, People Analytics (remote position)",$62K - $123K (Glassdoor est.),3.7,Nordstrom Inc,"Seattle, WA",10000+ Employees,1901,"Department, Clothing, & Shoe Stores","Department, Clothing, & Shoe Stores",$10+ billion (USD),Company - Public
+512,Data Scientist,$150K (Employer est.),4.3,American Capital Group,"Bellevue, WA",51 to 200 Employees,1986,Real Estate,Real Estate,Unknown / Non-Applicable,Company - Private
+513,Data Scientist,-1,-1,Orion Solutions Group,"Detroit, MI",-1,-1,-1,-1,-1,-1
+514,Data Scientist,$80K - $100K (Employer est.),4.0,"Continental Finance Company, LLC","Wilmington, DE",51 to 200 Employees,2005,Lending,Lending,$5 to $10 million (USD),Company - Private
+515,Statistician,$24 - $30 Per Hour(Employer est.),-1,"Psychology Software Tools, Inc","Sharpsburg, PA",-1,-1,-1,-1,-1,-1
+516,Data Scientist,-1,4.8,Density Inc.,Remote,1 to 50 Employees,2014,Internet,Internet,Unknown / Non-Applicable,Company - Private
+517,Data Scientist,$35 - $75 Per Hour(Employer est.),-1,MetLife Legal Plans,Remote,-1,-1,-1,-1,-1,-1
+518,Machine Learning Scientist,$88K - $180K (Glassdoor est.),4.9,Sense,"Cambridge, MA",1 to 50 Employees,2013,Computer Hardware & Software,Computer Hardware & Software,Unknown / Non-Applicable,Company - Private
+519,Data Scientist,$78K - $133K (Glassdoor est.),4.5,PowerAdvocate,"Boston, MA",51 to 200 Employees,1999,Energy,Energy,Unknown / Non-Applicable,Company - Public
+520,Data Scientist,$100K - $125K (Employer est.),-1,"VoltaGrid, LLC",Remote,-1,-1,-1,-1,-1,-1
+521,Data Scientist - Innovation in Analytical Chemistry,$95K (Employer est.),4.0,Firmenich,"Plainsboro, NJ",5001 to 10000 Employees,1895,Chemical Manufacturing,Chemical Manufacturing,$2 to $5 billion (USD),Company - Private
+522,Data Scientist (Health Care),$33 - $50 Per Hour(Employer est.),3.4,Vinformatix,Remote,1 to 50 Employees,2008,Computer Hardware & Software,Computer Hardware & Software,$1 to $5 million (USD),Company - Private
+523,Geospatial Data Scientist,$145K - $175K (Employer est.),-1,EpochGeo,"Washington, DC",-1,-1,-1,-1,-1,-1
+524,Data Scientist,$57K - $80K (Employer est.),-1,Miller Bros Solar,Remote,-1,-1,-1,-1,-1,-1
+525,Data Scientist,$63K - $120K (Glassdoor est.),3.3,Cyient,"Phoenix, AZ",10000+ Employees,1991,IT Services,IT Services,$100 to $500 million (USD),Company - Public
+526,Human Genetics Data Scientist,$80K - $155K (Glassdoor est.),4.2,Novartis,"Cambridge, MA",Unknown,Company - Public,-1,-1,-1,Unknown / Non-Applicable
+527,"AI/ML - Annotation Analyst, Russian Language",-1,4.3,Apple,"Austin, TX",10000+ Employees,1976,Computer Hardware & Software,Computer Hardware & Software,$10+ billion (USD),Company - Public
+528,AI/ML Annotation Analyst - Brazilian Portuguese Language,-1,4.3,Apple,"Austin, TX",10000+ Employees,1976,Computer Hardware & Software,Computer Hardware & Software,$10+ billion (USD),Company - Public
+529,Data Scientist,-1,-1,Event Dynamic,"Dallas, TX",-1,-1,-1,-1,-1,-1
+530,Junior Data Scientist,$40K - $75K (Employer est.),-1,"Arbor Research & Trading, LLC","Lake Barrington, Lake, IL",-1,-1,-1,-1,-1,-1
+531,Data Science Engineer,$85K - $95K (Employer est.),3.7,M-Tech Systems USA,Remote,51 to 200 Employees,Company - Public,Information Technology,Information Technology,-1,Computer Hardware & Software
+532,Remote Data Scientist,-1,3.6,City of Hope,California,5001 to 10000 Employees,1913,Health Care Services & Hospitals,Health Care Services & Hospitals,$100 to $500 million (USD),Nonprofit Organization
+533,Jr. Data Scientist,$60K - $91K (Employer est.),-1,Event Dynamic,"Dallas, TX",-1,-1,-1,-1,-1,-1
+534,Predictive Modeler,$75K - $125K (Employer est.),3.4,Lancer Insurance Company,Remote,201 to 500 Employees,1985,Insurance Carriers,Insurance Carriers,$100 to $500 million (USD),Company - Private
+535,"EXPERT DATA SCIENTIST (OPERATIONS RESEARCH EMPHASIS) Open to remote work, except the following locations: CO, SD, VT, and WV",-1,4.1,NIKE INC,"Warren, OR",10000+ Employees,1972,Consumer Products Manufacturing,Consumer Products Manufacturing,$10+ billion (USD),Company - Public
+536,Data Scientist - SQL/Tableau,$66K - $128K (Glassdoor est.),4.5,Ursus,"Seattle, WA",51 to 200 Employees,2015,IT Services,IT Services,Unknown / Non-Applicable,Company - Private
+537,Data Scientist,-1,3.6,TikTok,"Mountain View, CA",501 to 1000 Employees,2016,Internet,Internet,Unknown / Non-Applicable,Company - Private
+538,Data Scientist,$125K (Employer est.),-1,PAIIR Solutions,"Suffern, NY",-1,-1,-1,-1,-1,-1
+539,Data Scientist,$160K (Employer est.),5.0,Engtal,Remote,1 to 50 Employees,2017,Staffing & Outsourcing,Staffing & Outsourcing,$5 to $10 million (USD),Company - Private
+540,"Data Scientist 1, People Analytics (remote position)",$62K - $123K (Glassdoor est.),3.7,Nordstrom Inc,"Seattle, WA",10000+ Employees,1901,"Department, Clothing, & Shoe Stores","Department, Clothing, & Shoe Stores",$10+ billion (USD),Company - Public
+541,Data Scientist,$150K (Employer est.),4.3,American Capital Group,"Bellevue, WA",51 to 200 Employees,1986,Real Estate,Real Estate,Unknown / Non-Applicable,Company - Private
+542,Data Scientist,$100K - $125K (Employer est.),4.5,Sightly,Remote,1 to 50 Employees,Company - Public,Business Services,Business Services,-1,Advertising & Marketing
+543,"EXPERT DATA SCIENTIST (OPERATIONS RESEARCH EMPHASIS) Open to remote work, except the following locations: CO, SD, VT, and WV",-1,4.1,NIKE INC,"Warren, OR",10000+ Employees,1972,Consumer Products Manufacturing,Consumer Products Manufacturing,$10+ billion (USD),Company - Public
+544,Data Scientist,$35 - $75 Per Hour(Employer est.),-1,MetLife Legal Plans,Remote,-1,-1,-1,-1,-1,-1
+545,Data Scientist,-1,4.8,Density Inc.,Remote,1 to 50 Employees,2014,Internet,Internet,Unknown / Non-Applicable,Company - Private
+546,Statistician,$24 - $30 Per Hour(Employer est.),-1,"Psychology Software Tools, Inc","Sharpsburg, PA",-1,-1,-1,-1,-1,-1
+547,Data Scientist,$100K - $125K (Employer est.),-1,"VoltaGrid, LLC",Remote,-1,-1,-1,-1,-1,-1
+548,Data Scientist,$57K - $80K (Employer est.),-1,Miller Bros Solar,Remote,-1,-1,-1,-1,-1,-1
+549,Data Scientist,$145K - $175K (Employer est.),-1,EpochGeo,"Reston, VA",-1,-1,-1,-1,-1,-1
+550,Data Scientist,$63K - $120K (Glassdoor est.),3.3,Cyient,"Phoenix, AZ",10000+ Employees,1991,IT Services,IT Services,$100 to $500 million (USD),Company - Public
+551,Data Scientist (Health Care),$33 - $50 Per Hour(Employer est.),3.4,Vinformatix,Remote,1 to 50 Employees,2008,Computer Hardware & Software,Computer Hardware & Software,$1 to $5 million (USD),Company - Private
+552,Data Science Engineer,$85K - $95K (Employer est.),3.7,M-Tech Systems USA,Remote,51 to 200 Employees,Company - Public,Information Technology,Information Technology,-1,Computer Hardware & Software
+553,Predictive Modeler,$75K - $125K (Employer est.),3.4,Lancer Insurance Company,Remote,201 to 500 Employees,1985,Insurance Carriers,Insurance Carriers,$100 to $500 million (USD),Company - Private
+554,Junior Data Scientist,$40K - $75K (Employer est.),-1,"Arbor Research & Trading, LLC","Lake Barrington, Lake, IL",-1,-1,-1,-1,-1,-1
+555,Data Scientist - SQL/Tableau,$66K - $128K (Glassdoor est.),4.5,Ursus,"Seattle, WA",51 to 200 Employees,2015,IT Services,IT Services,Unknown / Non-Applicable,Company - Private
+556,Remote Data Scientist,-1,3.6,City of Hope,California,5001 to 10000 Employees,1913,Health Care Services & Hospitals,Health Care Services & Hospitals,$100 to $500 million (USD),Nonprofit Organization
+557,Data Scientist - Innovation in Analytical Chemistry,$95K (Employer est.),4.0,Firmenich,"Plainsboro, NJ",5001 to 10000 Employees,1895,Chemical Manufacturing,Chemical Manufacturing,$2 to $5 billion (USD),Company - Private
+558,Data Scientist,$160K (Employer est.),5.0,Engtal,Remote,1 to 50 Employees,2017,Staffing & Outsourcing,Staffing & Outsourcing,$5 to $10 million (USD),Company - Private
+559,Jr. Data Scientist,$60K - $91K (Employer est.),-1,Event Dynamic,"Dallas, TX",-1,-1,-1,-1,-1,-1
+560,"Sr. Data Scientist, Sport Activity Open to remote work, except the following locations: CO, SD, VT, and WV",-1,4.1,NIKE INC,"Banks, OR",10000+ Employees,1972,Consumer Products Manufacturing,Consumer Products Manufacturing,$10+ billion (USD),Company - Public
+561,Data Scientist,$73K - $135K (Glassdoor est.),3.9,Altria,"Richmond, VA",5001 to 10000 Employees,1919,Consumer Products Manufacturing,Consumer Products Manufacturing,$10+ billion (USD),Company - Public
+562,Data Scientist,$30 - $47 Per Hour(Employer est.),-1,Insight Global Health,Remote,Unknown,Company - Public,-1,-1,-1,Unknown / Non-Applicable
+563,Data Scientist,-1,3.6,TikTok,"Mountain View, CA",501 to 1000 Employees,,Internet,Internet,Unknown / Non-Applicable,Company - Private
+564,Data Scientist,$125K (Employer est.),-1,PAIIR Solutions,"Suffern, NY",-1,-1,-1,-1,-1,-1
+565,"Data Scientist II- Must be local to Indianapolis, IN",$65 - $67 Per Hour(Employer est.),3.8,Tailored Management,"Indianapolis, IN",51 to 200 Employees,2002,Staffing & Outsourcing,Staffing & Outsourcing,$50 to $100 million (USD),Company - Private
+566,Data Analyst (ML and AI),-1,5.0,Envision2bWell Inc,Remote,1 to 50 Employees,Company - Private,-1,-1,-1,Unknown / Non-Applicable
+567,Data Scientist,$64K - $96K (Employer est.),3.7,Ameritas,Remote,1001 to 5000 Employees,1887,Insurance Agencies & Brokerages,Insurance Agencies & Brokerages,$2 to $5 billion (USD),Company - Private
+568,Data Scientist - Remote,$66K - $139K (Glassdoor est.),4.4,Liberty Personnel Services,"Trevose, PA",1 to 50 Employees,2003,Staffing & Outsourcing,Staffing & Outsourcing,$5 to $10 million (USD),Company - Private
+569,Data Scientist (Data Analytics),$90K - $110K (Employer est.),4.2,ERPI,"Washington, DC",201 to 500 Employees,2001,Consulting,Consulting,Unknown / Non-Applicable,Company - Private
+570,"Data Scientist 1, People Analytics (remote position)",$62K - $123K (Glassdoor est.),3.7,Nordstrom Inc,"Seattle, WA",10000+ Employees,1901,"Department, Clothing, & Shoe Stores","Department, Clothing, & Shoe Stores",$10+ billion (USD),Company - Public
+571,Data Scientist,$150K (Employer est.),4.3,American Capital Group,"Bellevue, WA",51 to 200 Employees,1986,Real Estate,Real Estate,Unknown / Non-Applicable,Company - Private
+572,Data Scientist,$100K - $125K (Employer est.),4.5,Sightly,Remote,1 to 50 Employees,Company - Public,Business Services,Business Services,-1,Advertising & Marketing
+573,Data Scientist,,-1,MetLife Legal Plans,Remote,-1,-1,-1,-1,-1,-1
+574,Data Scientist,-1,4.8,Density Inc.,Remote,1 to 50 Employees,2014,Internet,Internet,Unknown / Non-Applicable,Company - Private
+575,Data Scientist,$100K - $125K (Employer est.),-1,"VoltaGrid, LLC",Remote,-1,-1,-1,-1,-1,-1
+576,"Sr. Data Scientist, Sport Activity Open to remote work, except the following locations: CO, SD, VT, and WV",-1,4.1,NIKE INC,"Happy Valley, OR",10000+ Employees,1972,Consumer Products Manufacturing,Consumer Products Manufacturing,$10+ billion (USD),Company - Public
+577,Data Scientist,$57K - $80K (Employer est.),-1,Miller Bros Solar,Remote,-1,-1,-1,-1,-1,-1
+578,Geospatial Data Scientist,$145K - $175K (Employer est.),-1,EpochGeo,"Reston, VA",-1,-1,-1,-1,-1,-1
+579,Data Scientist,$63K - $120K (Glassdoor est.),3.3,Cyient,"Phoenix, AZ",10000+ Employees,1991,IT Services,IT Services,$100 to $500 million (USD),Company - Public
+580,Data Scientist (Health Care),$33 - $50 Per Hour(Employer est.),3.4,Vinformatix,Remote,1 to 50 Employees,2008,Computer Hardware & Software,Computer Hardware & Software,$1 to $5 million (USD),Company - Private
+581,Data Scientist - Innovation in Analytical Chemistry,$95K (Employer est.),4.0,Firmenich,"Plainsboro, NJ",5001 to 10000 Employees,1895,Chemical Manufacturing,Chemical Manufacturing,$2 to $5 billion (USD),Company - Private
+582,Data Scientist,$140K - $150K (Employer est.),-1,3-Point Recruiting,Remote,-1,-1,-1,-1,-1,-1
+583,"EXPERT DATA SCIENTIST (OPERATIONS RESEARCH EMPHASIS) Open to remote work, except the following locations: CO, SD, VT, and WV",-1,4.1,NIKE INC,"Warren, OR",10000+ Employees,1972,Consumer Products Manufacturing,Consumer Products Manufacturing,$10+ billion (USD),Company - Public
+584,"Principal Data Scientist, Enterprise AI & ML Reusable Products Open to remote work, except the following locations: CO, SD, VT, and WV",-1,4.1,NIKE INC,"Sherwood, OR",10000+ Employees,1972,Consumer Products Manufacturing,Consumer Products Manufacturing,$10+ billion (USD),Company - Public
+585,Data Science Engineer,$85K - $95K (Employer est.),3.7,M-Tech Systems USA,Remote,51 to 200 Employees,Company - Public,Information Technology,Information Technology,-1,Computer Hardware & Software
+586,Predictive Modeler,$75K - $125K (Employer est.),3.4,Lancer Insurance Company,Remote,201 to 500 Employees,1985,Insurance Carriers,Insurance Carriers,$100 to $500 million (USD),Company - Private
+587,Remote Data Scientist,-1,3.6,City of Hope,California,-1,-1,-1,-1,-1,-1
+588,Data Scientist,$160K (Employer est.),5.0,Engtal,Remote,-1,-1,-1,-1,-1,-1
+589,Data Analyst (ML and AI),-1,5.0,Envision2bWell Inc,Remote,1 to 50 Employees,Company - Private,-1,-1,-1,Unknown / Non-Applicable
+590,"Data Scientist II- Must be local to Indianapolis, IN",$65 - $67 Per Hour(Employer est.),3.8,Tailored Management,"Indianapolis, IN",51 to 200 Employees,2002,Staffing & Outsourcing,Staffing & Outsourcing,$50 to $100 million (USD),Company - Private
+591,Data Scientist,$30 - $47 Per Hour(Employer est.),-1,Insight Global Health,Remote,Unknown,Company - Public,-1,-1,-1,Unknown / Non-Applicable
+592,Data Scientist - SQL/Tableau,$66K - $128K (Glassdoor est.),4.5,Ursus,"Seattle, WA",51 to 200 Employees,2015,IT Services,IT Services,Unknown / Non-Applicable,Company - Private
+593,Jr. Data Scientist,$60K - $91K (Employer est.),-1,Event Dynamic,"Dallas, TX",-1,-1,-1,-1,-1,-1
+594,Data Scientist,$73K - $135K (Glassdoor est.),3.9,Altria,"Richmond, VA",5001 to 10000 Employees,1919,Consumer Products Manufacturing,Consumer Products Manufacturing,$10+ billion (USD),Company - Public
+595,Data Scientist,-1,3.6,TikTok,"Mountain View, CA",501 to 1000 Employees,2016,Internet,Internet,Unknown / Non-Applicable,Company - Private
+596,Staff Data Scientist (,$77K - $157K (Glassdoor est.),4.8,The Mom Project,"Chicago, IL",51 to 200 Employees,2016,Staffing & Outsourcing,Staffing & Outsourcing,Unknown / Non-Applicable,Company - Private
+597,Data Scientist (Data Analytics),$90K - $110K (Employer est.),4.2,ERPI,"Washington, DC",201 to 500 Employees,2001,Consulting,Consulting,Unknown / Non-Applicable,Company - Private
+598,Data Scientist - Remote,$66K - $139K (Glassdoor est.),4.4,Liberty Personnel Services,"Trevose, PA",1 to 50 Employees,2003,Staffing & Outsourcing,Staffing & Outsourcing,$5 to $10 million (USD),Company - Private
+599,Data Scientist,$85K - $130K (Employer est.),3.9,Brightwing,Remote,51 to 200 Employees,1973,Staffing & Outsourcing,Staffing & Outsourcing,$5 to $10 million (USD),Company - Private
+600,"Data Scientist 1, People Analytics (remote position)",$62K - $123K (Glassdoor est.),3.7,Nordstrom Inc,"Seattle, WA",10000+ Employees,1901,"Department, Clothing, & Shoe Stores","Department, Clothing, & Shoe Stores",$10+ billion (USD),Company - Public
+601,Data Scientist,$150K (Employer est.),4.3,American Capital Group,"Bellevue, WA",51 to 200 Employees,1986,Real Estate,Real Estate,Unknown / Non-Applicable,Company - Private
+602,Data Scientist,$100K - $125K (Employer est.),4.5,Sightly,Remote,1 to 50 Employees,Company - Public,Business Services,Business Services,-1,Advertising & Marketing
+603,Data Scientist,-1,4.8,Density Inc.,Remote,,2014,Internet,Internet,Unknown / Non-Applicable,Company - Private
+604,Data Scientist,$35 - $75 Per Hour(Employer est.),-1,MetLife Legal Plans,Remote,-1,-1,-1,-1,-1,-1
+605,Data Scientist I - 637,-1,-1,"O'Neil Global Advisors, Inc.","Austin, TX",-1,-1,-1,-1,-1,-1
+606,Statistician,$24 - $30 Per Hour(Employer est.),-1,"Psychology Software Tools, Inc","Sharpsburg, PA",-1,-1,-1,-1,-1,-1
+607,Data Scientist,$100K - $125K (Employer est.),-1,"VoltaGrid, LLC",Remote,-1,-1,-1,-1,-1,-1
+608,Geospatial Data Scientist,$145K - $175K (Employer est.),-1,EpochGeo,"Washington, DC",-1,-1,-1,-1,-1,-1
+609,Data Scientist,$57K - $80K (Employer est.),-1,Miller Bros Solar,Remote,-1,-1,-1,-1,-1,-1
+610,Data Scientist,$63K - $120K (Glassdoor est.),3.3,Cyient,"Phoenix, AZ",10000+ Employees,1991,IT Services,IT Services,$100 to $500 million (USD),Company - Public
+611,Data Scientist (Health Care),$33 - $50 Per Hour(Employer est.),3.4,Vinformatix,Remote,1 to 50 Employees,2008,Computer Hardware & Software,Computer Hardware & Software,$1 to $5 million (USD),Company - Private
+612,Data Scientist - SQL/Tableau,$66K - $128K (Glassdoor est.),4.5,Ursus,"Seattle, WA",51 to 200 Employees,2015,IT Services,IT Services,Unknown / Non-Applicable,Company - Private
+613,"Sr. Data Scientist, Sport Activity Open to remote work, except the following locations: CO, SD, VT, and WV",-1,4.1,NIKE INC,"Banks, OR",10000+ Employees,1972,Consumer Products Manufacturing,Consumer Products Manufacturing,$10+ billion (USD),Company - Public
+614,"EXPERT DATA SCIENTIST (OPERATIONS RESEARCH EMPHASIS) Open to remote work, except the following locations: CO, SD, VT, and WV",-1,4.1,NIKE INC,"Warren, OR",10000+ Employees,1972,Consumer Products Manufacturing,Consumer Products Manufacturing,$10+ billion (USD),Company - Public
+615,Remote Data Scientist,-1,3.6,City of Hope,California,5001 to 10000 Employees,1913,Health Care Services & Hospitals,Health Care Services & Hospitals,$100 to $500 million (USD),Nonprofit Organization
+616,Junior Data Scientist,$40K - $75K (Employer est.),-1,"Arbor Research & Trading, LLC","Lake Barrington, Lake, IL",-1,-1,-1,-1,-1,-1
+617,Data Science Engineer,$85K - $95K (Employer est.),3.7,M-Tech Systems USA,Remote,51 to 200 Employees,Company - Public,Information Technology,Information Technology,-1,Computer Hardware & Software
+618,Predictive Modeler,$75K - $125K (Employer est.),3.4,Lancer Insurance Company,Remote,201 to 500 Employees,1985,Insurance Carriers,Insurance Carriers,$100 to $500 million (USD),Company - Private
+619,Data Scientist - Innovation in Analytical Chemistry,$95K (Employer est.),4.0,Firmenich,"Plainsboro, NJ",5001 to 10000 Employees,1895,Chemical Manufacturing,Chemical Manufacturing,$2 to $5 billion (USD),Company - Private
+620,"Data Scientist II- Must be local to Indianapolis, IN",$65 - $67 Per Hour(Employer est.),3.8,Tailored Management,"Indianapolis, IN",51 to 200 Employees,2002,Staffing & Outsourcing,Staffing & Outsourcing,$50 to $100 million (USD),Company - Private
+621,Data Analyst (ML and AI),-1,5.0,Envision2bWell Inc,Remote,1 to 50 Employees,Company - Private,-1,-1,-1,Unknown / Non-Applicable
+622,Data Scientist,$160K (Employer est.),5.0,Engtal,Remote,1 to 50 Employees,2017,Staffing & Outsourcing,Staffing & Outsourcing,$5 to $10 million (USD),Company - Private
+623,Jr. Data Scientist,$60K - $91K (Employer est.),-1,Event Dynamic,"Dallas, TX",-1,-1,-1,-1,-1,-1
+624,Data Scientist,$30 - $47 Per Hour(Employer est.),-1,Insight Global Health,Remote,Unknown,Company - Public,-1,-1,-1,Unknown / Non-Applicable
+625,Data Scientist,$73K - $135K (Glassdoor est.),3.9,Altria,"Richmond, VA",5001 to 10000 Employees,1919,Consumer Products Manufacturing,Consumer Products Manufacturing,$10+ billion (USD),Company - Public
+626,Data Scientist,-1,3.6,TikTok,"Mountain View, CA",501 to 1000 Employees,2016,Internet,Internet,Unknown / Non-Applicable,Company - Private
+627,Data Scientist,$125K (Employer est.),-1,PAIIR Solutions,"Suffern, NY",-1,-1,-1,-1,-1,-1
+628,Data Scientist- Development Program,$85K - $113K (Employer est.),3.5,National Security Agency,"Fort Meade, MD",Unknown,Government,Government,Government,-1,Federal Agencies
+629,Data Scientist (Data Analytics),$90K - $110K (Employer est.),4.2,ERPI,"Washington, DC",201 to 500 Employees,2001,Consulting,Consulting,Unknown / Non-Applicable,Company - Private
+630,"Data Scientist 1, People Analytics (remote position)",$62K - $123K (Glassdoor est.),3.7,Nordstrom Inc,"Seattle, WA",10000+ Employees,1901,"Department, Clothing, & Shoe Stores","Department, Clothing, & Shoe Stores",$10+ billion (USD),Company - Public
+631,Data Scientist,$150K (Employer est.),4.3,American Capital Group,"Bellevue, WA",51 to 200 Employees,1986,Real Estate,Real Estate,Unknown / Non-Applicable,Company - Private
+632,Data Scientist,$100K - $125K (Employer est.),4.5,Sightly,Remote,1 to 50 Employees,Company - Public,Business Services,Business Services,-1,Advertising & Marketing
+633,Data Scientist I - 637,-1,-1,"O'Neil Global Advisors, Inc.","Austin, TX",-1,-1,-1,-1,-1,-1
+634,Data Scientist,-1,4.8,Density Inc.,Remote,1 to 50 Employees,2014,Internet,Internet,Unknown / Non-Applicable,Company - Private
+635,Data Scientist,$35 - $75 Per Hour(Employer est.),-1,MetLife Legal Plans,Remote,-1,-1,-1,-1,-1,-1
+636,Machine Learning Scientist,$88K - $180K (Glassdoor est.),4.9,Sense,"Cambridge, MA",1 to 50 Employees,2013,Computer Hardware & Software,Computer Hardware & Software,Unknown / Non-Applicable,Company - Private
+637,Data Scientist,$100K - $125K (Employer est.),-1,"VoltaGrid, LLC",Remote,-1,-1,-1,-1,-1,-1
+638,Geospatial Data Scientist,$145K - $175K (Employer est.),-1,EpochGeo,"Reston, VA",-1,-1,-1,-1,-1,-1
+639,Data Scientist,$57K - $80K (Employer est.),-1,Miller Bros Solar,Remote,-1,-1,-1,-1,-1,-1
+640,Data Scientist,$63K - $120K (Glassdoor est.),3.3,Cyient,"Phoenix, AZ",10000+ Employees,1991,IT Services,IT Services,$100 to $500 million (USD),Company - Public
+641,Data Scientist - Innovation in Analytical Chemistry,$95K (Employer est.),4.0,Firmenich,"Plainsboro, NJ",5001 to 10000 Employees,1895,Chemical Manufacturing,Chemical Manufacturing,$2 to $5 billion (USD),Company - Private
+642,Data Scientist,$140K - $150K (Employer est.),-1,3-Point Recruiting,Remote,-1,-1,-1,-1,-1,-1
+643,Data Science Engineer,$85K - $95K (Employer est.),3.7,M-Tech Systems USA,Remote,51 to 200 Employees,Company - Public,Information Technology,Information Technology,-1,Computer Hardware & Software
+644,Predictive Modeler,$75K - $125K (Employer est.),3.4,Lancer Insurance Company,Remote,201 to 500 Employees,1985,Insurance Carriers,Insurance Carriers,$100 to $500 million (USD),Company - Private
+645,Data Engineer,$90K - $130K (Employer est.),-1,Synergis,Remote,-1,-1,-1,-1,-1,-1
+646,Data Scientist (Health Care),$33 - $50 Per Hour(Employer est.),3.4,Vinformatix,Remote,1 to 50 Employees,2008,Computer Hardware & Software,Computer Hardware & Software,$1 to $5 million (USD),Company - Private
+647,"EXPERT DATA SCIENTIST (OPERATIONS RESEARCH EMPHASIS) Open to remote work, except the following locations: CO, SD, VT, and WV",-1,4.1,NIKE INC,"Warren, OR",10000+ Employees,1972,Consumer Products Manufacturing,Consumer Products Manufacturing,$10+ billion (USD),Company - Public
+648,"Data Scientist II- Must be local to Indianapolis, IN",$65 - $67 Per Hour(Employer est.),3.8,Tailored Management,"Indianapolis, IN",51 to 200 Employees,2002,Staffing & Outsourcing,Staffing & Outsourcing,$50 to $100 million (USD),Company - Private
+649,Data Scientist,$160K (Employer est.),5.0,Engtal,Remote,1 to 50 Employees,2017,Staffing & Outsourcing,Staffing & Outsourcing,$5 to $10 million (USD),Company - Private
+650,Remote Data Scientist,-1,3.6,City of Hope,California,5001 to 10000 Employees,1913,Health Care Services & Hospitals,Health Care Services & Hospitals,$100 to $500 million (USD),Nonprofit Organization
+651,Data Scientist,$125K (Employer est.),-1,PAIIR Solutions,"Suffern, NY",-1,-1,-1,-1,-1,-1
+652,Data Scientist,$120K - $130K (Employer est.),4.1,Systems Personnel,"Buffalo, NY",1 to 50 Employees,1996,Staffing & Outsourcing,Staffing & Outsourcing,$5 to $10 million (USD),Company - Private
+653,Data Analyst (ML and AI),-1,5.0,Envision2bWell Inc,Remote,1 to 50 Employees,Company - Private,-1,-1,-1,Unknown / Non-Applicable
+654,Jr. Data Scientist,$60K - $91K (Employer est.),-1,Event Dynamic,"Dallas, TX",-1,-1,-1,-1,-1,-1
+655,Data Scientist,$30 - $47 Per Hour(Employer est.),-1,Insight Global Health,Remote,Unknown,Company - Public,-1,-1,-1,Unknown / Non-Applicable
+656,Data Scientist,$73K - $135K (Glassdoor est.),3.9,Altria,"Richmond, VA",5001 to 10000 Employees,1919,Consumer Products Manufacturing,Consumer Products Manufacturing,$10+ billion (USD),Company - Public
+657,Data Scientist,-1,3.6,TikTok,"Mountain View, CA",501 to 1000 Employees,2016,Internet,Internet,Unknown / Non-Applicable,Company - Private
+658,Data Scientist - SQL/Tableau,$66K - $128K (Glassdoor est.),4.5,Ursus,"Seattle, WA",51 to 200 Employees,2015,IT Services,IT Services,Unknown / Non-Applicable,Company - Private
+659,Data Scientist- Development Program,$85K - $113K (Employer est.),3.5,National Security Agency,"Fort Meade, MD",Unknown,Government,Government,Government,-1,Federal Agencies
+660,"Data Scientist 1, People Analytics (remote position)",$62K - $123K (Glassdoor est.),3.7,Nordstrom Inc,"Seattle, WA",10000+ Employees,1901,"Department, Clothing, & Shoe Stores","Department, Clothing, & Shoe Stores",$10+ billion (USD),Company - Public
+661,Data Scientist,$150K (Employer est.),4.3,American Capital Group,"Bellevue, WA",51 to 200 Employees,1986,Real Estate,Real Estate,Unknown / Non-Applicable,Company - Private
+662,Data Scientist,$100K - $125K (Employer est.),4.5,Sightly,Remote,1 to 50 Employees,Company - Public,Business Services,Business Services,-1,Advertising & Marketing
+663,Data Scientist,-1,4.8,Density Inc.,Remote,,2014,Internet,Internet,Unknown / Non-Applicable,Company - Private
+664,Data Scientist,$35 - $75 Per Hour(Employer est.),-1,MetLife Legal Plans,Remote,-1,-1,-1,-1,-1,-1
+665,Data Scientist I - 637,-1,-1,"O'Neil Global Advisors, Inc.","Austin, TX",-1,-1,-1,-1,-1,-1
+666,Machine Learning Scientist,$88K - $180K (Glassdoor est.),4.9,Sense,"Cambridge, MA",1 to 50 Employees,2013,Computer Hardware & Software,Computer Hardware & Software,Unknown / Non-Applicable,Company - Private
+667,Data Scientist,$100K - $125K (Employer est.),-1,"VoltaGrid, LLC",Remote,-1,-1,-1,-1,-1,-1
+668,Data Scientist,$145K - $175K (Employer est.),-1,EpochGeo,"Reston, VA",-1,-1,-1,-1,-1,-1
+669,Data Scientist,$57K - $80K (Employer est.),-1,Miller Bros Solar,Remote,-1,-1,-1,-1,-1,-1
+670,Data Scientist,$63K - $120K (Glassdoor est.),3.3,Cyient,"Phoenix, AZ",10000+ Employees,1991,IT Services,IT Services,$100 to $500 million (USD),Company - Public
+671,Data Scientist (Health Care),$33 - $50 Per Hour(Employer est.),3.4,Vinformatix,Remote,1 to 50 Employees,2008,Computer Hardware & Software,Computer Hardware & Software,$1 to $5 million (USD),Company - Private
+672,Data Scientist (Remote - US),-1,3.4,Bon Secours Mercy Health,Ohio,10000+ Employees,2018,Health Care Services & Hospitals,Health Care Services & Hospitals,$5 to $10 billion (USD),Nonprofit Organization
+673,Remote Data Scientist,-1,3.6,City of Hope,California,5001 to 10000 Employees,1913,Health Care Services & Hospitals,Health Care Services & Hospitals,$100 to $500 million (USD),Nonprofit Organization
+674,"EXPERT DATA SCIENTIST (OPERATIONS RESEARCH EMPHASIS) Open to remote work, except the following locations: CO, SD, VT, and WV",-1,4.1,NIKE INC,"Warren, OR",10000+ Employees,1972,Consumer Products Manufacturing,Consumer Products Manufacturing,$10+ billion (USD),Company - Public
+675,"Sr. Data Scientist, Sport Activity Open to remote work, except the following locations: CO, SD, VT, and WV",-1,4.1,NIKE INC,"Banks, OR",10000+ Employees,1972,Consumer Products Manufacturing,Consumer Products Manufacturing,$10+ billion (USD),Company - Public
+676,Data Science Engineer,$85K - $95K (Employer est.),3.7,M-Tech Systems USA,Remote,51 to 200 Employees,Company - Public,Information Technology,Information Technology,-1,Computer Hardware & Software
+677,Data Scientist - Innovation in Analytical Chemistry,$95K (Employer est.),4.0,Firmenich,"Plainsboro, NJ",5001 to 10000 Employees,1895,Chemical Manufacturing,Chemical Manufacturing,$2 to $5 billion (USD),Company - Private
+678,Predictive Modeler,$75K - $125K (Employer est.),3.4,Lancer Insurance Company,Remote,201 to 500 Employees,1985,Insurance Carriers,Insurance Carriers,$100 to $500 million (USD),Company - Private
+679,"Data Scientist II- Must be local to Indianapolis, IN",$65 - $67 Per Hour(Employer est.),3.8,Tailored Management,"Indianapolis, IN",51 to 200 Employees,2002,Staffing & Outsourcing,Staffing & Outsourcing,$50 to $100 million (USD),Company - Private
+680,Data Scientist,$160K (Employer est.),5.0,Engtal,Remote,1 to 50 Employees,2017,Staffing & Outsourcing,Staffing & Outsourcing,$5 to $10 million (USD),Company - Private
+681,Data Analyst (ML and AI),-1,5.0,Envision2bWell Inc,Remote,1 to 50 Employees,Company - Private,-1,-1,-1,Unknown / Non-Applicable
+682,Jr. Data Scientist,$60K - $91K (Employer est.),-1,Event Dynamic,"Dallas, TX",-1,-1,-1,-1,-1,-1
+683,Data Scientist,$30 - $47 Per Hour(Employer est.),-1,Insight Global Health,Remote,Unknown,Company - Public,-1,-1,-1,Unknown / Non-Applicable
+684,Data Scientist,$73K - $135K (Glassdoor est.),3.9,Altria,"Richmond, VA",5001 to 10000 Employees,1919,Consumer Products Manufacturing,Consumer Products Manufacturing,$10+ billion (USD),Company - Public
+685,Data Scientist - SQL/Tableau,$66K - $128K (Glassdoor est.),4.5,Ursus,"Seattle, WA",51 to 200 Employees,2015,IT Services,IT Services,Unknown / Non-Applicable,Company - Private
+686,Data Scientist,$125K (Employer est.),-1,PAIIR Solutions,"Suffern, NY",-1,-1,-1,-1,-1,-1
+687,Data Scientist,-1,3.6,TikTok,"Mountain View, CA",501 to 1000 Employees,,Internet,Internet,Unknown / Non-Applicable,Company - Private
+688,Data Scientist- Development Program,$85K - $113K (Employer est.),3.5,National Security Agency,"Fort Meade, MD",Unknown,Government,Government,Government,-1,Federal Agencies
+689,Data Scientist (Data Analytics),$90K - $110K (Employer est.),4.2,ERPI,"Washington, DC",201 to 500 Employees,2001,Consulting,Consulting,Unknown / Non-Applicable,Company - Private
+690,"Data Scientist 1, People Analytics (remote position)",$62K - $123K (Glassdoor est.),3.7,Nordstrom Inc,"Seattle, WA",10000+ Employees,1901,"Department, Clothing, & Shoe Stores","Department, Clothing, & Shoe Stores",$10+ billion (USD),Company - Public
+691,Data Scientist,$150K (Employer est.),4.3,American Capital Group,"Bellevue, WA",51 to 200 Employees,1986,Real Estate,Real Estate,Unknown / Non-Applicable,Company - Private
+692,Data Scientist I - 637,-1,-1,"O'Neil Global Advisors, Inc.","Austin, TX",-1,-1,-1,-1,-1,-1
+693,Data Scientist,-1,4.8,Density Inc.,Remote,1 to 50 Employees,2014,Internet,Internet,Unknown / Non-Applicable,Company - Private
+694,Data Scientist,$35 - $75 Per Hour(Employer est.),-1,MetLife Legal Plans,Remote,-1,-1,-1,-1,-1,-1
+695,Data Scientist,$100K - $125K (Employer est.),-1,"VoltaGrid, LLC",Remote,-1,-1,-1,-1,-1,-1
+696,Data Scientist,$145K - $175K (Employer est.),-1,EpochGeo,"Reston, VA",-1,-1,-1,-1,-1,-1
+697,Data Scientist,$57K - $80K (Employer est.),-1,Miller Bros Solar,Remote,-1,-1,-1,-1,-1,-1
+698,Data Scientist,$140K - $150K (Employer est.),-1,3-Point Recruiting,Remote,-1,-1,-1,-1,-1,-1
+699,Data Scientist (Health Care),$33 - $50 Per Hour(Employer est.),3.4,Vinformatix,Remote,1 to 50 Employees,2008,Computer Hardware & Software,Computer Hardware & Software,$1 to $5 million (USD),Company - Private
+700,Predictive Modeler,$75K - $125K (Employer est.),3.4,Lancer Insurance Company,Remote,201 to 500 Employees,1985,Insurance Carriers,Insurance Carriers,$100 to $500 million (USD),Company - Private
+701,Data Scientist - SQL/Tableau,$66K - $128K (Glassdoor est.),4.5,Ursus,"Seattle, WA",51 to 200 Employees,2015,IT Services,IT Services,Unknown / Non-Applicable,Company - Private
+702,Data Science Engineer,$85K - $95K (Employer est.),3.7,M-Tech Systems USA,Remote,51 to 200 Employees,Company - Public,Information Technology,Information Technology,-1,Computer Hardware & Software
+703,"EXPERT DATA SCIENTIST (OPERATIONS RESEARCH EMPHASIS) Open to remote work, except the following locations: CO, SD, VT, and WV",-1,4.1,NIKE INC,"Warren, OR",10000+ Employees,1972,Consumer Products Manufacturing,Consumer Products Manufacturing,$10+ billion (USD),Company - Public
+704,Data Scientist,$160K (Employer est.),5.0,Engtal,Remote,1 to 50 Employees,2017,Staffing & Outsourcing,Staffing & Outsourcing,$5 to $10 million (USD),Company - Private
+705,"Data Scientist II- Must be local to Indianapolis, IN",$65 - $67 Per Hour(Employer est.),3.8,Tailored Management,"Indianapolis, IN",51 to 200 Employees,2002,Staffing & Outsourcing,Staffing & Outsourcing,$50 to $100 million (USD),Company - Private
+706,Remote Data Scientist,-1,3.6,City of Hope,California,5001 to 10000 Employees,1913,Health Care Services & Hospitals,Health Care Services & Hospitals,$100 to $500 million (USD),Nonprofit Organization
+707,Data Scientist,$30 - $47 Per Hour(Employer est.),-1,Insight Global Health,Remote,Unknown,Company - Public,-1,-1,-1,Unknown / Non-Applicable
+708,Jr. Data Scientist,$60K - $91K (Employer est.),-1,Event Dynamic,"Dallas, TX",-1,-1,-1,-1,-1,-1
+709,Data Analyst (ML and AI),-1,5.0,Envision2bWell Inc,Remote,1 to 50 Employees,Company - Private,-1,-1,-1,Unknown / Non-Applicable
+710,Data Scientist,$73K - $135K (Glassdoor est.),3.9,Altria,"Richmond, VA",5001 to 10000 Employees,1919,Consumer Products Manufacturing,Consumer Products Manufacturing,$10+ billion (USD),Company - Public
+711,Data Scientist,$125K (Employer est.),-1,PAIIR Solutions,"Suffern, NY",-1,-1,-1,-1,-1,-1
+712,Data Scientist- Development Program,$85K - $113K (Employer est.),3.5,National Security Agency,"Fort Meade, MD",Unknown,Government,Government,Government,-1,Federal Agencies
+713,Data Scientist,-1,3.6,TikTok,"Mountain View, CA",501 to 1000 Employees,2016,Internet,Internet,Unknown / Non-Applicable,Company - Private
+714,Staff Data Scientist (,$77K - $157K (Glassdoor est.),4.8,The Mom Project,"Chicago, IL",51 to 200 Employees,2016,Staffing & Outsourcing,Staffing & Outsourcing,Unknown / Non-Applicable,Company - Private
+715,Data Scientist (Data Analytics),$90K - $110K (Employer est.),4.2,ERPI,"Washington, DC",201 to 500 Employees,2001,Consulting,Consulting,Unknown / Non-Applicable,Company - Private
+716,Data Scientist - Remote,$66K - $139K (Glassdoor est.),4.4,Liberty Personnel Services,"Trevose, PA",1 to 50 Employees,2003,Staffing & Outsourcing,Staffing & Outsourcing,$5 to $10 million (USD),Company - Private
+717,Data Scientist,$85K - $130K (Employer est.),3.9,Brightwing,Remote,51 to 200 Employees,1973,Staffing & Outsourcing,Staffing & Outsourcing,$5 to $10 million (USD),Company - Private
+718,Data Scientist,$100K - $110K (Employer est.),-1,duvari group,Remote,-1,-1,-1,-1,-1,-1
+719,Data Analyst,$70K - $95K (Employer est.),-1,Flywheel Software,"New York, NY",-1,-1,-1,-1,-1,-1
+720,"Data Scientist 1, People Analytics (remote position)",$62K - $123K (Glassdoor est.),3.7,Nordstrom Inc,"Seattle, WA",10000+ Employees,1901,"Department, Clothing, & Shoe Stores","Department, Clothing, & Shoe Stores",$10+ billion (USD),Company - Public
+721,Information Technology/Data Scientist,$44K - $58K (Employer est.),-1,Endodontic SuperSystems,"Fresno, CA",-1,-1,-1,-1,-1,-1
+722,Data Scientist,$150K (Employer est.),4.3,American Capital Group,"Bellevue, WA",51 to 200 Employees,,Real Estate,Real Estate,Unknown / Non-Applicable,Company - Private
+723,Data Scientist,,4.5,Sightly,Remote,1 to 50 Employees,Company - Public,Business Services,Business Services,-1,Advertising & Marketing
+724,Data Scientist,$80K - $100K (Employer est.),4.0,"Continental Finance Company, LLC","Wilmington, DE",51 to 200 Employees,2005,Lending,Lending,$5 to $10 million (USD),Company - Private
+725,Data Scientist,-1,4.8,Density Inc.,Remote,1 to 50 Employees,2014,Internet,Internet,Unknown / Non-Applicable,Company - Private
+726,Data Scientist,$35 - $75 Per Hour(Employer est.),-1,MetLife Legal Plans,Remote,-1,-1,-1,-1,-1,-1
+727,Data Scientist I - 637,-1,-1,"O'Neil Global Advisors, Inc.","Austin, TX",-1,-1,-1,-1,-1,-1
+728,Data Scientist,$100K - $125K (Employer est.),-1,"VoltaGrid, LLC",Remote,-1,-1,-1,-1,-1,-1
+729,Data Scientist,$145K - $175K (Employer est.),-1,EpochGeo,"Reston, VA",-1,-1,-1,-1,-1,-1
+730,Data Scientist,$57K - $80K (Employer est.),-1,Miller Bros Solar,Remote,-1,-1,-1,-1,-1,-1
+731,Data Scientist,$78K - $133K (Glassdoor est.),4.5,PowerAdvocate,"Boston, MA",51 to 200 Employees,1999,Energy,Energy,Unknown / Non-Applicable,Company - Public
+732,Data Scientist,$63K - $120K (Glassdoor est.),3.3,Cyient,"Phoenix, AZ",10000+ Employees,1991,IT Services,IT Services,$100 to $500 million (USD),Company - Public
+733,Data Scientist (Health Care),$33 - $50 Per Hour(Employer est.),3.4,Vinformatix,Remote,1 to 50 Employees,2008,Computer Hardware & Software,Computer Hardware & Software,$1 to $5 million (USD),Company - Private
+734,Data Scientist,$140K - $150K (Employer est.),-1,3-Point Recruiting,Remote,-1,-1,-1,-1,-1,-1
+735,Data Scientist,-1,-1,Event Dynamic,"Dallas, TX",-1,-1,-1,-1,-1,-1
+736,"EXPERT DATA SCIENTIST (OPERATIONS RESEARCH EMPHASIS) Open to remote work, except the following locations: CO, SD, VT, and WV",-1,4.1,NIKE INC,"Warren, OR",10000+ Employees,1972,Consumer Products Manufacturing,Consumer Products Manufacturing,$10+ billion (USD),Company - Public
+737,Data Scientist - Innovation in Analytical Chemistry,$95K (Employer est.),4.0,Firmenich,"Plainsboro, NJ",5001 to 10000 Employees,1895,Chemical Manufacturing,Chemical Manufacturing,$2 to $5 billion (USD),Company - Private
+738,Data Science Engineer,$85K - $95K (Employer est.),3.7,M-Tech Systems USA,Remote,51 to 200 Employees,Company - Public,Information Technology,Information Technology,-1,Computer Hardware & Software
+739,Predictive Modeler,$75K - $125K (Employer est.),3.4,Lancer Insurance Company,Remote,201 to 500 Employees,1985,Insurance Carriers,Insurance Carriers,$100 to $500 million (USD),Company - Private
+740,Jr. Data Scientist,$60K - $91K (Employer est.),-1,Event Dynamic,"Dallas, TX",-1,-1,-1,-1,-1,-1
+741,Remote Data Scientist,-1,3.6,City of Hope,California,5001 to 10000 Employees,1913,Health Care Services & Hospitals,Health Care Services & Hospitals,$100 to $500 million (USD),Nonprofit Organization
+742,Junior Data Scientist,$40K - $75K (Employer est.),-1,"Arbor Research & Trading, LLC","Lake Barrington, Lake, IL",-1,-1,-1,-1,-1,-1
+743,Data Scientist- Development Program,$85K - $113K (Employer est.),3.5,National Security Agency,"Fort Meade, MD",Unknown,Government,Government,Government,-1,Federal Agencies
+744,Data Scientist,$30 - $47 Per Hour(Employer est.),-1,Insight Global Health,Remote,Unknown,Company - Public,-1,-1,-1,Unknown / Non-Applicable
+745,Data Scientist,$160K (Employer est.),5.0,Engtal,Remote,1 to 50 Employees,2017,Staffing & Outsourcing,Staffing & Outsourcing,$5 to $10 million (USD),Company - Private
+746,Data Scientist,$73K - $135K (Glassdoor est.),3.9,Altria,"Richmond, VA",5001 to 10000 Employees,1919,Consumer Products Manufacturing,Consumer Products Manufacturing,$10+ billion (USD),Company - Public
+747,Data Analyst (ML and AI),-1,5.0,Envision2bWell Inc,Remote,1 to 50 Employees,Company - Private,-1,-1,-1,Unknown / Non-Applicable
+748,"Data Scientist II- Must be local to Indianapolis, IN",$65 - $67 Per Hour(Employer est.),3.8,Tailored Management,"Indianapolis, IN",51 to 200 Employees,2002,Staffing & Outsourcing,Staffing & Outsourcing,$50 to $100 million (USD),Company - Private
+749,Data Scientist,$125K (Employer est.),-1,PAIIR Solutions,"Suffern, NY",-1,-1,-1,-1,-1,-1
+750,"Data Scientist 1, People Analytics (remote position)",$62K - $123K (Glassdoor est.),3.7,Nordstrom Inc,"Seattle, WA",10000+ Employees,1901,"Department, Clothing, & Shoe Stores","Department, Clothing, & Shoe Stores",$10+ billion (USD),Company - Public
+751,Information Technology/Data Scientist,$44K - $58K (Employer est.),-1,Endodontic SuperSystems,"Fresno, CA",-1,-1,-1,-1,-1,-1
+752,Data Scientist,$150K (Employer est.),4.3,American Capital Group,"Bellevue, WA",51 to 200 Employees,1986,Real Estate,Real Estate,Unknown / Non-Applicable,Company - Private
+753,Data Scientist,,4.5,Sightly,Remote,1 to 50 Employees,Company - Public,Business Services,Business Services,-1,Advertising & Marketing
+754,Data Scientist,-1,4.8,Density Inc.,Remote,1 to 50 Employees,2014,Internet,Internet,Unknown / Non-Applicable,Company - Private
+755,Data Scientist,$35 - $75 Per Hour(Employer est.),-1,MetLife Legal Plans,Remote,-1,-1,-1,-1,-1,-1
+756,Machine Learning Scientist,$88K - $180K (Glassdoor est.),4.9,Sense,"Cambridge, MA",1 to 50 Employees,2013,Computer Hardware & Software,Computer Hardware & Software,Unknown / Non-Applicable,Company - Private
+757,Statistician,$24 - $30 Per Hour(Employer est.),-1,"Psychology Software Tools, Inc","Sharpsburg, PA",-1,-1,-1,-1,-1,-1
+758,Data Scientist,$100K - $125K (Employer est.),-1,"VoltaGrid, LLC",Remote,-1,-1,-1,-1,-1,-1
+759,Data Scientist,$145K - $175K (Employer est.),-1,EpochGeo,"Reston, VA",-1,-1,-1,-1,-1,-1
+760,Data Scientist,$57K - $80K (Employer est.),-1,Miller Bros Solar,Remote,-1,-1,-1,-1,-1,-1
+761,Data Science Engineer,$85K - $95K (Employer est.),3.7,M-Tech Systems USA,Remote,51 to 200 Employees,Company - Public,Information Technology,Information Technology,-1,Computer Hardware & Software
+762,Data Scientist (Health Care),$33 - $50 Per Hour(Employer est.),3.4,Vinformatix,Remote,1 to 50 Employees,2008,Computer Hardware & Software,Computer Hardware & Software,$1 to $5 million (USD),Company - Private
+763,Data Scientist,$140K - $150K (Employer est.),-1,3-Point Recruiting,Remote,-1,-1,-1,-1,-1,-1
+764,Predictive Modeler,$75K - $125K (Employer est.),3.4,Lancer Insurance Company,Remote,201 to 500 Employees,1985,Insurance Carriers,Insurance Carriers,$100 to $500 million (USD),Company - Private
+765,Junior Data Scientist,$40K - $75K (Employer est.),-1,"Arbor Research & Trading, LLC","Lake Barrington, Lake, IL",-1,-1,-1,-1,-1,-1
+766,Data Engineer,$90K - $130K (Employer est.),-1,Synergis,Remote,-1,-1,-1,-1,-1,-1
+767,Data Scientist - Innovation in Analytical Chemistry,$95K (Employer est.),4.0,Firmenich,"Plainsboro, NJ",5001 to 10000 Employees,1895,Chemical Manufacturing,Chemical Manufacturing,$2 to $5 billion (USD),Company - Private
+768,Jr. Data Scientist,$60K - $91K (Employer est.),-1,Event Dynamic,"Dallas, TX",-1,-1,-1,-1,-1,-1
+769,"EXPERT DATA SCIENTIST (OPERATIONS RESEARCH EMPHASIS) Open to remote work, except the following locations: CO, SD, VT, and WV",-1,4.1,NIKE INC,"Warren, OR",10000+ Employees,1972,Consumer Products Manufacturing,Consumer Products Manufacturing,$10+ billion (USD),Company - Public
+770,Remote Data Scientist,-1,3.6,City of Hope,California,5001 to 10000 Employees,1913,Health Care Services & Hospitals,Health Care Services & Hospitals,$100 to $500 million (USD),Nonprofit Organization
+771,Data Analyst (ML and AI),-1,5.0,Envision2bWell Inc,Remote,1 to 50 Employees,Company - Private,-1,-1,-1,Unknown / Non-Applicable
+772,Data Scientist- Development Program,$85K - $113K (Employer est.),3.5,National Security Agency,"Fort Meade, MD",Unknown,Government,Government,Government,-1,Federal Agencies
+773,Data Scientist,$73K - $135K (Glassdoor est.),3.9,Altria,"Richmond, VA",5001 to 10000 Employees,1919,Consumer Products Manufacturing,Consumer Products Manufacturing,$10+ billion (USD),Company - Public
+774,Data Scientist,$160K (Employer est.),5.0,Engtal,Remote,1 to 50 Employees,2017,Staffing & Outsourcing,Staffing & Outsourcing,$5 to $10 million (USD),Company - Private
+775,Data Scientist,$120K - $130K (Employer est.),4.1,Systems Personnel,"Buffalo, NY",1 to 50 Employees,1996,Staffing & Outsourcing,Staffing & Outsourcing,$5 to $10 million (USD),Company - Private
+776,Data Scientist,$125K (Employer est.),-1,PAIIR Solutions,"Suffern, NY",-1,-1,-1,-1,-1,-1
+777,Data Scientist,$30 - $47 Per Hour(Employer est.),-1,Insight Global Health,Remote,Unknown,Company - Public,-1,-1,-1,Unknown / Non-Applicable
+778,"Data Scientist II- Must be local to Indianapolis, IN",$65 - $67 Per Hour(Employer est.),3.8,Tailored Management,"Indianapolis, IN",51 to 200 Employees,2002,Staffing & Outsourcing,Staffing & Outsourcing,$50 to $100 million (USD),Company - Private
+779,Data Scientist,-1,3.6,TikTok,"Mountain View, CA",501 to 1000 Employees,2016,Internet,Internet,Unknown / Non-Applicable,Company - Private
+780,"Data Scientist 1, People Analytics (remote position)",$62K - $123K (Glassdoor est.),3.7,Nordstrom Inc,"Seattle, WA",10000+ Employees,1901,"Department, Clothing, & Shoe Stores","Department, Clothing, & Shoe Stores",$10+ billion (USD),Company - Public
+781,Data Scientist,$150K (Employer est.),4.3,American Capital Group,"Bellevue, WA",51 to 200 Employees,1986,Real Estate,Real Estate,Unknown / Non-Applicable,Company - Private
+782,Data Scientist,$100K - $125K (Employer est.),4.5,Sightly,Remote,1 to 50 Employees,Company - Public,Business Services,Business Services,-1,Advertising & Marketing
+783,Data Scientist,,4.0,"Continental Finance Company, LLC","Wilmington, DE",51 to 200 Employees,2005,Lending,Lending,$5 to $10 million (USD),Company - Private
+784,Data Scientist,$35 - $75 Per Hour(Employer est.),-1,MetLife Legal Plans,Remote,-1,-1,-1,-1,-1,-1
+785,Data Scientist,-1,4.8,Density Inc.,Remote,1 to 50 Employees,2014,Internet,Internet,Unknown / Non-Applicable,Company - Private
+786,"EXPERT DATA SCIENTIST (OPERATIONS RESEARCH EMPHASIS) Open to remote work, except the following locations: CO, SD, VT, and WV",-1,4.1,NIKE INC,"Warren, OR",10000+ Employees,1972,Consumer Products Manufacturing,Consumer Products Manufacturing,$10+ billion (USD),Company - Public
+787,Data Scientist,$100K - $125K (Employer est.),-1,"VoltaGrid, LLC",Remote,-1,-1,-1,-1,-1,-1
+788,Data Scientist,$145K - $175K (Employer est.),-1,EpochGeo,"Reston, VA",-1,-1,-1,-1,-1,-1
+789,Data Scientist,$78K - $133K (Glassdoor est.),4.5,PowerAdvocate,"Boston, MA",51 to 200 Employees,1999,Energy,Energy,Unknown / Non-Applicable,Company - Public
+790,Data Scientist (Health Care),$33 - $50 Per Hour(Employer est.),3.4,Vinformatix,Remote,1 to 50 Employees,2008,Computer Hardware & Software,Computer Hardware & Software,$1 to $5 million (USD),Company - Private
+791,Data Scientist,$57K - $80K (Employer est.),-1,Miller Bros Solar,Remote,-1,-1,-1,-1,-1,-1
+792,Data Scientist,$63K - $120K (Glassdoor est.),3.3,Cyient,"Phoenix, AZ",10000+ Employees,1991,IT Services,IT Services,$100 to $500 million (USD),Company - Public
+793,"Principal Data Scientist, Enterprise AI & ML Reusable Products Open to remote work, except the following locations: CO, SD, VT, and WV",-1,4.1,NIKE INC,"Sherwood, OR",10000+ Employees,1972,Consumer Products Manufacturing,Consumer Products Manufacturing,$10+ billion (USD),Company - Public
+794,Data Science Engineer,$85K - $95K (Employer est.),3.7,M-Tech Systems USA,Remote,51 to 200 Employees,Company - Public,Information Technology,Information Technology,-1,Computer Hardware & Software
+795,Data Scientist,$74K - $185K (Employer est.),3.7,Cambridge Technology Inc.,"Atlanta, GA",201 to 500 Employees,1999,IT Services,IT Services,Unknown / Non-Applicable,Company - Public
+796,"Sr. Data Scientist, Sport Activity Open to remote work, except the following locations: CO, SD, VT, and WV",-1,4.1,NIKE INC,"Banks, OR",10000+ Employees,1972,Consumer Products Manufacturing,Consumer Products Manufacturing,$10+ billion (USD),Company - Public
+797,Data Scientist - Innovation in Analytical Chemistry,$95K (Employer est.),4.0,Firmenich,"Plainsboro, NJ",5001 to 10000 Employees,1895,Chemical Manufacturing,Chemical Manufacturing,$2 to $5 billion (USD),Company - Private
+798,Jr. Data Scientist,$60K - $91K (Employer est.),-1,Event Dynamic,"Dallas, TX",-1,-1,-1,-1,-1,-1
+799,Data Scientist,$160K (Employer est.),5.0,Engtal,Remote,1 to 50 Employees,2017,Staffing & Outsourcing,Staffing & Outsourcing,$5 to $10 million (USD),Company - Private
+800,Data Scientist,$30 - $47 Per Hour(Employer est.),-1,Insight Global Health,Remote,Unknown,Company - Public,-1,-1,-1,Unknown / Non-Applicable
+801,Predictive Modeler,$75K - $125K (Employer est.),3.4,Lancer Insurance Company,Remote,201 to 500 Employees,1985,Insurance Carriers,Insurance Carriers,$100 to $500 million (USD),Company - Private
+802,Remote Data Scientist,-1,3.6,City of Hope,California,5001 to 10000 Employees,1913,Health Care Services & Hospitals,Health Care Services & Hospitals,$100 to $500 million (USD),Nonprofit Organization
+803,Data Analyst (ML and AI),-1,5.0,Envision2bWell Inc,Remote,1 to 50 Employees,Company - Private,-1,-1,-1,Unknown / Non-Applicable
+804,Data Scientist- Development Program,$85K - $113K (Employer est.),3.5,National Security Agency,"Fort Meade, MD",Unknown,Government,Government,Government,-1,Federal Agencies
+805,Data Scientist - SQL/Tableau,$66K - $128K (Glassdoor est.),4.5,Ursus,"Seattle, WA",51 to 200 Employees,2015,IT Services,IT Services,Unknown / Non-Applicable,Company - Private
+806,Data Scientist,$73K - $135K (Glassdoor est.),3.9,Altria,"Richmond, VA",5001 to 10000 Employees,1919,Consumer Products Manufacturing,Consumer Products Manufacturing,$10+ billion (USD),Company - Public
+807,Data Scientist,-1,3.6,TikTok,"Mountain View, CA",501 to 1000 Employees,2016,Internet,Internet,Unknown / Non-Applicable,Company - Private
+808,"Data Scientist II- Must be local to Indianapolis, IN",$65 - $67 Per Hour(Employer est.),3.8,Tailored Management,"Indianapolis, IN",51 to 200 Employees,2002,Staffing & Outsourcing,Staffing & Outsourcing,$50 to $100 million (USD),Company - Private
+809,Data Scientist,$125K (Employer est.),-1,PAIIR Solutions,"Suffern, NY",-1,-1,-1,-1,-1,-1
+810,"Data Scientist 1, People Analytics (remote position)",$62K - $123K (Glassdoor est.),3.7,Nordstrom Inc,"Seattle, WA",10000+ Employees,1901,"Department, Clothing, & Shoe Stores","Department, Clothing, & Shoe Stores",$10+ billion (USD),Company - Public
+811,Data Scientist,$150K (Employer est.),4.3,American Capital Group,"Bellevue, WA",51 to 200 Employees,1986,Real Estate,Real Estate,Unknown / Non-Applicable,Company - Private
+812,Data Scientist,$100K - $125K (Employer est.),4.5,Sightly,Remote,1 to 50 Employees,Company - Public,Business Services,Business Services,-1,Advertising & Marketing
+813,Data Scientist,,-1,MetLife Legal Plans,Remote,-1,-1,-1,-1,-1,-1
+814,Data Scientist,-1,4.8,Density Inc.,Remote,1 to 50 Employees,2014,Internet,Internet,Unknown / Non-Applicable,Company - Private
+815,Data Scientist,$100K - $125K (Employer est.),-1,"VoltaGrid, LLC",Remote,-1,-1,-1,-1,-1,-1
+816,Data Scientist,$145K - $175K (Employer est.),-1,EpochGeo,"Reston, VA",-1,-1,-1,-1,-1,-1
+817,Data Scientist,$57K - $80K (Employer est.),-1,Miller Bros Solar,Remote,-1,-1,-1,-1,-1,-1
+818,Data Scientist (Health Care),$33 - $50 Per Hour(Employer est.),3.4,Vinformatix,Remote,1 to 50 Employees,2008,Computer Hardware & Software,Computer Hardware & Software,$1 to $5 million (USD),Company - Private
+819,Predictive Modeler,$75K - $125K (Employer est.),3.4,Lancer Insurance Company,Remote,201 to 500 Employees,1985,Insurance Carriers,Insurance Carriers,$100 to $500 million (USD),Company - Private
+820,Data Scientist,-1,-1,Event Dynamic,"Dallas, TX",-1,-1,-1,-1,-1,-1
+821,Data Scientist,$140K - $150K (Employer est.),-1,3-Point Recruiting,Remote,-1,-1,-1,-1,-1,-1
+822,Data Scientist - SQL/Tableau,$66K - $128K (Glassdoor est.),4.5,Ursus,"Seattle, WA",51 to 200 Employees,2015,IT Services,IT Services,Unknown / Non-Applicable,Company - Private
+823,"EXPERT DATA SCIENTIST (OPERATIONS RESEARCH EMPHASIS) Open to remote work, except the following locations: CO, SD, VT, and WV",-1,4.1,NIKE INC,"Warren, OR",10000+ Employees,1972,Consumer Products Manufacturing,Consumer Products Manufacturing,$10+ billion (USD),Company - Public
+824,Data Science Engineer,$85K - $95K (Employer est.),3.7,M-Tech Systems USA,Remote,51 to 200 Employees,Company - Public,Information Technology,Information Technology,-1,Computer Hardware & Software
+825,Data Scientist - Innovation in Analytical Chemistry,$95K (Employer est.),4.0,Firmenich,"Plainsboro, NJ",5001 to 10000 Employees,1895,Chemical Manufacturing,Chemical Manufacturing,$2 to $5 billion (USD),Company - Private
+826,Data Scientist,$160K (Employer est.),5.0,Engtal,Remote,1 to 50 Employees,2017,Staffing & Outsourcing,Staffing & Outsourcing,$5 to $10 million (USD),Company - Private
+827,Remote Data Scientist,-1,3.6,City of Hope,California,5001 to 10000 Employees,1913,Health Care Services & Hospitals,Health Care Services & Hospitals,$100 to $500 million (USD),Nonprofit Organization
+828,Jr. Data Scientist,$60K - $91K (Employer est.),-1,Event Dynamic,"Dallas, TX",-1,-1,-1,-1,-1,-1
+829,Data Scientist- Development Program,$85K - $113K (Employer est.),3.5,National Security Agency,"Fort Meade, MD",Unknown,Government,Government,Government,-1,Federal Agencies
+830,Data Scientist,-1,3.6,TikTok,"Mountain View, CA",,2016,Internet,Internet,Unknown / Non-Applicable,Company - Private
+831,Data Scientist,$73K - $135K (Glassdoor est.),3.9,Altria,"Richmond, VA",5001 to 10000 Employees,1919,Consumer Products Manufacturing,Consumer Products Manufacturing,$10+ billion (USD),Company - Public
+832,Data Scientist,$30 - $47 Per Hour(Employer est.),-1,Insight Global Health,Remote,Unknown,Company - Public,-1,-1,-1,Unknown / Non-Applicable
+833,"Data Scientist II- Must be local to Indianapolis, IN",$65 - $67 Per Hour(Employer est.),3.8,Tailored Management,"Indianapolis, IN",51 to 200 Employees,2002,Staffing & Outsourcing,Staffing & Outsourcing,$50 to $100 million (USD),Company - Private
+834,Data Scientist,$120K - $130K (Employer est.),4.1,Systems Personnel,"Buffalo, NY",1 to 50 Employees,1996,Staffing & Outsourcing,Staffing & Outsourcing,$5 to $10 million (USD),Company - Private
+835,Data Scientist,$125K (Employer est.),-1,PAIIR Solutions,"Suffern, NY",-1,-1,-1,-1,-1,-1
+836,Data Scientist,$85K - $130K (Employer est.),3.9,Brightwing,Remote,51 to 200 Employees,1973,Staffing & Outsourcing,Staffing & Outsourcing,$5 to $10 million (USD),Company - Private
+837,Data Analyst (ML and AI),-1,5.0,Envision2bWell Inc,Remote,1 to 50 Employees,Company - Private,-1,-1,-1,Unknown / Non-Applicable
+838,Data Scientist (Data Analytics),$90K - $110K (Employer est.),4.2,ERPI,"Washington, DC",201 to 500 Employees,2001,Consulting,Consulting,Unknown / Non-Applicable,Company - Private
+839,Data Scientist - Remote,$66K - $139K (Glassdoor est.),4.4,Liberty Personnel Services,"Trevose, PA",1 to 50 Employees,2003,Staffing & Outsourcing,Staffing & Outsourcing,$5 to $10 million (USD),Company - Private
+840,"Data Scientist 1, People Analytics (remote position)",$62K - $123K (Glassdoor est.),3.7,Nordstrom Inc,"Seattle, WA",10000+ Employees,1901,"Department, Clothing, & Shoe Stores","Department, Clothing, & Shoe Stores",$10+ billion (USD),Company - Public
+841,Data Scientist,$150K (Employer est.),4.3,American Capital Group,"Bellevue, WA",51 to 200 Employees,1986,Real Estate,Real Estate,Unknown / Non-Applicable,Company - Private
+842,Data Scientist,$100K - $125K (Employer est.),4.5,Sightly,Remote,1 to 50 Employees,Company - Public,Business Services,Business Services,-1,Advertising & Marketing
+843,Data Scientist,,-1,MetLife Legal Plans,Remote,-1,-1,-1,-1,-1,-1
+844,Data Scientist,-1,4.8,Density Inc.,Remote,1 to 50 Employees,2014,Internet,Internet,Unknown / Non-Applicable,Company - Private
+845,Data Scientist,$100K - $125K (Employer est.),-1,"VoltaGrid, LLC",Remote,-1,-1,-1,-1,-1,-1
+846,Data Scientist,$145K - $175K (Employer est.),-1,EpochGeo,"Washington, DC",-1,-1,-1,-1,-1,-1
+847,Data Scientist,$57K - $80K (Employer est.),-1,Miller Bros Solar,Remote,-1,-1,-1,-1,-1,-1
+848,Data Scientist (Health Care),$33 - $50 Per Hour(Employer est.),3.4,Vinformatix,Remote,1 to 50 Employees,2008,Computer Hardware & Software,Computer Hardware & Software,$1 to $5 million (USD),Company - Private
+849,Data Scientist,-1,-1,Event Dynamic,"Dallas, TX",-1,-1,-1,-1,-1,-1
+850,Data Science Engineer,$85K - $95K (Employer est.),3.7,M-Tech Systems USA,Remote,51 to 200 Employees,Company - Public,Information Technology,Information Technology,-1,Computer Hardware & Software
+851,Data Scientist,$74K - $185K (Employer est.),3.7,Cambridge Technology Inc.,"Atlanta, GA",201 to 500 Employees,1999,IT Services,IT Services,Unknown / Non-Applicable,Company - Public
+852,Data Scientist (Remote - US),-1,3.4,Bon Secours Mercy Health,Ohio,10000+ Employees,2018,Health Care Services & Hospitals,Health Care Services & Hospitals,$5 to $10 billion (USD),Nonprofit Organization
+853,Remote Data Scientist,-1,3.6,City of Hope,California,5001 to 10000 Employees,1913,Health Care Services & Hospitals,Health Care Services & Hospitals,$100 to $500 million (USD),Nonprofit Organization
+854,"EXPERT DATA SCIENTIST (OPERATIONS RESEARCH EMPHASIS) Open to remote work, except the following locations: CO, SD, VT, and WV",-1,4.1,NIKE INC,"Warren, OR",10000+ Employees,1972,Consumer Products Manufacturing,Consumer Products Manufacturing,$10+ billion (USD),Company - Public
+855,Jr. Data Scientist,$60K - $91K (Employer est.),-1,Event Dynamic,"Dallas, TX",-1,-1,-1,-1,-1,-1
+856,Predictive Modeler,$75K - $125K (Employer est.),3.4,Lancer Insurance Company,Remote,201 to 500 Employees,1985,Insurance Carriers,Insurance Carriers,$100 to $500 million (USD),Company - Private
+857,Data Scientist - Innovation in Analytical Chemistry,$95K (Employer est.),4.0,Firmenich,"Plainsboro, NJ",5001 to 10000 Employees,1895,Chemical Manufacturing,Chemical Manufacturing,$2 to $5 billion (USD),Company - Private
+858,"Data Scientist II- Must be local to Indianapolis, IN",$65 - $67 Per Hour(Employer est.),3.8,Tailored Management,"Indianapolis, IN",51 to 200 Employees,2002,Staffing & Outsourcing,Staffing & Outsourcing,$50 to $100 million (USD),Company - Private
+859,Data Scientist,$160K (Employer est.),5.0,Engtal,Remote,1 to 50 Employees,2017,Staffing & Outsourcing,Staffing & Outsourcing,$5 to $10 million (USD),Company - Private
+860,Data Scientist,$125K (Employer est.),-1,PAIIR Solutions,"Suffern, NY",-1,-1,-1,-1,-1,-1
+861,Data Scientist- Development Program,$85K - $113K (Employer est.),3.5,National Security Agency,"Fort Meade, MD",Unknown,Government,Government,Government,-1,Federal Agencies
+862,Data Scientist,$30 - $47 Per Hour(Employer est.),-1,Insight Global Health,Remote,Unknown,Company - Public,-1,-1,-1,Unknown / Non-Applicable
+863,Data Scientist - SQL/Tableau,$66K - $128K (Glassdoor est.),4.5,Ursus,"Seattle, WA",51 to 200 Employees,2015,IT Services,IT Services,Unknown / Non-Applicable,Company - Private
+864,Data Scientist,$73K - $135K (Glassdoor est.),3.9,Altria,"Richmond, VA",5001 to 10000 Employees,1919,Consumer Products Manufacturing,Consumer Products Manufacturing,$10+ billion (USD),Company - Public
+865,Data Scientist,-1,3.6,TikTok,"Mountain View, CA",501 to 1000 Employees,,Internet,Internet,Unknown / Non-Applicable,Company - Private
+866,Data Scientist - Remote,$66K - $139K (Glassdoor est.),4.4,Liberty Personnel Services,"Trevose, PA",1 to 50 Employees,2003,Staffing & Outsourcing,Staffing & Outsourcing,$5 to $10 million (USD),Company - Private
+867,Data Scientist,$85K - $130K (Employer est.),3.9,Brightwing,Remote,51 to 200 Employees,1973,Staffing & Outsourcing,Staffing & Outsourcing,$5 to $10 million (USD),Company - Private
+868,Data Scientist (Data Analytics),$90K - $110K (Employer est.),4.2,ERPI,"Washington, DC",201 to 500 Employees,2001,Consulting,Consulting,Unknown / Non-Applicable,Company - Private
+869,"Data Scientist, Wallet, Payments, & Commerce - Raleigh",-1,4.3,Apple,"Raleigh, NC",10000+ Employees,1976,Computer Hardware & Software,Computer Hardware & Software,$10+ billion (USD),Company - Public
